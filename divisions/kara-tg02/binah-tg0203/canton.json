@@ -1,0 +1,488 @@
+[
+  {
+    "id": "TG020301",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Boufale",
+      "en": "Boufale",
+      "slug": "boufale-tg020301"
+    },
+    "code": {
+      "id": "TG020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0203",
+      "level": 2,
+      "name": {
+        "local": "Binah",
+        "en": "Binah",
+        "slug": "binah-tg0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0203",
+        "level": 2,
+        "name": {
+          "local": "Binah",
+          "en": "Binah",
+          "slug": "binah-tg0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.855",
+      "lon": "1.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020302",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kemerida",
+      "en": "Kemerida",
+      "slug": "kemerida-tg020302"
+    },
+    "code": {
+      "id": "TG020302",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0203",
+      "level": 2,
+      "name": {
+        "local": "Binah",
+        "en": "Binah",
+        "slug": "binah-tg0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0203",
+        "level": 2,
+        "name": {
+          "local": "Binah",
+          "en": "Binah",
+          "slug": "binah-tg0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.617",
+      "lon": "1.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020303",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Ketao",
+      "en": "Ketao",
+      "slug": "ketao-tg020303"
+    },
+    "code": {
+      "id": "TG020303",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0203",
+      "level": 2,
+      "name": {
+        "local": "Binah",
+        "en": "Binah",
+        "slug": "binah-tg0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0203",
+        "level": 2,
+        "name": {
+          "local": "Binah",
+          "en": "Binah",
+          "slug": "binah-tg0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.673",
+      "lon": "1.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020304",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Lama-Dessi",
+      "en": "Lama-Dessi",
+      "slug": "lama-dessi-tg020304"
+    },
+    "code": {
+      "id": "TG020304",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0203",
+      "level": 2,
+      "name": {
+        "local": "Binah",
+        "en": "Binah",
+        "slug": "binah-tg0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0203",
+        "level": 2,
+        "name": {
+          "local": "Binah",
+          "en": "Binah",
+          "slug": "binah-tg0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.73",
+      "lon": "1.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020305",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Pagouda",
+      "en": "Pagouda",
+      "slug": "pagouda-tg020305"
+    },
+    "code": {
+      "id": "TG020305",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0203",
+      "level": 2,
+      "name": {
+        "local": "Binah",
+        "en": "Binah",
+        "slug": "binah-tg0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0203",
+        "level": 2,
+        "name": {
+          "local": "Binah",
+          "en": "Binah",
+          "slug": "binah-tg0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.759",
+      "lon": "1.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020306",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Pessare",
+      "en": "Pessare",
+      "slug": "pessare-tg020306"
+    },
+    "code": {
+      "id": "TG020306",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0203",
+      "level": 2,
+      "name": {
+        "local": "Binah",
+        "en": "Binah",
+        "slug": "binah-tg0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0203",
+        "level": 2,
+        "name": {
+          "local": "Binah",
+          "en": "Binah",
+          "slug": "binah-tg0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.807",
+      "lon": "1.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020307",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Pitikita",
+      "en": "Pitikita",
+      "slug": "pitikita-tg020307"
+    },
+    "code": {
+      "id": "TG020307",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0203",
+      "level": 2,
+      "name": {
+        "local": "Binah",
+        "en": "Binah",
+        "slug": "binah-tg0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0203",
+        "level": 2,
+        "name": {
+          "local": "Binah",
+          "en": "Binah",
+          "slug": "binah-tg0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.766",
+      "lon": "1.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020308",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Sirka",
+      "en": "Sirka",
+      "slug": "sirka-tg020308"
+    },
+    "code": {
+      "id": "TG020308",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0203",
+      "level": 2,
+      "name": {
+        "local": "Binah",
+        "en": "Binah",
+        "slug": "binah-tg0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0203",
+        "level": 2,
+        "name": {
+          "local": "Binah",
+          "en": "Binah",
+          "slug": "binah-tg0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.542",
+      "lon": "1.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020309",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Sola",
+      "en": "Sola",
+      "slug": "sola-tg020309"
+    },
+    "code": {
+      "id": "TG020309",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0203",
+      "level": 2,
+      "name": {
+        "local": "Binah",
+        "en": "Binah",
+        "slug": "binah-tg0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0203",
+        "level": 2,
+        "name": {
+          "local": "Binah",
+          "en": "Binah",
+          "slug": "binah-tg0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.935",
+      "lon": "1.329"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

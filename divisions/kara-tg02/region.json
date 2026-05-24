@@ -1,0 +1,30 @@
+{
+  "id": "TG02",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Kara",
+    "en": "Kara",
+    "slug": "kara-tg02"
+  },
+  "code": {
+    "id": "TG02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "prefecture": 7,
+    "canton": 75
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.565",
+    "lon": "0.808"
+  },
+  "metadata": {},
+  "source": {}
+}

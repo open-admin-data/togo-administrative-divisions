@@ -1,0 +1,272 @@
+[
+  {
+    "id": "TG040401",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Ahlon",
+      "en": "Ahlon",
+      "slug": "ahlon-tg040401"
+    },
+    "code": {
+      "id": "TG040401",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0404",
+      "level": 2,
+      "name": {
+        "local": "Danyi",
+        "en": "Danyi",
+        "slug": "danyi-tg0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0404",
+        "level": 2,
+        "name": {
+          "local": "Danyi",
+          "en": "Danyi",
+          "slug": "danyi-tg0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.279",
+      "lon": "0.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040402",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Danyi Kpeto-Evita",
+      "en": "Danyi Kpeto-Evita",
+      "slug": "danyi-kpeto-evita-tg040402"
+    },
+    "code": {
+      "id": "TG040402",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0404",
+      "level": 2,
+      "name": {
+        "local": "Danyi",
+        "en": "Danyi",
+        "slug": "danyi-tg0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0404",
+        "level": 2,
+        "name": {
+          "local": "Danyi",
+          "en": "Danyi",
+          "slug": "danyi-tg0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.262",
+      "lon": "0.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040403",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Danyi-Kakpa",
+      "en": "Danyi-Kakpa",
+      "slug": "danyi-kakpa-tg040403"
+    },
+    "code": {
+      "id": "TG040403",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0404",
+      "level": 2,
+      "name": {
+        "local": "Danyi",
+        "en": "Danyi",
+        "slug": "danyi-tg0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0404",
+        "level": 2,
+        "name": {
+          "local": "Danyi",
+          "en": "Danyi",
+          "slug": "danyi-tg0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.163",
+      "lon": "0.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040404",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Elavagnon/Atigba",
+      "en": "Elavagnon/Atigba",
+      "slug": "elavagnonatigba-tg040404"
+    },
+    "code": {
+      "id": "TG040404",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0404",
+      "level": 2,
+      "name": {
+        "local": "Danyi",
+        "en": "Danyi",
+        "slug": "danyi-tg0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0404",
+        "level": 2,
+        "name": {
+          "local": "Danyi",
+          "en": "Danyi",
+          "slug": "danyi-tg0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.27",
+      "lon": "0.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040405",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Yikpa",
+      "en": "Yikpa",
+      "slug": "yikpa-tg040405"
+    },
+    "code": {
+      "id": "TG040405",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0404",
+      "level": 2,
+      "name": {
+        "local": "Danyi",
+        "en": "Danyi",
+        "slug": "danyi-tg0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0404",
+        "level": 2,
+        "name": {
+          "local": "Danyi",
+          "en": "Danyi",
+          "slug": "danyi-tg0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.129",
+      "lon": "0.617"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,62 @@
+# Togo Administrative Divisions
+
+> Open dataset of Togo's administrative hierarchy:
+> 5 regions, 40 prefectures, 373 cantons.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total regions: 5
+- Total prefectures: 40
+- Total cantons: 373
+- Coordinates: included (all levels)
+- Last updated: 2026-05-24
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All regions (JSON)](https://raw.githubusercontent.com/open-admin-data/togo-administrative-divisions/main/data/all-region.json)
+- [All prefectures (JSON)](https://raw.githubusercontent.com/open-admin-data/togo-administrative-divisions/main/data/all-prefecture.json)
+- [All cantons (JSON)](https://raw.githubusercontent.com/open-admin-data/togo-administrative-divisions/main/data/all-canton.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/togo-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/togo-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/togo-administrative-divisions/main/data/schema.json)
+
+## Browse by Region
+
+- [Centrale](https://github.com/open-admin-data/togo-administrative-divisions/tree/main/divisions/centrale-tg01/) — 5 prefectures, 59 cantons
+- [Kara](https://github.com/open-admin-data/togo-administrative-divisions/tree/main/divisions/kara-tg02/) — 7 prefectures, 75 cantons
+- [Maritime](https://github.com/open-admin-data/togo-administrative-divisions/tree/main/divisions/maritime-tg03/) — 9 prefectures, 68 cantons
+- [Plateaux](https://github.com/open-admin-data/togo-administrative-divisions/tree/main/divisions/plateaux-tg04/) — 12 prefectures, 103 cantons
+- [Savanes](https://github.com/open-admin-data/togo-administrative-divisions/tree/main/divisions/savanes-tg05/) — 7 prefectures, 68 cantons
+
+## Per-Region Full Data
+
+- [Centrale](https://raw.githubusercontent.com/open-admin-data/togo-administrative-divisions/main/docs/llms-full/centrale-tg01.txt)
+- [Kara](https://raw.githubusercontent.com/open-admin-data/togo-administrative-divisions/main/docs/llms-full/kara-tg02.txt)
+- [Maritime](https://raw.githubusercontent.com/open-admin-data/togo-administrative-divisions/main/docs/llms-full/maritime-tg03.txt)
+- [Plateaux](https://raw.githubusercontent.com/open-admin-data/togo-administrative-divisions/main/docs/llms-full/plateaux-tg04.txt)
+- [Savanes](https://raw.githubusercontent.com/open-admin-data/togo-administrative-divisions/main/docs/llms-full/savanes-tg05.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (region), 2 (prefecture), 3 (canton)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Togo Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/togo-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

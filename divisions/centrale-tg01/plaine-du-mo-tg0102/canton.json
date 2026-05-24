@@ -1,0 +1,272 @@
+[
+  {
+    "id": "TG010201",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Boulohou",
+      "en": "Boulohou",
+      "slug": "boulohou-tg010201"
+    },
+    "code": {
+      "id": "TG010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0102",
+      "level": 2,
+      "name": {
+        "local": "Plaine du Mo",
+        "en": "Plaine du Mo",
+        "slug": "plaine-du-mo-tg0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0102",
+        "level": 2,
+        "name": {
+          "local": "Plaine du Mo",
+          "en": "Plaine du Mo",
+          "slug": "plaine-du-mo-tg0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.685",
+      "lon": "0.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010202",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Djarkpanga",
+      "en": "Djarkpanga",
+      "slug": "djarkpanga-tg010202"
+    },
+    "code": {
+      "id": "TG010202",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0102",
+      "level": 2,
+      "name": {
+        "local": "Plaine du Mo",
+        "en": "Plaine du Mo",
+        "slug": "plaine-du-mo-tg0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0102",
+        "level": 2,
+        "name": {
+          "local": "Plaine du Mo",
+          "en": "Plaine du Mo",
+          "slug": "plaine-du-mo-tg0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.779",
+      "lon": "0.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010203",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kagnigbara",
+      "en": "Kagnigbara",
+      "slug": "kagnigbara-tg010203"
+    },
+    "code": {
+      "id": "TG010203",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0102",
+      "level": 2,
+      "name": {
+        "local": "Plaine du Mo",
+        "en": "Plaine du Mo",
+        "slug": "plaine-du-mo-tg0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0102",
+        "level": 2,
+        "name": {
+          "local": "Plaine du Mo",
+          "en": "Plaine du Mo",
+          "slug": "plaine-du-mo-tg0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.902",
+      "lon": "0.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010204",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Saiboude",
+      "en": "Saiboude",
+      "slug": "saiboude-tg010204"
+    },
+    "code": {
+      "id": "TG010204",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0102",
+      "level": 2,
+      "name": {
+        "local": "Plaine du Mo",
+        "en": "Plaine du Mo",
+        "slug": "plaine-du-mo-tg0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0102",
+        "level": 2,
+        "name": {
+          "local": "Plaine du Mo",
+          "en": "Plaine du Mo",
+          "slug": "plaine-du-mo-tg0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.568",
+      "lon": "0.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010205",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tindjassi",
+      "en": "Tindjassi",
+      "slug": "tindjassi-tg010205"
+    },
+    "code": {
+      "id": "TG010205",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0102",
+      "level": 2,
+      "name": {
+        "local": "Plaine du Mo",
+        "en": "Plaine du Mo",
+        "slug": "plaine-du-mo-tg0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0102",
+        "level": 2,
+        "name": {
+          "local": "Plaine du Mo",
+          "en": "Plaine du Mo",
+          "slug": "plaine-du-mo-tg0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.658",
+      "lon": "0.514"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

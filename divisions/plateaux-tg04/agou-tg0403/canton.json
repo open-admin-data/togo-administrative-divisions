@@ -1,0 +1,596 @@
+[
+  {
+    "id": "TG040301",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Adjahun Fiagbe",
+      "en": "Adjahun Fiagbe",
+      "slug": "adjahun-fiagbe-tg040301"
+    },
+    "code": {
+      "id": "TG040301",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0403",
+      "level": 2,
+      "name": {
+        "local": "Agou",
+        "en": "Agou",
+        "slug": "agou-tg0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0403",
+        "level": 2,
+        "name": {
+          "local": "Agou",
+          "en": "Agou",
+          "slug": "agou-tg0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.762",
+      "lon": "0.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040302",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Adzakpa",
+      "en": "Adzakpa",
+      "slug": "adzakpa-tg040302"
+    },
+    "code": {
+      "id": "TG040302",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0403",
+      "level": 2,
+      "name": {
+        "local": "Agou",
+        "en": "Agou",
+        "slug": "agou-tg0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0403",
+        "level": 2,
+        "name": {
+          "local": "Agou",
+          "en": "Agou",
+          "slug": "agou-tg0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.615",
+      "lon": "0.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040303",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Agotime Nord",
+      "en": "Agotime Nord",
+      "slug": "agotime-nord-tg040303"
+    },
+    "code": {
+      "id": "TG040303",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0403",
+      "level": 2,
+      "name": {
+        "local": "Agou",
+        "en": "Agou",
+        "slug": "agou-tg0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0403",
+        "level": 2,
+        "name": {
+          "local": "Agou",
+          "en": "Agou",
+          "slug": "agou-tg0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.708",
+      "lon": "0.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040304",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Agou Agbetiko/Agou Dzidjole",
+      "en": "Agou Agbetiko/Agou Dzidjole",
+      "slug": "agou-agbetikoagou-dzidjole-tg040304"
+    },
+    "code": {
+      "id": "TG040304",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0403",
+      "level": 2,
+      "name": {
+        "local": "Agou",
+        "en": "Agou",
+        "slug": "agou-tg0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0403",
+        "level": 2,
+        "name": {
+          "local": "Agou",
+          "en": "Agou",
+          "slug": "agou-tg0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.926",
+      "lon": "0.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040305",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Agou Atigbe",
+      "en": "Agou Atigbe",
+      "slug": "agou-atigbe-tg040305"
+    },
+    "code": {
+      "id": "TG040305",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0403",
+      "level": 2,
+      "name": {
+        "local": "Agou",
+        "en": "Agou",
+        "slug": "agou-tg0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0403",
+        "level": 2,
+        "name": {
+          "local": "Agou",
+          "en": "Agou",
+          "slug": "agou-tg0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.79",
+      "lon": "0.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040306",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Agou Gadzepe",
+      "en": "Agou Gadzepe",
+      "slug": "agou-gadzepe-tg040306"
+    },
+    "code": {
+      "id": "TG040306",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0403",
+      "level": 2,
+      "name": {
+        "local": "Agou",
+        "en": "Agou",
+        "slug": "agou-tg0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0403",
+        "level": 2,
+        "name": {
+          "local": "Agou",
+          "en": "Agou",
+          "slug": "agou-tg0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.847",
+      "lon": "0.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040307",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Agou Kebo",
+      "en": "Agou Kebo",
+      "slug": "agou-kebo-tg040307"
+    },
+    "code": {
+      "id": "TG040307",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0403",
+      "level": 2,
+      "name": {
+        "local": "Agou",
+        "en": "Agou",
+        "slug": "agou-tg0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0403",
+        "level": 2,
+        "name": {
+          "local": "Agou",
+          "en": "Agou",
+          "slug": "agou-tg0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.869",
+      "lon": "0.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040308",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Agou Yiboe/Kati",
+      "en": "Agou Yiboe/Kati",
+      "slug": "agou-yiboekati-tg040308"
+    },
+    "code": {
+      "id": "TG040308",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0403",
+      "level": 2,
+      "name": {
+        "local": "Agou",
+        "en": "Agou",
+        "slug": "agou-tg0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0403",
+        "level": 2,
+        "name": {
+          "local": "Agou",
+          "en": "Agou",
+          "slug": "agou-tg0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.907",
+      "lon": "0.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040309",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Agou-Akplolo",
+      "en": "Agou-Akplolo",
+      "slug": "agou-akplolo-tg040309"
+    },
+    "code": {
+      "id": "TG040309",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0403",
+      "level": 2,
+      "name": {
+        "local": "Agou",
+        "en": "Agou",
+        "slug": "agou-tg0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0403",
+        "level": 2,
+        "name": {
+          "local": "Agou",
+          "en": "Agou",
+          "slug": "agou-tg0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.919",
+      "lon": "0.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040310",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Amoussou Kope",
+      "en": "Amoussou Kope",
+      "slug": "amoussou-kope-tg040310"
+    },
+    "code": {
+      "id": "TG040310",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0403",
+      "level": 2,
+      "name": {
+        "local": "Agou",
+        "en": "Agou",
+        "slug": "agou-tg0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0403",
+        "level": 2,
+        "name": {
+          "local": "Agou",
+          "en": "Agou",
+          "slug": "agou-tg0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.662",
+      "lon": "0.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040311",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Gadja",
+      "en": "Gadja",
+      "slug": "gadja-tg040311"
+    },
+    "code": {
+      "id": "TG040311",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0403",
+      "level": 2,
+      "name": {
+        "local": "Agou",
+        "en": "Agou",
+        "slug": "agou-tg0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0403",
+        "level": 2,
+        "name": {
+          "local": "Agou",
+          "en": "Agou",
+          "slug": "agou-tg0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.803",
+      "lon": "0.848"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

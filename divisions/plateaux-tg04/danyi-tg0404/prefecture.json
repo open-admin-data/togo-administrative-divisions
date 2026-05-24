@@ -1,0 +1,47 @@
+{
+  "id": "TG0404",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Danyi",
+    "en": "Danyi",
+    "slug": "danyi-tg0404"
+  },
+  "code": {
+    "id": "TG0404",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG04",
+    "level": 1,
+    "name": {
+      "local": "Plateaux",
+      "en": "Plateaux",
+      "slug": "plateaux-tg04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.231",
+    "lon": "0.693"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,488 @@
+[
+  {
+    "id": "TG040701",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Adeta",
+      "en": "Adeta",
+      "slug": "adeta-tg040701"
+    },
+    "code": {
+      "id": "TG040701",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0407",
+      "level": 2,
+      "name": {
+        "local": "Kpele",
+        "en": "Kpele",
+        "slug": "kpele-tg0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0407",
+        "level": 2,
+        "name": {
+          "local": "Kpele",
+          "en": "Kpele",
+          "slug": "kpele-tg0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.092",
+      "lon": "0.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040702",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Akata",
+      "en": "Akata",
+      "slug": "akata-tg040702"
+    },
+    "code": {
+      "id": "TG040702",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0407",
+      "level": 2,
+      "name": {
+        "local": "Kpele",
+        "en": "Kpele",
+        "slug": "kpele-tg0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0407",
+        "level": 2,
+        "name": {
+          "local": "Kpele",
+          "en": "Kpele",
+          "slug": "kpele-tg0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.045",
+      "lon": "0.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040703",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Gbaladze",
+      "en": "Gbaladze",
+      "slug": "gbaladze-tg040703"
+    },
+    "code": {
+      "id": "TG040703",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0407",
+      "level": 2,
+      "name": {
+        "local": "Kpele",
+        "en": "Kpele",
+        "slug": "kpele-tg0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0407",
+        "level": 2,
+        "name": {
+          "local": "Kpele",
+          "en": "Kpele",
+          "slug": "kpele-tg0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.212",
+      "lon": "0.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040704",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Govie",
+      "en": "Govie",
+      "slug": "govie-tg040704"
+    },
+    "code": {
+      "id": "TG040704",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0407",
+      "level": 2,
+      "name": {
+        "local": "Kpele",
+        "en": "Kpele",
+        "slug": "kpele-tg0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0407",
+        "level": 2,
+        "name": {
+          "local": "Kpele",
+          "en": "Kpele",
+          "slug": "kpele-tg0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.155",
+      "lon": "0.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040705",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kame",
+      "en": "Kame",
+      "slug": "kame-tg040705"
+    },
+    "code": {
+      "id": "TG040705",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0407",
+      "level": 2,
+      "name": {
+        "local": "Kpele",
+        "en": "Kpele",
+        "slug": "kpele-tg0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0407",
+        "level": 2,
+        "name": {
+          "local": "Kpele",
+          "en": "Kpele",
+          "slug": "kpele-tg0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.23",
+      "lon": "0.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040706",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpele-Centre",
+      "en": "Kpele-Centre",
+      "slug": "kpele-centre-tg040706"
+    },
+    "code": {
+      "id": "TG040706",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0407",
+      "level": 2,
+      "name": {
+        "local": "Kpele",
+        "en": "Kpele",
+        "slug": "kpele-tg0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0407",
+        "level": 2,
+        "name": {
+          "local": "Kpele",
+          "en": "Kpele",
+          "slug": "kpele-tg0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.18",
+      "lon": "0.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040707",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpele-Dawlotou",
+      "en": "Kpele-Dawlotou",
+      "slug": "kpele-dawlotou-tg040707"
+    },
+    "code": {
+      "id": "TG040707",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0407",
+      "level": 2,
+      "name": {
+        "local": "Kpele",
+        "en": "Kpele",
+        "slug": "kpele-tg0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0407",
+        "level": 2,
+        "name": {
+          "local": "Kpele",
+          "en": "Kpele",
+          "slug": "kpele-tg0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.014",
+      "lon": "0.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040708",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpele-Dutoe",
+      "en": "Kpele-Dutoe",
+      "slug": "kpele-dutoe-tg040708"
+    },
+    "code": {
+      "id": "TG040708",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0407",
+      "level": 2,
+      "name": {
+        "local": "Kpele",
+        "en": "Kpele",
+        "slug": "kpele-tg0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0407",
+        "level": 2,
+        "name": {
+          "local": "Kpele",
+          "en": "Kpele",
+          "slug": "kpele-tg0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.262",
+      "lon": "0.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040709",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpele-Nord",
+      "en": "Kpele-Nord",
+      "slug": "kpele-nord-tg040709"
+    },
+    "code": {
+      "id": "TG040709",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0407",
+      "level": 2,
+      "name": {
+        "local": "Kpele",
+        "en": "Kpele",
+        "slug": "kpele-tg0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0407",
+        "level": 2,
+        "name": {
+          "local": "Kpele",
+          "en": "Kpele",
+          "slug": "kpele-tg0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.29",
+      "lon": "0.869"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "TG0102",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Plaine du Mo",
+    "en": "Plaine du Mo",
+    "slug": "plaine-du-mo-tg0102"
+  },
+  "code": {
+    "id": "TG0102",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG01",
+    "level": 1,
+    "name": {
+      "local": "Centrale",
+      "en": "Centrale",
+      "slug": "centrale-tg01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG01",
+      "level": 1,
+      "name": {
+        "local": "Centrale",
+        "en": "Centrale",
+        "slug": "centrale-tg01"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.765",
+    "lon": "0.549"
+  },
+  "metadata": {},
+  "source": {}
+}

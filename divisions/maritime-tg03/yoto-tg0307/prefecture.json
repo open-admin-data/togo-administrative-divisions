@@ -1,0 +1,47 @@
+{
+  "id": "TG0307",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Yoto",
+    "en": "Yoto",
+    "slug": "yoto-tg0307"
+  },
+  "code": {
+    "id": "TG0307",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG03",
+    "level": 1,
+    "name": {
+      "local": "Maritime",
+      "en": "Maritime",
+      "slug": "maritime-tg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.67",
+    "lon": "1.452"
+  },
+  "metadata": {},
+  "source": {}
+}

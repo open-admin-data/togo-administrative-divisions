@@ -1,0 +1,47 @@
+{
+  "id": "TG0402",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Wawa",
+    "en": "Wawa",
+    "slug": "wawa-tg0402"
+  },
+  "code": {
+    "id": "TG0402",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG04",
+    "level": 1,
+    "name": {
+      "local": "Plateaux",
+      "en": "Plateaux",
+      "slug": "plateaux-tg04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.543",
+    "lon": "0.76"
+  },
+  "metadata": {},
+  "source": {}
+}

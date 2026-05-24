@@ -1,0 +1,488 @@
+[
+  {
+    "id": "TG020601",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Akponte",
+      "en": "Akponte",
+      "slug": "akponte-tg020601"
+    },
+    "code": {
+      "id": "TG020601",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0206",
+      "level": 2,
+      "name": {
+        "local": "Keran",
+        "en": "Keran",
+        "slug": "keran-tg0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0206",
+        "level": 2,
+        "name": {
+          "local": "Keran",
+          "en": "Keran",
+          "slug": "keran-tg0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.189",
+      "lon": "0.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020602",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Atalote",
+      "en": "Atalote",
+      "slug": "atalote-tg020602"
+    },
+    "code": {
+      "id": "TG020602",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0206",
+      "level": 2,
+      "name": {
+        "local": "Keran",
+        "en": "Keran",
+        "slug": "keran-tg0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0206",
+        "level": 2,
+        "name": {
+          "local": "Keran",
+          "en": "Keran",
+          "slug": "keran-tg0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.948",
+      "lon": "0.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020603",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Helota",
+      "en": "Helota",
+      "slug": "helota-tg020603"
+    },
+    "code": {
+      "id": "TG020603",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0206",
+      "level": 2,
+      "name": {
+        "local": "Keran",
+        "en": "Keran",
+        "slug": "keran-tg0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0206",
+        "level": 2,
+        "name": {
+          "local": "Keran",
+          "en": "Keran",
+          "slug": "keran-tg0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.914",
+      "lon": "0.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020604",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kande",
+      "en": "Kande",
+      "slug": "kande-tg020604"
+    },
+    "code": {
+      "id": "TG020604",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0206",
+      "level": 2,
+      "name": {
+        "local": "Keran",
+        "en": "Keran",
+        "slug": "keran-tg0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0206",
+        "level": 2,
+        "name": {
+          "local": "Keran",
+          "en": "Keran",
+          "slug": "keran-tg0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.977",
+      "lon": "1.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020605",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Koutougou",
+      "en": "Koutougou",
+      "slug": "koutougou-tg020605"
+    },
+    "code": {
+      "id": "TG020605",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0206",
+      "level": 2,
+      "name": {
+        "local": "Keran",
+        "en": "Keran",
+        "slug": "keran-tg0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0206",
+        "level": 2,
+        "name": {
+          "local": "Keran",
+          "en": "Keran",
+          "slug": "keran-tg0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.06",
+      "lon": "1.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020606",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Nadoba",
+      "en": "Nadoba",
+      "slug": "nadoba-tg020606"
+    },
+    "code": {
+      "id": "TG020606",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0206",
+      "level": 2,
+      "name": {
+        "local": "Keran",
+        "en": "Keran",
+        "slug": "keran-tg0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0206",
+        "level": 2,
+        "name": {
+          "local": "Keran",
+          "en": "Keran",
+          "slug": "keran-tg0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.141",
+      "lon": "1.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020607",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Ossacre",
+      "en": "Ossacre",
+      "slug": "ossacre-tg020607"
+    },
+    "code": {
+      "id": "TG020607",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0206",
+      "level": 2,
+      "name": {
+        "local": "Keran",
+        "en": "Keran",
+        "slug": "keran-tg0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0206",
+        "level": 2,
+        "name": {
+          "local": "Keran",
+          "en": "Keran",
+          "slug": "keran-tg0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.069",
+      "lon": "0.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020608",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Pesside",
+      "en": "Pesside",
+      "slug": "pesside-tg020608"
+    },
+    "code": {
+      "id": "TG020608",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0206",
+      "level": 2,
+      "name": {
+        "local": "Keran",
+        "en": "Keran",
+        "slug": "keran-tg0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0206",
+        "level": 2,
+        "name": {
+          "local": "Keran",
+          "en": "Keran",
+          "slug": "keran-tg0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.075",
+      "lon": "0.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020609",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Warengo",
+      "en": "Warengo",
+      "slug": "warengo-tg020609"
+    },
+    "code": {
+      "id": "TG020609",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0206",
+      "level": 2,
+      "name": {
+        "local": "Keran",
+        "en": "Keran",
+        "slug": "keran-tg0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0206",
+        "level": 2,
+        "name": {
+          "local": "Keran",
+          "en": "Keran",
+          "slug": "keran-tg0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.082",
+      "lon": "1.111"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

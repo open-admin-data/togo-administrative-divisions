@@ -1,0 +1,47 @@
+{
+  "id": "TG0309",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Agoe-Nyive",
+    "en": "Agoe-Nyive",
+    "slug": "agoe-nyive-tg0309"
+  },
+  "code": {
+    "id": "TG0309",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG03",
+    "level": 1,
+    "name": {
+      "local": "Maritime",
+      "en": "Maritime",
+      "slug": "maritime-tg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.285",
+    "lon": "1.205"
+  },
+  "metadata": {},
+  "source": {}
+}

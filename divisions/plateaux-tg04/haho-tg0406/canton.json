@@ -1,0 +1,434 @@
+[
+  {
+    "id": "TG040601",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Assrama",
+      "en": "Assrama",
+      "slug": "assrama-tg040601"
+    },
+    "code": {
+      "id": "TG040601",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0406",
+      "level": 2,
+      "name": {
+        "local": "Haho",
+        "en": "Haho",
+        "slug": "haho-tg0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0406",
+        "level": 2,
+        "name": {
+          "local": "Haho",
+          "en": "Haho",
+          "slug": "haho-tg0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.99",
+      "lon": "1.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040602",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Atsave",
+      "en": "Atsave",
+      "slug": "atsave-tg040602"
+    },
+    "code": {
+      "id": "TG040602",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0406",
+      "level": 2,
+      "name": {
+        "local": "Haho",
+        "en": "Haho",
+        "slug": "haho-tg0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0406",
+        "level": 2,
+        "name": {
+          "local": "Haho",
+          "en": "Haho",
+          "slug": "haho-tg0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.874",
+      "lon": "1.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040603",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Dalia",
+      "en": "Dalia",
+      "slug": "dalia-tg040603"
+    },
+    "code": {
+      "id": "TG040603",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0406",
+      "level": 2,
+      "name": {
+        "local": "Haho",
+        "en": "Haho",
+        "slug": "haho-tg0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0406",
+        "level": 2,
+        "name": {
+          "local": "Haho",
+          "en": "Haho",
+          "slug": "haho-tg0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.817",
+      "lon": "1.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040604",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Djemegni",
+      "en": "Djemegni",
+      "slug": "djemegni-tg040604"
+    },
+    "code": {
+      "id": "TG040604",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0406",
+      "level": 2,
+      "name": {
+        "local": "Haho",
+        "en": "Haho",
+        "slug": "haho-tg0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0406",
+        "level": 2,
+        "name": {
+          "local": "Haho",
+          "en": "Haho",
+          "slug": "haho-tg0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.031",
+      "lon": "1.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040605",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpedome",
+      "en": "Kpedome",
+      "slug": "kpedome-tg040605"
+    },
+    "code": {
+      "id": "TG040605",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0406",
+      "level": 2,
+      "name": {
+        "local": "Haho",
+        "en": "Haho",
+        "slug": "haho-tg0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0406",
+        "level": 2,
+        "name": {
+          "local": "Haho",
+          "en": "Haho",
+          "slug": "haho-tg0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.072",
+      "lon": "1.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040606",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpegnon/Haito",
+      "en": "Kpegnon/Haito",
+      "slug": "kpegnonhaito-tg040606"
+    },
+    "code": {
+      "id": "TG040606",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0406",
+      "level": 2,
+      "name": {
+        "local": "Haho",
+        "en": "Haho",
+        "slug": "haho-tg0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0406",
+        "level": 2,
+        "name": {
+          "local": "Haho",
+          "en": "Haho",
+          "slug": "haho-tg0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.187",
+      "lon": "0.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040607",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Notse",
+      "en": "Notse",
+      "slug": "notse-tg040607"
+    },
+    "code": {
+      "id": "TG040607",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0406",
+      "level": 2,
+      "name": {
+        "local": "Haho",
+        "en": "Haho",
+        "slug": "haho-tg0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0406",
+        "level": 2,
+        "name": {
+          "local": "Haho",
+          "en": "Haho",
+          "slug": "haho-tg0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.927",
+      "lon": "1.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040608",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Wahala",
+      "en": "Wahala",
+      "slug": "wahala-tg040608"
+    },
+    "code": {
+      "id": "TG040608",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0406",
+      "level": 2,
+      "name": {
+        "local": "Haho",
+        "en": "Haho",
+        "slug": "haho-tg0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0406",
+        "level": 2,
+        "name": {
+          "local": "Haho",
+          "en": "Haho",
+          "slug": "haho-tg0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.208",
+      "lon": "1.29"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

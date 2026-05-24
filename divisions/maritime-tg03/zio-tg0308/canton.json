@@ -1,0 +1,866 @@
+[
+  {
+    "id": "TG030801",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Abobo",
+      "en": "Abobo",
+      "slug": "abobo-tg030801"
+    },
+    "code": {
+      "id": "TG030801",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0308",
+      "level": 2,
+      "name": {
+        "local": "Zio",
+        "en": "Zio",
+        "slug": "zio-tg0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0308",
+        "level": 2,
+        "name": {
+          "local": "Zio",
+          "en": "Zio",
+          "slug": "zio-tg0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.25",
+      "lon": "1.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030802",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Agbelouve",
+      "en": "Agbelouve",
+      "slug": "agbelouve-tg030802"
+    },
+    "code": {
+      "id": "TG030802",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0308",
+      "level": 2,
+      "name": {
+        "local": "Zio",
+        "en": "Zio",
+        "slug": "zio-tg0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0308",
+        "level": 2,
+        "name": {
+          "local": "Zio",
+          "en": "Zio",
+          "slug": "zio-tg0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.725",
+      "lon": "1.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030803",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Bolou Kpeta",
+      "en": "Bolou Kpeta",
+      "slug": "bolou-kpeta-tg030803"
+    },
+    "code": {
+      "id": "TG030803",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0308",
+      "level": 2,
+      "name": {
+        "local": "Zio",
+        "en": "Zio",
+        "slug": "zio-tg0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0308",
+        "level": 2,
+        "name": {
+          "local": "Zio",
+          "en": "Zio",
+          "slug": "zio-tg0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.446",
+      "lon": "1.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030804",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Dalave",
+      "en": "Dalave",
+      "slug": "dalave-tg030804"
+    },
+    "code": {
+      "id": "TG030804",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0308",
+      "level": 2,
+      "name": {
+        "local": "Zio",
+        "en": "Zio",
+        "slug": "zio-tg0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0308",
+        "level": 2,
+        "name": {
+          "local": "Zio",
+          "en": "Zio",
+          "slug": "zio-tg0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.342",
+      "lon": "1.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030805",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Davie",
+      "en": "Davie",
+      "slug": "davie-tg030805"
+    },
+    "code": {
+      "id": "TG030805",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0308",
+      "level": 2,
+      "name": {
+        "local": "Zio",
+        "en": "Zio",
+        "slug": "zio-tg0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0308",
+        "level": 2,
+        "name": {
+          "local": "Zio",
+          "en": "Zio",
+          "slug": "zio-tg0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.356",
+      "lon": "1.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030806",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Djagble",
+      "en": "Djagble",
+      "slug": "djagble-tg030806"
+    },
+    "code": {
+      "id": "TG030806",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0308",
+      "level": 2,
+      "name": {
+        "local": "Zio",
+        "en": "Zio",
+        "slug": "zio-tg0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0308",
+        "level": 2,
+        "name": {
+          "local": "Zio",
+          "en": "Zio",
+          "slug": "zio-tg0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.239",
+      "lon": "1.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030807",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Game",
+      "en": "Game",
+      "slug": "game-tg030807"
+    },
+    "code": {
+      "id": "TG030807",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0308",
+      "level": 2,
+      "name": {
+        "local": "Zio",
+        "en": "Zio",
+        "slug": "zio-tg0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0308",
+        "level": 2,
+        "name": {
+          "local": "Zio",
+          "en": "Zio",
+          "slug": "zio-tg0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.748",
+      "lon": "1.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030808",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Gape Kpodji",
+      "en": "Gape Kpodji",
+      "slug": "gape-kpodji-tg030808"
+    },
+    "code": {
+      "id": "TG030808",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0308",
+      "level": 2,
+      "name": {
+        "local": "Zio",
+        "en": "Zio",
+        "slug": "zio-tg0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0308",
+        "level": 2,
+        "name": {
+          "local": "Zio",
+          "en": "Zio",
+          "slug": "zio-tg0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.709",
+      "lon": "0.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030809",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Gape-Centre",
+      "en": "Gape-Centre",
+      "slug": "gape-centre-tg030809"
+    },
+    "code": {
+      "id": "TG030809",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0308",
+      "level": 2,
+      "name": {
+        "local": "Zio",
+        "en": "Zio",
+        "slug": "zio-tg0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0308",
+        "level": 2,
+        "name": {
+          "local": "Zio",
+          "en": "Zio",
+          "slug": "zio-tg0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.602",
+      "lon": "1.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030810",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Gbatope",
+      "en": "Gbatope",
+      "slug": "gbatope-tg030810"
+    },
+    "code": {
+      "id": "TG030810",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0308",
+      "level": 2,
+      "name": {
+        "local": "Zio",
+        "en": "Zio",
+        "slug": "zio-tg0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0308",
+        "level": 2,
+        "name": {
+          "local": "Zio",
+          "en": "Zio",
+          "slug": "zio-tg0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.487",
+      "lon": "1.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030811",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Gblainvie",
+      "en": "Gblainvie",
+      "slug": "gblainvie-tg030811"
+    },
+    "code": {
+      "id": "TG030811",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0308",
+      "level": 2,
+      "name": {
+        "local": "Zio",
+        "en": "Zio",
+        "slug": "zio-tg0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0308",
+        "level": 2,
+        "name": {
+          "local": "Zio",
+          "en": "Zio",
+          "slug": "zio-tg0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.497",
+      "lon": "1.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030812",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kovie",
+      "en": "Kovie",
+      "slug": "kovie-tg030812"
+    },
+    "code": {
+      "id": "TG030812",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0308",
+      "level": 2,
+      "name": {
+        "local": "Zio",
+        "en": "Zio",
+        "slug": "zio-tg0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0308",
+        "level": 2,
+        "name": {
+          "local": "Zio",
+          "en": "Zio",
+          "slug": "zio-tg0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.333",
+      "lon": "1.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030813",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpome",
+      "en": "Kpome",
+      "slug": "kpome-tg030813"
+    },
+    "code": {
+      "id": "TG030813",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0308",
+      "level": 2,
+      "name": {
+        "local": "Zio",
+        "en": "Zio",
+        "slug": "zio-tg0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0308",
+        "level": 2,
+        "name": {
+          "local": "Zio",
+          "en": "Zio",
+          "slug": "zio-tg0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.339",
+      "lon": "1.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030814",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Mission-Tove",
+      "en": "Mission-Tove",
+      "slug": "mission-tove-tg030814"
+    },
+    "code": {
+      "id": "TG030814",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0308",
+      "level": 2,
+      "name": {
+        "local": "Zio",
+        "en": "Zio",
+        "slug": "zio-tg0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0308",
+        "level": 2,
+        "name": {
+          "local": "Zio",
+          "en": "Zio",
+          "slug": "zio-tg0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.301",
+      "lon": "1.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030815",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tsevie",
+      "en": "Tsevie",
+      "slug": "tsevie-tg030815"
+    },
+    "code": {
+      "id": "TG030815",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0308",
+      "level": 2,
+      "name": {
+        "local": "Zio",
+        "en": "Zio",
+        "slug": "zio-tg0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0308",
+        "level": 2,
+        "name": {
+          "local": "Zio",
+          "en": "Zio",
+          "slug": "zio-tg0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.494",
+      "lon": "1.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030816",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Wli",
+      "en": "Wli",
+      "slug": "wli-tg030816"
+    },
+    "code": {
+      "id": "TG030816",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0308",
+      "level": 2,
+      "name": {
+        "local": "Zio",
+        "en": "Zio",
+        "slug": "zio-tg0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0308",
+        "level": 2,
+        "name": {
+          "local": "Zio",
+          "en": "Zio",
+          "slug": "zio-tg0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.397",
+      "lon": "1.123"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

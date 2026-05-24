@@ -1,0 +1,380 @@
+[
+  {
+    "id": "TG030101",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Akepe",
+      "en": "Akepe",
+      "slug": "akepe-tg030101"
+    },
+    "code": {
+      "id": "TG030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0301",
+      "level": 2,
+      "name": {
+        "local": "Ave",
+        "en": "Ave",
+        "slug": "ave-tg0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0301",
+        "level": 2,
+        "name": {
+          "local": "Ave",
+          "en": "Ave",
+          "slug": "ave-tg0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.231",
+      "lon": "1.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030102",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Assahoun/Ando Peme",
+      "en": "Assahoun/Ando Peme",
+      "slug": "assahounando-peme-tg030102"
+    },
+    "code": {
+      "id": "TG030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0301",
+      "level": 2,
+      "name": {
+        "local": "Ave",
+        "en": "Ave",
+        "slug": "ave-tg0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0301",
+        "level": 2,
+        "name": {
+          "local": "Ave",
+          "en": "Ave",
+          "slug": "ave-tg0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.499",
+      "lon": "0.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030103",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Badja",
+      "en": "Badja",
+      "slug": "badja-tg030103"
+    },
+    "code": {
+      "id": "TG030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0301",
+      "level": 2,
+      "name": {
+        "local": "Ave",
+        "en": "Ave",
+        "slug": "ave-tg0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0301",
+        "level": 2,
+        "name": {
+          "local": "Ave",
+          "en": "Ave",
+          "slug": "ave-tg0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.376",
+      "lon": "1.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030104",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Dzolo",
+      "en": "Dzolo",
+      "slug": "dzolo-tg030104"
+    },
+    "code": {
+      "id": "TG030104",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0301",
+      "level": 2,
+      "name": {
+        "local": "Ave",
+        "en": "Ave",
+        "slug": "ave-tg0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0301",
+        "level": 2,
+        "name": {
+          "local": "Ave",
+          "en": "Ave",
+          "slug": "ave-tg0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.381",
+      "lon": "0.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030105",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Keve",
+      "en": "Keve",
+      "slug": "keve-tg030105"
+    },
+    "code": {
+      "id": "TG030105",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0301",
+      "level": 2,
+      "name": {
+        "local": "Ave",
+        "en": "Ave",
+        "slug": "ave-tg0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0301",
+        "level": 2,
+        "name": {
+          "local": "Ave",
+          "en": "Ave",
+          "slug": "ave-tg0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.478",
+      "lon": "1.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030106",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Noepe",
+      "en": "Noepe",
+      "slug": "noepe-tg030106"
+    },
+    "code": {
+      "id": "TG030106",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0301",
+      "level": 2,
+      "name": {
+        "local": "Ave",
+        "en": "Ave",
+        "slug": "ave-tg0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0301",
+        "level": 2,
+        "name": {
+          "local": "Ave",
+          "en": "Ave",
+          "slug": "ave-tg0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.278",
+      "lon": "1.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030107",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tovegan",
+      "en": "Tovegan",
+      "slug": "tovegan-tg030107"
+    },
+    "code": {
+      "id": "TG030107",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0301",
+      "level": 2,
+      "name": {
+        "local": "Ave",
+        "en": "Ave",
+        "slug": "ave-tg0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0301",
+        "level": 2,
+        "name": {
+          "local": "Ave",
+          "en": "Ave",
+          "slug": "ave-tg0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.616",
+      "lon": "0.916"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

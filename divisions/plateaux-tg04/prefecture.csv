@@ -1,0 +1,13 @@
+id,name.local,name.en,name.slug,code.id,children_count.canton,geo.lat,geo.lon
+TG0403,Agou,Agou,agou-tg0403,TG0403,11,6.755,0.767
+TG0410,Akebou,Akebou,akebou-tg0410,TG0410,8,7.828,0.753
+TG0401,Amou,Amou,amou-tg0401,TG0401,14,7.54,1.066
+TG0411,Anie,Anie,anie-tg0411,TG0411,6,7.696,1.403
+TG0404,Danyi,Danyi,danyi-tg0404,TG0404,5,7.231,0.693
+TG0405,Est-Mono,Est-Mono,est-mono-tg0405,TG0405,7,8.139,1.448
+TG0406,Haho,Haho,haho-tg0406,TG0406,8,7.025,1.224
+TG0412,Kloto,Kloto,kloto-tg0412,TG0412,12,6.92,0.63
+TG0407,Kpele,Kpele,kpele-tg0407,TG0407,9,7.116,0.806
+TG0408,Moyen-Mono,Moyen-Mono,moyen-mono-tg0408,TG0408,6,7.196,1.558
+TG0409,Ogou,Ogou,ogou-tg0409,TG0409,8,7.463,1.276
+TG0402,Wawa,Wawa,wawa-tg0402,TG0402,9,7.543,0.76

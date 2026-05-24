@@ -1,0 +1,758 @@
+[
+  {
+    "id": "TG040101",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Adiva",
+      "en": "Adiva",
+      "slug": "adiva-tg040101"
+    },
+    "code": {
+      "id": "TG040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0401",
+      "level": 2,
+      "name": {
+        "local": "Amou",
+        "en": "Amou",
+        "slug": "amou-tg0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0401",
+        "level": 2,
+        "name": {
+          "local": "Amou",
+          "en": "Amou",
+          "slug": "amou-tg0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.499",
+      "lon": "1.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040102",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Amou-Oblo",
+      "en": "Amou-Oblo",
+      "slug": "amou-oblo-tg040102"
+    },
+    "code": {
+      "id": "TG040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0401",
+      "level": 2,
+      "name": {
+        "local": "Amou",
+        "en": "Amou",
+        "slug": "amou-tg0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0401",
+        "level": 2,
+        "name": {
+          "local": "Amou",
+          "en": "Amou",
+          "slug": "amou-tg0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.361",
+      "lon": "0.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040103",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Avedje",
+      "en": "Avedje",
+      "slug": "avedje-tg040103"
+    },
+    "code": {
+      "id": "TG040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0401",
+      "level": 2,
+      "name": {
+        "local": "Amou",
+        "en": "Amou",
+        "slug": "amou-tg0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0401",
+        "level": 2,
+        "name": {
+          "local": "Amou",
+          "en": "Amou",
+          "slug": "amou-tg0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.422",
+      "lon": "1.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040104",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Ekpegnon",
+      "en": "Ekpegnon",
+      "slug": "ekpegnon-tg040104"
+    },
+    "code": {
+      "id": "TG040104",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0401",
+      "level": 2,
+      "name": {
+        "local": "Amou",
+        "en": "Amou",
+        "slug": "amou-tg0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0401",
+        "level": 2,
+        "name": {
+          "local": "Amou",
+          "en": "Amou",
+          "slug": "amou-tg0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.307",
+      "lon": "0.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040105",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Evou",
+      "en": "Evou",
+      "slug": "evou-tg040105"
+    },
+    "code": {
+      "id": "TG040105",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0401",
+      "level": 2,
+      "name": {
+        "local": "Amou",
+        "en": "Amou",
+        "slug": "amou-tg0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0401",
+        "level": 2,
+        "name": {
+          "local": "Amou",
+          "en": "Amou",
+          "slug": "amou-tg0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.524",
+      "lon": "1.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040106",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Game",
+      "en": "Game",
+      "slug": "game-tg040106"
+    },
+    "code": {
+      "id": "TG040106",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0401",
+      "level": 2,
+      "name": {
+        "local": "Amou",
+        "en": "Amou",
+        "slug": "amou-tg0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0401",
+        "level": 2,
+        "name": {
+          "local": "Amou",
+          "en": "Amou",
+          "slug": "amou-tg0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.771",
+      "lon": "1.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040107",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Hiheatro",
+      "en": "Hiheatro",
+      "slug": "hiheatro-tg040107"
+    },
+    "code": {
+      "id": "TG040107",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0401",
+      "level": 2,
+      "name": {
+        "local": "Amou",
+        "en": "Amou",
+        "slug": "amou-tg0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0401",
+        "level": 2,
+        "name": {
+          "local": "Amou",
+          "en": "Amou",
+          "slug": "amou-tg0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.581",
+      "lon": "1.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040108",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Imle",
+      "en": "Imle",
+      "slug": "imle-tg040108"
+    },
+    "code": {
+      "id": "TG040108",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0401",
+      "level": 2,
+      "name": {
+        "local": "Amou",
+        "en": "Amou",
+        "slug": "amou-tg0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0401",
+        "level": 2,
+        "name": {
+          "local": "Amou",
+          "en": "Amou",
+          "slug": "amou-tg0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.462",
+      "lon": "0.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040109",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpategan",
+      "en": "Kpategan",
+      "slug": "kpategan-tg040109"
+    },
+    "code": {
+      "id": "TG040109",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0401",
+      "level": 2,
+      "name": {
+        "local": "Amou",
+        "en": "Amou",
+        "slug": "amou-tg0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0401",
+        "level": 2,
+        "name": {
+          "local": "Amou",
+          "en": "Amou",
+          "slug": "amou-tg0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.36",
+      "lon": "1.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040110",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Okpahoe",
+      "en": "Okpahoe",
+      "slug": "okpahoe-tg040110"
+    },
+    "code": {
+      "id": "TG040110",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0401",
+      "level": 2,
+      "name": {
+        "local": "Amou",
+        "en": "Amou",
+        "slug": "amou-tg0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0401",
+        "level": 2,
+        "name": {
+          "local": "Amou",
+          "en": "Amou",
+          "slug": "amou-tg0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.62",
+      "lon": "1.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040111",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Otadi",
+      "en": "Otadi",
+      "slug": "otadi-tg040111"
+    },
+    "code": {
+      "id": "TG040111",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0401",
+      "level": 2,
+      "name": {
+        "local": "Amou",
+        "en": "Amou",
+        "slug": "amou-tg0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0401",
+        "level": 2,
+        "name": {
+          "local": "Amou",
+          "en": "Amou",
+          "slug": "amou-tg0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.72",
+      "lon": "0.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040112",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Ouma-Amlame",
+      "en": "Ouma-Amlame",
+      "slug": "ouma-amlame-tg040112"
+    },
+    "code": {
+      "id": "TG040112",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0401",
+      "level": 2,
+      "name": {
+        "local": "Amou",
+        "en": "Amou",
+        "slug": "amou-tg0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0401",
+        "level": 2,
+        "name": {
+          "local": "Amou",
+          "en": "Amou",
+          "slug": "amou-tg0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.461",
+      "lon": "0.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040113",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Sodo",
+      "en": "Sodo",
+      "slug": "sodo-tg040113"
+    },
+    "code": {
+      "id": "TG040113",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0401",
+      "level": 2,
+      "name": {
+        "local": "Amou",
+        "en": "Amou",
+        "slug": "amou-tg0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0401",
+        "level": 2,
+        "name": {
+          "local": "Amou",
+          "en": "Amou",
+          "slug": "amou-tg0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.328",
+      "lon": "0.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040114",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Temedja",
+      "en": "Temedja",
+      "slug": "temedja-tg040114"
+    },
+    "code": {
+      "id": "TG040114",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0401",
+      "level": 2,
+      "name": {
+        "local": "Amou",
+        "en": "Amou",
+        "slug": "amou-tg0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0401",
+        "level": 2,
+        "name": {
+          "local": "Amou",
+          "en": "Amou",
+          "slug": "amou-tg0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.463",
+      "lon": "1.068"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

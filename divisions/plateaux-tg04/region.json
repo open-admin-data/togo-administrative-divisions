@@ -1,0 +1,30 @@
+{
+  "id": "TG04",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Plateaux",
+    "en": "Plateaux",
+    "slug": "plateaux-tg04"
+  },
+  "code": {
+    "id": "TG04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "prefecture": 12,
+    "canton": 103
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.496",
+    "lon": "1.095"
+  },
+  "metadata": {},
+  "source": {}
+}

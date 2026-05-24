@@ -1,0 +1,650 @@
+[
+  {
+    "id": "TG020401",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Bapure",
+      "en": "Bapure",
+      "slug": "bapure-tg020401"
+    },
+    "code": {
+      "id": "TG020401",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0204",
+      "level": 2,
+      "name": {
+        "local": "Dankpen",
+        "en": "Dankpen",
+        "slug": "dankpen-tg0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0204",
+        "level": 2,
+        "name": {
+          "local": "Dankpen",
+          "en": "Dankpen",
+          "slug": "dankpen-tg0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.523",
+      "lon": "0.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020402",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Guerin-Kouka",
+      "en": "Guerin-Kouka",
+      "slug": "guerin-kouka-tg020402"
+    },
+    "code": {
+      "id": "TG020402",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0204",
+      "level": 2,
+      "name": {
+        "local": "Dankpen",
+        "en": "Dankpen",
+        "slug": "dankpen-tg0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0204",
+        "level": 2,
+        "name": {
+          "local": "Dankpen",
+          "en": "Dankpen",
+          "slug": "dankpen-tg0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.729",
+      "lon": "0.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020403",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Katchamba",
+      "en": "Katchamba",
+      "slug": "katchamba-tg020403"
+    },
+    "code": {
+      "id": "TG020403",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0204",
+      "level": 2,
+      "name": {
+        "local": "Dankpen",
+        "en": "Dankpen",
+        "slug": "dankpen-tg0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0204",
+        "level": 2,
+        "name": {
+          "local": "Dankpen",
+          "en": "Dankpen",
+          "slug": "dankpen-tg0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.874",
+      "lon": "0.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020404",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kidjaboun",
+      "en": "Kidjaboun",
+      "slug": "kidjaboun-tg020404"
+    },
+    "code": {
+      "id": "TG020404",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0204",
+      "level": 2,
+      "name": {
+        "local": "Dankpen",
+        "en": "Dankpen",
+        "slug": "dankpen-tg0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0204",
+        "level": 2,
+        "name": {
+          "local": "Dankpen",
+          "en": "Dankpen",
+          "slug": "dankpen-tg0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.771",
+      "lon": "0.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020405",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Koulfiekou",
+      "en": "Koulfiekou",
+      "slug": "koulfiekou-tg020405"
+    },
+    "code": {
+      "id": "TG020405",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0204",
+      "level": 2,
+      "name": {
+        "local": "Dankpen",
+        "en": "Dankpen",
+        "slug": "dankpen-tg0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0204",
+        "level": 2,
+        "name": {
+          "local": "Dankpen",
+          "en": "Dankpen",
+          "slug": "dankpen-tg0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.935",
+      "lon": "0.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020406",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Koutchitcheou",
+      "en": "Koutchitcheou",
+      "slug": "koutchitcheou-tg020406"
+    },
+    "code": {
+      "id": "TG020406",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0204",
+      "level": 2,
+      "name": {
+        "local": "Dankpen",
+        "en": "Dankpen",
+        "slug": "dankpen-tg0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0204",
+        "level": 2,
+        "name": {
+          "local": "Dankpen",
+          "en": "Dankpen",
+          "slug": "dankpen-tg0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.627",
+      "lon": "0.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020407",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Namon",
+      "en": "Namon",
+      "slug": "namon-tg020407"
+    },
+    "code": {
+      "id": "TG020407",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0204",
+      "level": 2,
+      "name": {
+        "local": "Dankpen",
+        "en": "Dankpen",
+        "slug": "dankpen-tg0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0204",
+        "level": 2,
+        "name": {
+          "local": "Dankpen",
+          "en": "Dankpen",
+          "slug": "dankpen-tg0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.696",
+      "lon": "0.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020408",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Nampoch",
+      "en": "Nampoch",
+      "slug": "nampoch-tg020408"
+    },
+    "code": {
+      "id": "TG020408",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0204",
+      "level": 2,
+      "name": {
+        "local": "Dankpen",
+        "en": "Dankpen",
+        "slug": "dankpen-tg0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0204",
+        "level": 2,
+        "name": {
+          "local": "Dankpen",
+          "en": "Dankpen",
+          "slug": "dankpen-tg0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.818",
+      "lon": "0.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020409",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Nandouta",
+      "en": "Nandouta",
+      "slug": "nandouta-tg020409"
+    },
+    "code": {
+      "id": "TG020409",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0204",
+      "level": 2,
+      "name": {
+        "local": "Dankpen",
+        "en": "Dankpen",
+        "slug": "dankpen-tg0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0204",
+        "level": 2,
+        "name": {
+          "local": "Dankpen",
+          "en": "Dankpen",
+          "slug": "dankpen-tg0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.518",
+      "lon": "0.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020410",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Natchibore",
+      "en": "Natchibore",
+      "slug": "natchibore-tg020410"
+    },
+    "code": {
+      "id": "TG020410",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0204",
+      "level": 2,
+      "name": {
+        "local": "Dankpen",
+        "en": "Dankpen",
+        "slug": "dankpen-tg0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0204",
+        "level": 2,
+        "name": {
+          "local": "Dankpen",
+          "en": "Dankpen",
+          "slug": "dankpen-tg0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.817",
+      "lon": "0.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020411",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Natchitikpi",
+      "en": "Natchitikpi",
+      "slug": "natchitikpi-tg020411"
+    },
+    "code": {
+      "id": "TG020411",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0204",
+      "level": 2,
+      "name": {
+        "local": "Dankpen",
+        "en": "Dankpen",
+        "slug": "dankpen-tg0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0204",
+        "level": 2,
+        "name": {
+          "local": "Dankpen",
+          "en": "Dankpen",
+          "slug": "dankpen-tg0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.724",
+      "lon": "0.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020412",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Naware",
+      "en": "Naware",
+      "slug": "naware-tg020412"
+    },
+    "code": {
+      "id": "TG020412",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0204",
+      "level": 2,
+      "name": {
+        "local": "Dankpen",
+        "en": "Dankpen",
+        "slug": "dankpen-tg0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0204",
+        "level": 2,
+        "name": {
+          "local": "Dankpen",
+          "en": "Dankpen",
+          "slug": "dankpen-tg0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.61",
+      "lon": "0.472"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

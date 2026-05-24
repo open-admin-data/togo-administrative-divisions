@@ -1,0 +1,542 @@
+[
+  {
+    "id": "TG020201",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Baghan",
+      "en": "Baghan",
+      "slug": "baghan-tg020201"
+    },
+    "code": {
+      "id": "TG020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0202",
+      "level": 2,
+      "name": {
+        "local": "Bassar",
+        "en": "Bassar",
+        "slug": "bassar-tg0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0202",
+        "level": 2,
+        "name": {
+          "local": "Bassar",
+          "en": "Bassar",
+          "slug": "bassar-tg0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.982",
+      "lon": "0.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020202",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Bangeli",
+      "en": "Bangeli",
+      "slug": "bangeli-tg020202"
+    },
+    "code": {
+      "id": "TG020202",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0202",
+      "level": 2,
+      "name": {
+        "local": "Bassar",
+        "en": "Bassar",
+        "slug": "bassar-tg0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0202",
+        "level": 2,
+        "name": {
+          "local": "Bassar",
+          "en": "Bassar",
+          "slug": "bassar-tg0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.408",
+      "lon": "0.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020203",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Bassar",
+      "en": "Bassar",
+      "slug": "bassar-tg020203"
+    },
+    "code": {
+      "id": "TG020203",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0202",
+      "level": 2,
+      "name": {
+        "local": "Bassar",
+        "en": "Bassar",
+        "slug": "bassar-tg0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0202",
+        "level": 2,
+        "name": {
+          "local": "Bassar",
+          "en": "Bassar",
+          "slug": "bassar-tg0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.211",
+      "lon": "0.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020204",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Bitchabe",
+      "en": "Bitchabe",
+      "slug": "bitchabe-tg020204"
+    },
+    "code": {
+      "id": "TG020204",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0202",
+      "level": 2,
+      "name": {
+        "local": "Bassar",
+        "en": "Bassar",
+        "slug": "bassar-tg0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0202",
+        "level": 2,
+        "name": {
+          "local": "Bassar",
+          "en": "Bassar",
+          "slug": "bassar-tg0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.306",
+      "lon": "0.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020205",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Dimori",
+      "en": "Dimori",
+      "slug": "dimori-tg020205"
+    },
+    "code": {
+      "id": "TG020205",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0202",
+      "level": 2,
+      "name": {
+        "local": "Bassar",
+        "en": "Bassar",
+        "slug": "bassar-tg0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0202",
+        "level": 2,
+        "name": {
+          "local": "Bassar",
+          "en": "Bassar",
+          "slug": "bassar-tg0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.171",
+      "lon": "0.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020206",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kabou",
+      "en": "Kabou",
+      "slug": "kabou-tg020206"
+    },
+    "code": {
+      "id": "TG020206",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0202",
+      "level": 2,
+      "name": {
+        "local": "Bassar",
+        "en": "Bassar",
+        "slug": "bassar-tg0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0202",
+        "level": 2,
+        "name": {
+          "local": "Bassar",
+          "en": "Bassar",
+          "slug": "bassar-tg0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.508",
+      "lon": "0.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020207",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kalanga",
+      "en": "Kalanga",
+      "slug": "kalanga-tg020207"
+    },
+    "code": {
+      "id": "TG020207",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0202",
+      "level": 2,
+      "name": {
+        "local": "Bassar",
+        "en": "Bassar",
+        "slug": "bassar-tg0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0202",
+        "level": 2,
+        "name": {
+          "local": "Bassar",
+          "en": "Bassar",
+          "slug": "bassar-tg0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.273",
+      "lon": "0.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020208",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Manga",
+      "en": "Manga",
+      "slug": "manga-tg020208"
+    },
+    "code": {
+      "id": "TG020208",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0202",
+      "level": 2,
+      "name": {
+        "local": "Bassar",
+        "en": "Bassar",
+        "slug": "bassar-tg0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0202",
+        "level": 2,
+        "name": {
+          "local": "Bassar",
+          "en": "Bassar",
+          "slug": "bassar-tg0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.566",
+      "lon": "0.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020209",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Sanda-Afohou",
+      "en": "Sanda-Afohou",
+      "slug": "sanda-afohou-tg020209"
+    },
+    "code": {
+      "id": "TG020209",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0202",
+      "level": 2,
+      "name": {
+        "local": "Bassar",
+        "en": "Bassar",
+        "slug": "bassar-tg0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0202",
+        "level": 2,
+        "name": {
+          "local": "Bassar",
+          "en": "Bassar",
+          "slug": "bassar-tg0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.477",
+      "lon": "0.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020210",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Sanda-Kagbanda",
+      "en": "Sanda-Kagbanda",
+      "slug": "sanda-kagbanda-tg020210"
+    },
+    "code": {
+      "id": "TG020210",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0202",
+      "level": 2,
+      "name": {
+        "local": "Bassar",
+        "en": "Bassar",
+        "slug": "bassar-tg0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0202",
+        "level": 2,
+        "name": {
+          "local": "Bassar",
+          "en": "Bassar",
+          "slug": "bassar-tg0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.491",
+      "lon": "0.893"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

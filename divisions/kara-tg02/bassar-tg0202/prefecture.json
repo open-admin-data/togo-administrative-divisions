@@ -1,0 +1,47 @@
+{
+  "id": "TG0202",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Bassar",
+    "en": "Bassar",
+    "slug": "bassar-tg0202"
+  },
+  "code": {
+    "id": "TG0202",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG02",
+    "level": 1,
+    "name": {
+      "local": "Kara",
+      "en": "Kara",
+      "slug": "kara-tg02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG02",
+      "level": 1,
+      "name": {
+        "local": "Kara",
+        "en": "Kara",
+        "slug": "kara-tg02"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.252",
+    "lon": "0.769"
+  },
+  "metadata": {},
+  "source": {}
+}

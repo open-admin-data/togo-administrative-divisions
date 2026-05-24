@@ -1,0 +1,47 @@
+{
+  "id": "TG0407",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Kpele",
+    "en": "Kpele",
+    "slug": "kpele-tg0407"
+  },
+  "code": {
+    "id": "TG0407",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG04",
+    "level": 1,
+    "name": {
+      "local": "Plateaux",
+      "en": "Plateaux",
+      "slug": "plateaux-tg04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.116",
+    "lon": "0.806"
+  },
+  "metadata": {},
+  "source": {}
+}

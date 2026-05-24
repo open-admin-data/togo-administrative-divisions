@@ -1,0 +1,218 @@
+[
+  {
+    "id": "TG051301",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Borgou",
+      "en": "Borgou",
+      "slug": "borgou-tg051301"
+    },
+    "code": {
+      "id": "TG051301",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0513",
+      "level": 2,
+      "name": {
+        "local": "Kpendjal",
+        "en": "Kpendjal",
+        "slug": "kpendjal-tg0513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0513",
+        "level": 2,
+        "name": {
+          "local": "Kpendjal",
+          "en": "Kpendjal",
+          "slug": "kpendjal-tg0513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.763",
+      "lon": "0.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051302",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Koundjoare",
+      "en": "Koundjoare",
+      "slug": "koundjoare-tg051302"
+    },
+    "code": {
+      "id": "TG051302",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0513",
+      "level": 2,
+      "name": {
+        "local": "Kpendjal",
+        "en": "Kpendjal",
+        "slug": "kpendjal-tg0513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0513",
+        "level": 2,
+        "name": {
+          "local": "Kpendjal",
+          "en": "Kpendjal",
+          "slug": "kpendjal-tg0513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.928",
+      "lon": "0.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051303",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Mandouri",
+      "en": "Mandouri",
+      "slug": "mandouri-tg051303"
+    },
+    "code": {
+      "id": "TG051303",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0513",
+      "level": 2,
+      "name": {
+        "local": "Kpendjal",
+        "en": "Kpendjal",
+        "slug": "kpendjal-tg0513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0513",
+        "level": 2,
+        "name": {
+          "local": "Kpendjal",
+          "en": "Kpendjal",
+          "slug": "kpendjal-tg0513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.886",
+      "lon": "0.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051304",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tambigou",
+      "en": "Tambigou",
+      "slug": "tambigou-tg051304"
+    },
+    "code": {
+      "id": "TG051304",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0513",
+      "level": 2,
+      "name": {
+        "local": "Kpendjal",
+        "en": "Kpendjal",
+        "slug": "kpendjal-tg0513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0513",
+        "level": 2,
+        "name": {
+          "local": "Kpendjal",
+          "en": "Kpendjal",
+          "slug": "kpendjal-tg0513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.745",
+      "lon": "0.776"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

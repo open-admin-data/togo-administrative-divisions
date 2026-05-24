@@ -1,0 +1,380 @@
+[
+  {
+    "id": "TG030401",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Agbodrafo",
+      "en": "Agbodrafo",
+      "slug": "agbodrafo-tg030401"
+    },
+    "code": {
+      "id": "TG030401",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0304",
+      "level": 2,
+      "name": {
+        "local": "Lacs",
+        "en": "Lacs",
+        "slug": "lacs-tg0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0304",
+        "level": 2,
+        "name": {
+          "local": "Lacs",
+          "en": "Lacs",
+          "slug": "lacs-tg0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.213",
+      "lon": "1.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030402",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Agouegan",
+      "en": "Agouegan",
+      "slug": "agouegan-tg030402"
+    },
+    "code": {
+      "id": "TG030402",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0304",
+      "level": 2,
+      "name": {
+        "local": "Lacs",
+        "en": "Lacs",
+        "slug": "lacs-tg0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0304",
+        "level": 2,
+        "name": {
+          "local": "Lacs",
+          "en": "Lacs",
+          "slug": "lacs-tg0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.274",
+      "lon": "1.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030403",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Aklakou",
+      "en": "Aklakou",
+      "slug": "aklakou-tg030403"
+    },
+    "code": {
+      "id": "TG030403",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0304",
+      "level": 2,
+      "name": {
+        "local": "Lacs",
+        "en": "Lacs",
+        "slug": "lacs-tg0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0304",
+        "level": 2,
+        "name": {
+          "local": "Lacs",
+          "en": "Lacs",
+          "slug": "lacs-tg0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.339",
+      "lon": "1.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030404",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Aneho",
+      "en": "Aneho",
+      "slug": "aneho-tg030404"
+    },
+    "code": {
+      "id": "TG030404",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0304",
+      "level": 2,
+      "name": {
+        "local": "Lacs",
+        "en": "Lacs",
+        "slug": "lacs-tg0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0304",
+        "level": 2,
+        "name": {
+          "local": "Lacs",
+          "en": "Lacs",
+          "slug": "lacs-tg0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.238",
+      "lon": "1.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030405",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Anfoin",
+      "en": "Anfoin",
+      "slug": "anfoin-tg030405"
+    },
+    "code": {
+      "id": "TG030405",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0304",
+      "level": 2,
+      "name": {
+        "local": "Lacs",
+        "en": "Lacs",
+        "slug": "lacs-tg0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0304",
+        "level": 2,
+        "name": {
+          "local": "Lacs",
+          "en": "Lacs",
+          "slug": "lacs-tg0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.34",
+      "lon": "1.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030406",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Ganave/Fiata",
+      "en": "Ganave/Fiata",
+      "slug": "ganavefiata-tg030406"
+    },
+    "code": {
+      "id": "TG030406",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0304",
+      "level": 2,
+      "name": {
+        "local": "Lacs",
+        "en": "Lacs",
+        "slug": "lacs-tg0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0304",
+        "level": 2,
+        "name": {
+          "local": "Lacs",
+          "en": "Lacs",
+          "slug": "lacs-tg0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.326",
+      "lon": "1.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030407",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Glidji",
+      "en": "Glidji",
+      "slug": "glidji-tg030407"
+    },
+    "code": {
+      "id": "TG030407",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0304",
+      "level": 2,
+      "name": {
+        "local": "Lacs",
+        "en": "Lacs",
+        "slug": "lacs-tg0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0304",
+        "level": 2,
+        "name": {
+          "local": "Lacs",
+          "en": "Lacs",
+          "slug": "lacs-tg0304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.271",
+      "lon": "1.606"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "TG03",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Maritime",
+    "en": "Maritime",
+    "slug": "maritime-tg03"
+  },
+  "code": {
+    "id": "TG03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "prefecture": 9,
+    "canton": 68
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.515",
+    "lon": "1.21"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "TG051801",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpendjaga / Papri",
+      "en": "Kpendjaga / Papri",
+      "slug": "kpendjaga-papri-tg051801"
+    },
+    "code": {
+      "id": "TG051801",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0518",
+      "level": 2,
+      "name": {
+        "local": "Naki-Ouest",
+        "en": "Naki-Ouest",
+        "slug": "naki-ouest-tg0518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0518",
+        "level": 2,
+        "name": {
+          "local": "Naki-Ouest",
+          "en": "Naki-Ouest",
+          "slug": "naki-ouest-tg0518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.994",
+      "lon": "0.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051802",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Naki-Est",
+      "en": "Naki-Est",
+      "slug": "naki-est-tg051802"
+    },
+    "code": {
+      "id": "TG051802",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0518",
+      "level": 2,
+      "name": {
+        "local": "Naki-Ouest",
+        "en": "Naki-Ouest",
+        "slug": "naki-ouest-tg0518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0518",
+        "level": 2,
+        "name": {
+          "local": "Naki-Ouest",
+          "en": "Naki-Ouest",
+          "slug": "naki-ouest-tg0518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.728",
+      "lon": "0.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051803",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Namoundjoga",
+      "en": "Namoundjoga",
+      "slug": "namoundjoga-tg051803"
+    },
+    "code": {
+      "id": "TG051803",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0518",
+      "level": 2,
+      "name": {
+        "local": "Naki-Ouest",
+        "en": "Naki-Ouest",
+        "slug": "naki-ouest-tg0518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0518",
+        "level": 2,
+        "name": {
+          "local": "Naki-Ouest",
+          "en": "Naki-Ouest",
+          "slug": "naki-ouest-tg0518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.898",
+      "lon": "0.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051804",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Nayega",
+      "en": "Nayega",
+      "slug": "nayega-tg051804"
+    },
+    "code": {
+      "id": "TG051804",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0518",
+      "level": 2,
+      "name": {
+        "local": "Naki-Ouest",
+        "en": "Naki-Ouest",
+        "slug": "naki-ouest-tg0518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0518",
+        "level": 2,
+        "name": {
+          "local": "Naki-Ouest",
+          "en": "Naki-Ouest",
+          "slug": "naki-ouest-tg0518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.743",
+      "lon": "0.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051805",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Ogaro",
+      "en": "Ogaro",
+      "slug": "ogaro-tg051805"
+    },
+    "code": {
+      "id": "TG051805",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0518",
+      "level": 2,
+      "name": {
+        "local": "Naki-Ouest",
+        "en": "Naki-Ouest",
+        "slug": "naki-ouest-tg0518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0518",
+        "level": 2,
+        "name": {
+          "local": "Naki-Ouest",
+          "en": "Naki-Ouest",
+          "slug": "naki-ouest-tg0518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.774",
+      "lon": "0.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051806",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Pogno",
+      "en": "Pogno",
+      "slug": "pogno-tg051806"
+    },
+    "code": {
+      "id": "TG051806",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0518",
+      "level": 2,
+      "name": {
+        "local": "Naki-Ouest",
+        "en": "Naki-Ouest",
+        "slug": "naki-ouest-tg0518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0518",
+        "level": 2,
+        "name": {
+          "local": "Naki-Ouest",
+          "en": "Naki-Ouest",
+          "slug": "naki-ouest-tg0518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.962",
+      "lon": "0.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051807",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tambonga",
+      "en": "Tambonga",
+      "slug": "tambonga-tg051807"
+    },
+    "code": {
+      "id": "TG051807",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0518",
+      "level": 2,
+      "name": {
+        "local": "Naki-Ouest",
+        "en": "Naki-Ouest",
+        "slug": "naki-ouest-tg0518"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0518",
+        "level": 2,
+        "name": {
+          "local": "Naki-Ouest",
+          "en": "Naki-Ouest",
+          "slug": "naki-ouest-tg0518"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.939",
+      "lon": "0.453"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

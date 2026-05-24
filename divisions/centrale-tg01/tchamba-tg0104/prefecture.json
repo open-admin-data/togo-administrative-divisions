@@ -1,0 +1,47 @@
+{
+  "id": "TG0104",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Tchamba",
+    "en": "Tchamba",
+    "slug": "tchamba-tg0104"
+  },
+  "code": {
+    "id": "TG0104",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG01",
+    "level": 1,
+    "name": {
+      "local": "Centrale",
+      "en": "Centrale",
+      "slug": "centrale-tg01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG01",
+      "level": 1,
+      "name": {
+        "local": "Centrale",
+        "en": "Centrale",
+        "slug": "centrale-tg01"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.819",
+    "lon": "1.477"
+  },
+  "metadata": {},
+  "source": {}
+}

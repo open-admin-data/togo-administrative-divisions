@@ -1,0 +1,47 @@
+{
+  "id": "TG0515",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Tandjoare",
+    "en": "Tandjoare",
+    "slug": "tandjoare-tg0515"
+  },
+  "code": {
+    "id": "TG0515",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG05",
+    "level": 1,
+    "name": {
+      "local": "Savanes",
+      "en": "Savanes",
+      "slug": "savanes-tg05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG05",
+      "level": 1,
+      "name": {
+        "local": "Savanes",
+        "en": "Savanes",
+        "slug": "savanes-tg05"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.606",
+    "lon": "0.16"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,30 @@
+{
+  "id": "TG05",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Savanes",
+    "en": "Savanes",
+    "slug": "savanes-tg05"
+  },
+  "code": {
+    "id": "TG05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "prefecture": 7,
+    "canton": 68
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.508",
+    "lon": "0.463"
+  },
+  "metadata": {},
+  "source": {}
+}

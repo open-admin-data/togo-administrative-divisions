@@ -1,0 +1,566 @@
+[
+  {
+    "id": "TG0403",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Agou",
+      "en": "Agou",
+      "slug": "agou-tg0403"
+    },
+    "code": {
+      "id": "TG0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.755",
+      "lon": "0.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0410",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Akebou",
+      "en": "Akebou",
+      "slug": "akebou-tg0410"
+    },
+    "code": {
+      "id": "TG0410",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.828",
+      "lon": "0.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0401",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Amou",
+      "en": "Amou",
+      "slug": "amou-tg0401"
+    },
+    "code": {
+      "id": "TG0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.54",
+      "lon": "1.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0411",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Anie",
+      "en": "Anie",
+      "slug": "anie-tg0411"
+    },
+    "code": {
+      "id": "TG0411",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.696",
+      "lon": "1.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0404",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Danyi",
+      "en": "Danyi",
+      "slug": "danyi-tg0404"
+    },
+    "code": {
+      "id": "TG0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.231",
+      "lon": "0.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0405",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Est-Mono",
+      "en": "Est-Mono",
+      "slug": "est-mono-tg0405"
+    },
+    "code": {
+      "id": "TG0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.139",
+      "lon": "1.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0406",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Haho",
+      "en": "Haho",
+      "slug": "haho-tg0406"
+    },
+    "code": {
+      "id": "TG0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.025",
+      "lon": "1.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0412",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Kloto",
+      "en": "Kloto",
+      "slug": "kloto-tg0412"
+    },
+    "code": {
+      "id": "TG0412",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.92",
+      "lon": "0.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0407",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Kpele",
+      "en": "Kpele",
+      "slug": "kpele-tg0407"
+    },
+    "code": {
+      "id": "TG0407",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.116",
+      "lon": "0.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0408",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Moyen-Mono",
+      "en": "Moyen-Mono",
+      "slug": "moyen-mono-tg0408"
+    },
+    "code": {
+      "id": "TG0408",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.196",
+      "lon": "1.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0409",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Ogou",
+      "en": "Ogou",
+      "slug": "ogou-tg0409"
+    },
+    "code": {
+      "id": "TG0409",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.463",
+      "lon": "1.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0402",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Wawa",
+      "en": "Wawa",
+      "slug": "wawa-tg0402"
+    },
+    "code": {
+      "id": "TG0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.543",
+      "lon": "0.76"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

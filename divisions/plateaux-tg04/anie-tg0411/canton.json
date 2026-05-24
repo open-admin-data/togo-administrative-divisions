@@ -1,0 +1,326 @@
+[
+  {
+    "id": "TG041101",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Adogbenou",
+      "en": "Adogbenou",
+      "slug": "adogbenou-tg041101"
+    },
+    "code": {
+      "id": "TG041101",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0411",
+      "level": 2,
+      "name": {
+        "local": "Anie",
+        "en": "Anie",
+        "slug": "anie-tg0411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0411",
+        "level": 2,
+        "name": {
+          "local": "Anie",
+          "en": "Anie",
+          "slug": "anie-tg0411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.813",
+      "lon": "1.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041102",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Anie",
+      "en": "Anie",
+      "slug": "anie-tg041102"
+    },
+    "code": {
+      "id": "TG041102",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0411",
+      "level": 2,
+      "name": {
+        "local": "Anie",
+        "en": "Anie",
+        "slug": "anie-tg0411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0411",
+        "level": 2,
+        "name": {
+          "local": "Anie",
+          "en": "Anie",
+          "slug": "anie-tg0411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.78",
+      "lon": "1.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041103",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Atchinedji",
+      "en": "Atchinedji",
+      "slug": "atchinedji-tg041103"
+    },
+    "code": {
+      "id": "TG041103",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0411",
+      "level": 2,
+      "name": {
+        "local": "Anie",
+        "en": "Anie",
+        "slug": "anie-tg0411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0411",
+        "level": 2,
+        "name": {
+          "local": "Anie",
+          "en": "Anie",
+          "slug": "anie-tg0411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.58",
+      "lon": "1.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041104",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Glitto",
+      "en": "Glitto",
+      "slug": "glitto-tg041104"
+    },
+    "code": {
+      "id": "TG041104",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0411",
+      "level": 2,
+      "name": {
+        "local": "Anie",
+        "en": "Anie",
+        "slug": "anie-tg0411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0411",
+        "level": 2,
+        "name": {
+          "local": "Anie",
+          "en": "Anie",
+          "slug": "anie-tg0411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.602",
+      "lon": "1.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041105",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kolokope",
+      "en": "Kolokope",
+      "slug": "kolokope-tg041105"
+    },
+    "code": {
+      "id": "TG041105",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0411",
+      "level": 2,
+      "name": {
+        "local": "Anie",
+        "en": "Anie",
+        "slug": "anie-tg0411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0411",
+        "level": 2,
+        "name": {
+          "local": "Anie",
+          "en": "Anie",
+          "slug": "anie-tg0411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.765",
+      "lon": "1.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041106",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Pallakoko",
+      "en": "Pallakoko",
+      "slug": "pallakoko-tg041106"
+    },
+    "code": {
+      "id": "TG041106",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0411",
+      "level": 2,
+      "name": {
+        "local": "Anie",
+        "en": "Anie",
+        "slug": "anie-tg0411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0411",
+        "level": 2,
+        "name": {
+          "local": "Anie",
+          "en": "Anie",
+          "slug": "anie-tg0411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.874",
+      "lon": "1.116"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

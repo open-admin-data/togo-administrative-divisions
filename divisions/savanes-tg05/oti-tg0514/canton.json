@@ -1,0 +1,434 @@
+[
+  {
+    "id": "TG051401",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Barkoissi",
+      "en": "Barkoissi",
+      "slug": "barkoissi-tg051401"
+    },
+    "code": {
+      "id": "TG051401",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0514",
+      "level": 2,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-tg0514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0514",
+        "level": 2,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-tg0514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.584",
+      "lon": "0.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051402",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Fare",
+      "en": "Fare",
+      "slug": "fare-tg051402"
+    },
+    "code": {
+      "id": "TG051402",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0514",
+      "level": 2,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-tg0514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0514",
+        "level": 2,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-tg0514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.174",
+      "lon": "0.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051403",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Galangashie",
+      "en": "Galangashie",
+      "slug": "galangashie-tg051403"
+    },
+    "code": {
+      "id": "TG051403",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0514",
+      "level": 2,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-tg0514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0514",
+        "level": 2,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-tg0514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.486",
+      "lon": "0.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051404",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Loko",
+      "en": "Loko",
+      "slug": "loko-tg051404"
+    },
+    "code": {
+      "id": "TG051404",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0514",
+      "level": 2,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-tg0514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0514",
+        "level": 2,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-tg0514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.511",
+      "lon": "0.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051405",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Mango",
+      "en": "Mango",
+      "slug": "mango-tg051405"
+    },
+    "code": {
+      "id": "TG051405",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0514",
+      "level": 2,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-tg0514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0514",
+        "level": 2,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-tg0514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.36",
+      "lon": "0.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051406",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Nagbeni",
+      "en": "Nagbeni",
+      "slug": "nagbeni-tg051406"
+    },
+    "code": {
+      "id": "TG051406",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0514",
+      "level": 2,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-tg0514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0514",
+        "level": 2,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-tg0514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.624",
+      "lon": "0.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051407",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Sadori",
+      "en": "Sadori",
+      "slug": "sadori-tg051407"
+    },
+    "code": {
+      "id": "TG051407",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0514",
+      "level": 2,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-tg0514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0514",
+        "level": 2,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-tg0514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.248",
+      "lon": "0.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051408",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tchanaga",
+      "en": "Tchanaga",
+      "slug": "tchanaga-tg051408"
+    },
+    "code": {
+      "id": "TG051408",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0514",
+      "level": 2,
+      "name": {
+        "local": "Oti",
+        "en": "Oti",
+        "slug": "oti-tg0514"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0514",
+        "level": 2,
+        "name": {
+          "local": "Oti",
+          "en": "Oti",
+          "slug": "oti-tg0514"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.533",
+      "lon": "0.506"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

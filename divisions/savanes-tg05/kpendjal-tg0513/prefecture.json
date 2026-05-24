@@ -1,0 +1,47 @@
+{
+  "id": "TG0513",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Kpendjal",
+    "en": "Kpendjal",
+    "slug": "kpendjal-tg0513"
+  },
+  "code": {
+    "id": "TG0513",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG05",
+    "level": 1,
+    "name": {
+      "local": "Savanes",
+      "en": "Savanes",
+      "slug": "savanes-tg05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG05",
+      "level": 1,
+      "name": {
+        "local": "Savanes",
+        "en": "Savanes",
+        "slug": "savanes-tg05"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.801",
+    "lon": "0.701"
+  },
+  "metadata": {},
+  "source": {}
+}

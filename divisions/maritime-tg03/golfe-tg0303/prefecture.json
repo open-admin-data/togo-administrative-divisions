@@ -1,0 +1,47 @@
+{
+  "id": "TG0303",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Golfe",
+    "en": "Golfe",
+    "slug": "golfe-tg0303"
+  },
+  "code": {
+    "id": "TG0303",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG03",
+    "level": 1,
+    "name": {
+      "local": "Maritime",
+      "en": "Maritime",
+      "slug": "maritime-tg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.19",
+    "lon": "1.134"
+  },
+  "metadata": {},
+  "source": {}
+}

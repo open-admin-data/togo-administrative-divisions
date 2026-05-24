@@ -1,0 +1,488 @@
+[
+  {
+    "id": "TG040201",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Badou",
+      "en": "Badou",
+      "slug": "badou-tg040201"
+    },
+    "code": {
+      "id": "TG040201",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0402",
+      "level": 2,
+      "name": {
+        "local": "Wawa",
+        "en": "Wawa",
+        "slug": "wawa-tg0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0402",
+        "level": 2,
+        "name": {
+          "local": "Wawa",
+          "en": "Wawa",
+          "slug": "wawa-tg0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.563",
+      "lon": "0.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040202",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Doume",
+      "en": "Doume",
+      "slug": "doume-tg040202"
+    },
+    "code": {
+      "id": "TG040202",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0402",
+      "level": 2,
+      "name": {
+        "local": "Wawa",
+        "en": "Wawa",
+        "slug": "wawa-tg0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0402",
+        "level": 2,
+        "name": {
+          "local": "Wawa",
+          "en": "Wawa",
+          "slug": "wawa-tg0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.556",
+      "lon": "0.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040203",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Gobe/Eketo/Gbadi N'Kugna",
+      "en": "Gobe/Eketo/Gbadi N'Kugna",
+      "slug": "gobeeketogbadi-nkugna-tg040203"
+    },
+    "code": {
+      "id": "TG040203",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0402",
+      "level": 2,
+      "name": {
+        "local": "Wawa",
+        "en": "Wawa",
+        "slug": "wawa-tg0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0402",
+        "level": 2,
+        "name": {
+          "local": "Wawa",
+          "en": "Wawa",
+          "slug": "wawa-tg0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "0.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040204",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kessibo",
+      "en": "Kessibo",
+      "slug": "kessibo-tg040204"
+    },
+    "code": {
+      "id": "TG040204",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0402",
+      "level": 2,
+      "name": {
+        "local": "Wawa",
+        "en": "Wawa",
+        "slug": "wawa-tg0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0402",
+        "level": 2,
+        "name": {
+          "local": "Wawa",
+          "en": "Wawa",
+          "slug": "wawa-tg0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.64",
+      "lon": "0.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040205",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Klabe Efoukpa",
+      "en": "Klabe Efoukpa",
+      "slug": "klabe-efoukpa-tg040205"
+    },
+    "code": {
+      "id": "TG040205",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0402",
+      "level": 2,
+      "name": {
+        "local": "Wawa",
+        "en": "Wawa",
+        "slug": "wawa-tg0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0402",
+        "level": 2,
+        "name": {
+          "local": "Wawa",
+          "en": "Wawa",
+          "slug": "wawa-tg0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.602",
+      "lon": "0.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040206",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpete Bena",
+      "en": "Kpete Bena",
+      "slug": "kpete-bena-tg040206"
+    },
+    "code": {
+      "id": "TG040206",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0402",
+      "level": 2,
+      "name": {
+        "local": "Wawa",
+        "en": "Wawa",
+        "slug": "wawa-tg0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0402",
+        "level": 2,
+        "name": {
+          "local": "Wawa",
+          "en": "Wawa",
+          "slug": "wawa-tg0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.439",
+      "lon": "0.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040207",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Okou",
+      "en": "Okou",
+      "slug": "okou-tg040207"
+    },
+    "code": {
+      "id": "TG040207",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0402",
+      "level": 2,
+      "name": {
+        "local": "Wawa",
+        "en": "Wawa",
+        "slug": "wawa-tg0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0402",
+        "level": 2,
+        "name": {
+          "local": "Wawa",
+          "en": "Wawa",
+          "slug": "wawa-tg0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.568",
+      "lon": "0.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040208",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Ounabe",
+      "en": "Ounabe",
+      "slug": "ounabe-tg040208"
+    },
+    "code": {
+      "id": "TG040208",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0402",
+      "level": 2,
+      "name": {
+        "local": "Wawa",
+        "en": "Wawa",
+        "slug": "wawa-tg0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0402",
+        "level": 2,
+        "name": {
+          "local": "Wawa",
+          "en": "Wawa",
+          "slug": "wawa-tg0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.559",
+      "lon": "0.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040209",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tomegbe",
+      "en": "Tomegbe",
+      "slug": "tomegbe-tg040209"
+    },
+    "code": {
+      "id": "TG040209",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0402",
+      "level": 2,
+      "name": {
+        "local": "Wawa",
+        "en": "Wawa",
+        "slug": "wawa-tg0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0402",
+        "level": 2,
+        "name": {
+          "local": "Wawa",
+          "en": "Wawa",
+          "slug": "wawa-tg0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.52",
+      "lon": "0.598"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

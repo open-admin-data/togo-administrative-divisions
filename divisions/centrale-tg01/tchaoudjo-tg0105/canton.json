@@ -1,0 +1,650 @@
+[
+  {
+    "id": "TG010501",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Agoulou",
+      "en": "Agoulou",
+      "slug": "agoulou-tg010501"
+    },
+    "code": {
+      "id": "TG010501",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0105",
+      "level": 2,
+      "name": {
+        "local": "Tchaoudjo",
+        "en": "Tchaoudjo",
+        "slug": "tchaoudjo-tg0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0105",
+        "level": 2,
+        "name": {
+          "local": "Tchaoudjo",
+          "en": "Tchaoudjo",
+          "slug": "tchaoudjo-tg0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.192",
+      "lon": "1.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010502",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Aleheride/Amaide",
+      "en": "Aleheride/Amaide",
+      "slug": "aleherideamaide-tg010502"
+    },
+    "code": {
+      "id": "TG010502",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0105",
+      "level": 2,
+      "name": {
+        "local": "Tchaoudjo",
+        "en": "Tchaoudjo",
+        "slug": "tchaoudjo-tg0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0105",
+        "level": 2,
+        "name": {
+          "local": "Tchaoudjo",
+          "en": "Tchaoudjo",
+          "slug": "tchaoudjo-tg0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.156",
+      "lon": "1.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010503",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kadambara",
+      "en": "Kadambara",
+      "slug": "kadambara-tg010503"
+    },
+    "code": {
+      "id": "TG010503",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0105",
+      "level": 2,
+      "name": {
+        "local": "Tchaoudjo",
+        "en": "Tchaoudjo",
+        "slug": "tchaoudjo-tg0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0105",
+        "level": 2,
+        "name": {
+          "local": "Tchaoudjo",
+          "en": "Tchaoudjo",
+          "slug": "tchaoudjo-tg0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.819",
+      "lon": "1.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010504",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kemeni",
+      "en": "Kemeni",
+      "slug": "kemeni-tg010504"
+    },
+    "code": {
+      "id": "TG010504",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0105",
+      "level": 2,
+      "name": {
+        "local": "Tchaoudjo",
+        "en": "Tchaoudjo",
+        "slug": "tchaoudjo-tg0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0105",
+        "level": 2,
+        "name": {
+          "local": "Tchaoudjo",
+          "en": "Tchaoudjo",
+          "slug": "tchaoudjo-tg0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.196",
+      "lon": "1.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010505",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kolina",
+      "en": "Kolina",
+      "slug": "kolina-tg010505"
+    },
+    "code": {
+      "id": "TG010505",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0105",
+      "level": 2,
+      "name": {
+        "local": "Tchaoudjo",
+        "en": "Tchaoudjo",
+        "slug": "tchaoudjo-tg0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0105",
+        "level": 2,
+        "name": {
+          "local": "Tchaoudjo",
+          "en": "Tchaoudjo",
+          "slug": "tchaoudjo-tg0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.083",
+      "lon": "1.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010506",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Komah",
+      "en": "Komah",
+      "slug": "komah-tg010506"
+    },
+    "code": {
+      "id": "TG010506",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0105",
+      "level": 2,
+      "name": {
+        "local": "Tchaoudjo",
+        "en": "Tchaoudjo",
+        "slug": "tchaoudjo-tg0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0105",
+        "level": 2,
+        "name": {
+          "local": "Tchaoudjo",
+          "en": "Tchaoudjo",
+          "slug": "tchaoudjo-tg0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.996",
+      "lon": "1.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010507",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpangalam",
+      "en": "Kpangalam",
+      "slug": "kpangalam-tg010507"
+    },
+    "code": {
+      "id": "TG010507",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0105",
+      "level": 2,
+      "name": {
+        "local": "Tchaoudjo",
+        "en": "Tchaoudjo",
+        "slug": "tchaoudjo-tg0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0105",
+        "level": 2,
+        "name": {
+          "local": "Tchaoudjo",
+          "en": "Tchaoudjo",
+          "slug": "tchaoudjo-tg0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.096",
+      "lon": "1.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010508",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kparatao",
+      "en": "Kparatao",
+      "slug": "kparatao-tg010508"
+    },
+    "code": {
+      "id": "TG010508",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0105",
+      "level": 2,
+      "name": {
+        "local": "Tchaoudjo",
+        "en": "Tchaoudjo",
+        "slug": "tchaoudjo-tg0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0105",
+        "level": 2,
+        "name": {
+          "local": "Tchaoudjo",
+          "en": "Tchaoudjo",
+          "slug": "tchaoudjo-tg0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.949",
+      "lon": "1.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010509",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpassouade",
+      "en": "Kpassouade",
+      "slug": "kpassouade-tg010509"
+    },
+    "code": {
+      "id": "TG010509",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0105",
+      "level": 2,
+      "name": {
+        "local": "Tchaoudjo",
+        "en": "Tchaoudjo",
+        "slug": "tchaoudjo-tg0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0105",
+        "level": 2,
+        "name": {
+          "local": "Tchaoudjo",
+          "en": "Tchaoudjo",
+          "slug": "tchaoudjo-tg0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.039",
+      "lon": "1.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010510",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Lama-Tessi",
+      "en": "Lama-Tessi",
+      "slug": "lama-tessi-tg010510"
+    },
+    "code": {
+      "id": "TG010510",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0105",
+      "level": 2,
+      "name": {
+        "local": "Tchaoudjo",
+        "en": "Tchaoudjo",
+        "slug": "tchaoudjo-tg0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0105",
+        "level": 2,
+        "name": {
+          "local": "Tchaoudjo",
+          "en": "Tchaoudjo",
+          "slug": "tchaoudjo-tg0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.871",
+      "lon": "1.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010511",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tchalo",
+      "en": "Tchalo",
+      "slug": "tchalo-tg010511"
+    },
+    "code": {
+      "id": "TG010511",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0105",
+      "level": 2,
+      "name": {
+        "local": "Tchaoudjo",
+        "en": "Tchaoudjo",
+        "slug": "tchaoudjo-tg0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0105",
+        "level": 2,
+        "name": {
+          "local": "Tchaoudjo",
+          "en": "Tchaoudjo",
+          "slug": "tchaoudjo-tg0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.968",
+      "lon": "0.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010512",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Wassarabo",
+      "en": "Wassarabo",
+      "slug": "wassarabo-tg010512"
+    },
+    "code": {
+      "id": "TG010512",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0105",
+      "level": 2,
+      "name": {
+        "local": "Tchaoudjo",
+        "en": "Tchaoudjo",
+        "slug": "tchaoudjo-tg0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0105",
+        "level": 2,
+        "name": {
+          "local": "Tchaoudjo",
+          "en": "Tchaoudjo",
+          "slug": "tchaoudjo-tg0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.004",
+      "lon": "1.261"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

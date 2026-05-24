@@ -1,0 +1,434 @@
+[
+  {
+    "id": "TG051701",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Biankouri",
+      "en": "Biankouri",
+      "slug": "biankouri-tg051701"
+    },
+    "code": {
+      "id": "TG051701",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0517",
+      "level": 2,
+      "name": {
+        "local": "Cinkasse",
+        "en": "Cinkasse",
+        "slug": "cinkasse-tg0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0517",
+        "level": 2,
+        "name": {
+          "local": "Cinkasse",
+          "en": "Cinkasse",
+          "slug": "cinkasse-tg0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.025",
+      "lon": "0.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051702",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Boade",
+      "en": "Boade",
+      "slug": "boade-tg051702"
+    },
+    "code": {
+      "id": "TG051702",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0517",
+      "level": 2,
+      "name": {
+        "local": "Cinkasse",
+        "en": "Cinkasse",
+        "slug": "cinkasse-tg0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0517",
+        "level": 2,
+        "name": {
+          "local": "Cinkasse",
+          "en": "Cinkasse",
+          "slug": "cinkasse-tg0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.108",
+      "lon": "-0.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051703",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Cinkasse",
+      "en": "Cinkasse",
+      "slug": "cinkasse-tg051703"
+    },
+    "code": {
+      "id": "TG051703",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0517",
+      "level": 2,
+      "name": {
+        "local": "Cinkasse",
+        "en": "Cinkasse",
+        "slug": "cinkasse-tg0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0517",
+        "level": 2,
+        "name": {
+          "local": "Cinkasse",
+          "en": "Cinkasse",
+          "slug": "cinkasse-tg0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.083",
+      "lon": "0.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051704",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Gnoaga",
+      "en": "Gnoaga",
+      "slug": "gnoaga-tg051704"
+    },
+    "code": {
+      "id": "TG051704",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0517",
+      "level": 2,
+      "name": {
+        "local": "Cinkasse",
+        "en": "Cinkasse",
+        "slug": "cinkasse-tg0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0517",
+        "level": 2,
+        "name": {
+          "local": "Cinkasse",
+          "en": "Cinkasse",
+          "slug": "cinkasse-tg0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.112",
+      "lon": "-0.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051705",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Gouloungoussi",
+      "en": "Gouloungoussi",
+      "slug": "gouloungoussi-tg051705"
+    },
+    "code": {
+      "id": "TG051705",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0517",
+      "level": 2,
+      "name": {
+        "local": "Cinkasse",
+        "en": "Cinkasse",
+        "slug": "cinkasse-tg0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0517",
+        "level": 2,
+        "name": {
+          "local": "Cinkasse",
+          "en": "Cinkasse",
+          "slug": "cinkasse-tg0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.117",
+      "lon": "-0.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051706",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Nadjoundi",
+      "en": "Nadjoundi",
+      "slug": "nadjoundi-tg051706"
+    },
+    "code": {
+      "id": "TG051706",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0517",
+      "level": 2,
+      "name": {
+        "local": "Cinkasse",
+        "en": "Cinkasse",
+        "slug": "cinkasse-tg0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0517",
+        "level": 2,
+        "name": {
+          "local": "Cinkasse",
+          "en": "Cinkasse",
+          "slug": "cinkasse-tg0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.999",
+      "lon": "0.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051707",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Sam-Naba",
+      "en": "Sam-Naba",
+      "slug": "sam-naba-tg051707"
+    },
+    "code": {
+      "id": "TG051707",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0517",
+      "level": 2,
+      "name": {
+        "local": "Cinkasse",
+        "en": "Cinkasse",
+        "slug": "cinkasse-tg0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0517",
+        "level": 2,
+        "name": {
+          "local": "Cinkasse",
+          "en": "Cinkasse",
+          "slug": "cinkasse-tg0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.055",
+      "lon": "0.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051708",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Timbou",
+      "en": "Timbou",
+      "slug": "timbou-tg051708"
+    },
+    "code": {
+      "id": "TG051708",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0517",
+      "level": 2,
+      "name": {
+        "local": "Cinkasse",
+        "en": "Cinkasse",
+        "slug": "cinkasse-tg0517"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0517",
+        "level": 2,
+        "name": {
+          "local": "Cinkasse",
+          "en": "Cinkasse",
+          "slug": "cinkasse-tg0517"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.035",
+      "lon": "0.112"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

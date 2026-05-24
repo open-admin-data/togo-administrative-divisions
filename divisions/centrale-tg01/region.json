@@ -1,0 +1,30 @@
+{
+  "id": "TG01",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Centrale",
+    "en": "Centrale",
+    "slug": "centrale-tg01"
+  },
+  "code": {
+    "id": "TG01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "prefecture": 5,
+    "canton": 59
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.614",
+    "lon": "1.046"
+  },
+  "metadata": {},
+  "source": {}
+}

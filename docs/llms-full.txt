@@ -1,0 +1,21 @@
+# Togo Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [Centrale](https://github.com/open-admin-data/togo-administrative-divisions/blob/main/docs/llms-full/centrale-tg01.txt) — 5 prefectures, 59 cantons
+- [Kara](https://github.com/open-admin-data/togo-administrative-divisions/blob/main/docs/llms-full/kara-tg02.txt) — 7 prefectures, 75 cantons
+- [Maritime](https://github.com/open-admin-data/togo-administrative-divisions/blob/main/docs/llms-full/maritime-tg03.txt) — 9 prefectures, 68 cantons
+- [Plateaux](https://github.com/open-admin-data/togo-administrative-divisions/blob/main/docs/llms-full/plateaux-tg04.txt) — 12 prefectures, 103 cantons
+- [Savanes](https://github.com/open-admin-data/togo-administrative-divisions/blob/main/docs/llms-full/savanes-tg05.txt) — 7 prefectures, 68 cantons
+
+## Summary
+
+| Region | Prefectures | Cantons | 
+|---|---|---|
+| Centrale | 5 | 59 | 
+| Kara | 7 | 75 | 
+| Maritime | 9 | 68 | 
+| Plateaux | 12 | 103 | 
+| Savanes | 7 | 68 | 

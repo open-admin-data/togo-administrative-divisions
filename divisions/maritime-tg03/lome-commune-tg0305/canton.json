@@ -1,0 +1,56 @@
+[
+  {
+    "id": "TG030501",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Lome Commune",
+      "en": "Lome Commune",
+      "slug": "lome-commune-tg030501"
+    },
+    "code": {
+      "id": "TG030501",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0305",
+      "level": 2,
+      "name": {
+        "local": "Lome Commune",
+        "en": "Lome Commune",
+        "slug": "lome-commune-tg0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0305",
+        "level": 2,
+        "name": {
+          "local": "Lome Commune",
+          "en": "Lome Commune",
+          "slug": "lome-commune-tg0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.157",
+      "lon": "1.246"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

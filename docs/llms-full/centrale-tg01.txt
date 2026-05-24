@@ -1,0 +1,270 @@
+# Centrale — Togo Administrative Divisions
+
+> 5 prefectures, 59 cantons
+> Code: TG01
+> Coordinates: 8.614, 1.046
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Prefectures
+
+### Blitta
+
+Code: TG0101, Coordinates: 8.152, 0.933
+Cantons: 21
+
+#### Agbandi
+
+Code: TG010101, Coordinates: 8.249, 1.151
+
+#### Atchintse
+
+Code: TG010102, Coordinates: 7.979, 0.666
+
+#### Blitta Village
+
+Code: TG010103, Coordinates: 8.327, 1.029
+
+#### Blitta-Gare
+
+Code: TG010104, Coordinates: 8.33, 0.979
+
+#### Diguengue
+
+Code: TG010105, Coordinates: 8.064, 0.64
+
+#### Dikpeleou
+
+Code: TG010106, Coordinates: 8.183, 0.614
+
+#### Doufouli
+
+Code: TG010107, Coordinates: 8.305, 0.908
+
+#### Katchenke
+
+Code: TG010108, Coordinates: 8.253, 0.696
+
+#### Koffiti
+
+Code: TG010109, Coordinates: 8.021, 1.141
+
+#### Langabou
+
+Code: TG010110, Coordinates: 8.139, 1.165
+
+#### M&#39;Poti
+
+Code: TG010111, Coordinates: 8.305, 0.802
+
+#### Pagala Gare
+
+Code: TG010112, Coordinates: 8.178, 0.994
+
+#### Pagala Village
+
+Code: TG010113, Coordinates: 8.186, 0.888
+
+#### Tchaloude
+
+Code: TG010114, Coordinates: 8.316, 1.151
+
+#### Tchare-Baou
+
+Code: TG010115, Coordinates: 8.048, 1.044
+
+#### Tchifama
+
+Code: TG010116, Coordinates: 8.177, 0.816
+
+#### Tintchro
+
+Code: TG010117, Coordinates: 8.045, 0.771
+
+#### Waragni
+
+Code: TG010118, Coordinates: 8.252, 1.009
+
+#### Welly
+
+Code: TG010119, Coordinates: 8.054, 0.916
+
+#### Yaloumbe
+
+Code: TG010120, Coordinates: 8.333, 1.094
+
+#### Yegue
+
+Code: TG010121, Coordinates: 8.162, 0.707
+
+### Plaine du Mo
+
+Code: TG0102, Coordinates: 8.765, 0.549
+Cantons: 5
+
+#### Boulohou
+
+Code: TG010201, Coordinates: 8.685, 0.662
+
+#### Djarkpanga
+
+Code: TG010202, Coordinates: 8.779, 0.522
+
+#### Kagnigbara
+
+Code: TG010203, Coordinates: 8.902, 0.647
+
+#### Saiboude
+
+Code: TG010204, Coordinates: 8.568, 0.568
+
+#### Tindjassi
+
+Code: TG010205, Coordinates: 8.658, 0.514
+
+### Sotouboua
+
+Code: TG0103, Coordinates: 8.705, 0.961
+Cantons: 11
+
+#### Adjengere
+
+Code: TG010301, Coordinates: 8.689, 0.942
+
+#### Aouda
+
+Code: TG010302, Coordinates: 8.862, 0.858
+
+#### Bodjonde
+
+Code: TG010303, Coordinates: 8.443, 1.033
+
+#### Fazao
+
+Code: TG010304, Coordinates: 8.749, 0.789
+
+#### Kaniamboua
+
+Code: TG010305, Coordinates: 8.604, 1.003
+
+#### Kazaboua
+
+Code: TG010306, Coordinates: 8.421, 1.143
+
+#### Sessaro
+
+Code: TG010307, Coordinates: 8.597, 1.201
+
+#### Sotouboua
+
+Code: TG010308, Coordinates: 8.558, 0.874
+
+#### Tabinde
+
+Code: TG010309, Coordinates: 8.519, 1.131
+
+#### Tchebebe
+
+Code: TG010310, Coordinates: 8.431, 0.835
+
+#### Titigbe
+
+Code: TG010311, Coordinates: 8.597, 1.094
+
+### Tchamba
+
+Code: TG0104, Coordinates: 8.819, 1.477
+Cantons: 10
+
+#### Affem
+
+Code: TG010401, Coordinates: 9.122, 1.521
+
+#### Alibi
+
+Code: TG010402, Coordinates: 8.813, 1.364
+
+#### Bago
+
+Code: TG010403, Coordinates: 8.439, 1.353
+
+#### Balanka
+
+Code: TG010404, Coordinates: 8.862, 1.6
+
+#### Goubi
+
+Code: TG010405, Coordinates: 8.63, 1.503
+
+#### Kaboli
+
+Code: TG010406, Coordinates: 8.599, 1.359
+
+#### Koussountou
+
+Code: TG010407, Coordinates: 8.847, 1.492
+
+#### Kri-Kri
+
+Code: TG010408, Coordinates: 9.206, 1.457
+
+#### Larni
+
+Code: TG010409, Coordinates: 9.086, 1.422
+
+#### Tchamba
+
+Code: TG010410, Coordinates: 8.992, 1.455
+
+### Tchaoudjo
+
+Code: TG0105, Coordinates: 8.992, 1.13
+Cantons: 12
+
+#### Agoulou
+
+Code: TG010501, Coordinates: 9.192, 1.365
+
+#### Aleheride/Amaide
+
+Code: TG010502, Coordinates: 9.156, 1.159
+
+#### Kadambara
+
+Code: TG010503, Coordinates: 8.819, 1.245
+
+#### Kemeni
+
+Code: TG010504, Coordinates: 9.196, 1.278
+
+#### Kolina
+
+Code: TG010505, Coordinates: 9.083, 1.179
+
+#### Komah
+
+Code: TG010506, Coordinates: 8.996, 1.163
+
+#### Kpangalam
+
+Code: TG010507, Coordinates: 9.096, 1.039
+
+#### Kparatao
+
+Code: TG010508, Coordinates: 8.949, 1.243
+
+#### Kpassouade
+
+Code: TG010509, Coordinates: 9.039, 1.314
+
+#### Lama-Tessi
+
+Code: TG010510, Coordinates: 8.871, 1.08
+
+#### Tchalo
+
+Code: TG010511, Coordinates: 8.968, 0.995
+
+#### Wassarabo
+
+Code: TG010512, Coordinates: 9.004, 1.261
+

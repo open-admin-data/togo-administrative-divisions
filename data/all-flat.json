@@ -1,0 +1,2032 @@
+[
+  {
+    "id": "TG01",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Centrale",
+      "en": "Centrale",
+      "slug": "centrale-tg01"
+    },
+    "code": {
+      "id": "TG01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "prefecture": 5,
+      "canton": 59
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.614",
+      "lon": "1.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0101",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Blitta",
+      "en": "Blitta",
+      "slug": "blitta-tg0101"
+    },
+    "code": {
+      "id": "TG0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG01",
+      "level": 1,
+      "name": {
+        "local": "Centrale",
+        "en": "Centrale",
+        "slug": "centrale-tg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.152",
+      "lon": "0.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0102",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Plaine du Mo",
+      "en": "Plaine du Mo",
+      "slug": "plaine-du-mo-tg0102"
+    },
+    "code": {
+      "id": "TG0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG01",
+      "level": 1,
+      "name": {
+        "local": "Centrale",
+        "en": "Centrale",
+        "slug": "centrale-tg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.765",
+      "lon": "0.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0103",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Sotouboua",
+      "en": "Sotouboua",
+      "slug": "sotouboua-tg0103"
+    },
+    "code": {
+      "id": "TG0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG01",
+      "level": 1,
+      "name": {
+        "local": "Centrale",
+        "en": "Centrale",
+        "slug": "centrale-tg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.705",
+      "lon": "0.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0104",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Tchamba",
+      "en": "Tchamba",
+      "slug": "tchamba-tg0104"
+    },
+    "code": {
+      "id": "TG0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG01",
+      "level": 1,
+      "name": {
+        "local": "Centrale",
+        "en": "Centrale",
+        "slug": "centrale-tg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.819",
+      "lon": "1.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0105",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Tchaoudjo",
+      "en": "Tchaoudjo",
+      "slug": "tchaoudjo-tg0105"
+    },
+    "code": {
+      "id": "TG0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG01",
+      "level": 1,
+      "name": {
+        "local": "Centrale",
+        "en": "Centrale",
+        "slug": "centrale-tg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.992",
+      "lon": "1.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG02",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Kara",
+      "en": "Kara",
+      "slug": "kara-tg02"
+    },
+    "code": {
+      "id": "TG02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "prefecture": 7,
+      "canton": 75
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.565",
+      "lon": "0.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0201",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Assoli",
+      "en": "Assoli",
+      "slug": "assoli-tg0201"
+    },
+    "code": {
+      "id": "TG0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG02",
+      "level": 1,
+      "name": {
+        "local": "Kara",
+        "en": "Kara",
+        "slug": "kara-tg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.337",
+      "lon": "1.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0202",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Bassar",
+      "en": "Bassar",
+      "slug": "bassar-tg0202"
+    },
+    "code": {
+      "id": "TG0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG02",
+      "level": 1,
+      "name": {
+        "local": "Kara",
+        "en": "Kara",
+        "slug": "kara-tg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.252",
+      "lon": "0.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0203",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Binah",
+      "en": "Binah",
+      "slug": "binah-tg0203"
+    },
+    "code": {
+      "id": "TG0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG02",
+      "level": 1,
+      "name": {
+        "local": "Kara",
+        "en": "Kara",
+        "slug": "kara-tg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.754",
+      "lon": "1.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0204",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Dankpen",
+      "en": "Dankpen",
+      "slug": "dankpen-tg0204"
+    },
+    "code": {
+      "id": "TG0204",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG02",
+      "level": 1,
+      "name": {
+        "local": "Kara",
+        "en": "Kara",
+        "slug": "kara-tg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.726",
+      "lon": "0.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0205",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Doufelgou",
+      "en": "Doufelgou",
+      "slug": "doufelgou-tg0205"
+    },
+    "code": {
+      "id": "TG0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG02",
+      "level": 1,
+      "name": {
+        "local": "Kara",
+        "en": "Kara",
+        "slug": "kara-tg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.838",
+      "lon": "1.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0206",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Keran",
+      "en": "Keran",
+      "slug": "keran-tg0206"
+    },
+    "code": {
+      "id": "TG0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG02",
+      "level": 1,
+      "name": {
+        "local": "Kara",
+        "en": "Kara",
+        "slug": "kara-tg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.069",
+      "lon": "0.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0207",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Kozah",
+      "en": "Kozah",
+      "slug": "kozah-tg0207"
+    },
+    "code": {
+      "id": "TG0207",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG02",
+      "level": 1,
+      "name": {
+        "local": "Kara",
+        "en": "Kara",
+        "slug": "kara-tg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.558",
+      "lon": "1.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG03",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Maritime",
+      "en": "Maritime",
+      "slug": "maritime-tg03"
+    },
+    "code": {
+      "id": "TG03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "prefecture": 9,
+      "canton": 68
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.515",
+      "lon": "1.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0301",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Ave",
+      "en": "Ave",
+      "slug": "ave-tg0301"
+    },
+    "code": {
+      "id": "TG0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.439",
+      "lon": "0.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0302",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Bas-Mono",
+      "en": "Bas-Mono",
+      "slug": "bas-mono-tg0302"
+    },
+    "code": {
+      "id": "TG0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.471",
+      "lon": "1.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0303",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Golfe",
+      "en": "Golfe",
+      "slug": "golfe-tg0303"
+    },
+    "code": {
+      "id": "TG0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.19",
+      "lon": "1.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0304",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Lacs",
+      "en": "Lacs",
+      "slug": "lacs-tg0304"
+    },
+    "code": {
+      "id": "TG0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.299",
+      "lon": "1.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0305",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Lome Commune",
+      "en": "Lome Commune",
+      "slug": "lome-commune-tg0305"
+    },
+    "code": {
+      "id": "TG0305",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.157",
+      "lon": "1.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0306",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Vo",
+      "en": "Vo",
+      "slug": "vo-tg0306"
+    },
+    "code": {
+      "id": "TG0306",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.393",
+      "lon": "1.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0307",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Yoto",
+      "en": "Yoto",
+      "slug": "yoto-tg0307"
+    },
+    "code": {
+      "id": "TG0307",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.67",
+      "lon": "1.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0308",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Zio",
+      "en": "Zio",
+      "slug": "zio-tg0308"
+    },
+    "code": {
+      "id": "TG0308",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.533",
+      "lon": "1.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0309",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Agoe-Nyive",
+      "en": "Agoe-Nyive",
+      "slug": "agoe-nyive-tg0309"
+    },
+    "code": {
+      "id": "TG0309",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.285",
+      "lon": "1.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG04",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Plateaux",
+      "en": "Plateaux",
+      "slug": "plateaux-tg04"
+    },
+    "code": {
+      "id": "TG04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "prefecture": 12,
+      "canton": 103
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.496",
+      "lon": "1.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0401",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Amou",
+      "en": "Amou",
+      "slug": "amou-tg0401"
+    },
+    "code": {
+      "id": "TG0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.54",
+      "lon": "1.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0402",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Wawa",
+      "en": "Wawa",
+      "slug": "wawa-tg0402"
+    },
+    "code": {
+      "id": "TG0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.543",
+      "lon": "0.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0403",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Agou",
+      "en": "Agou",
+      "slug": "agou-tg0403"
+    },
+    "code": {
+      "id": "TG0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.755",
+      "lon": "0.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0404",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Danyi",
+      "en": "Danyi",
+      "slug": "danyi-tg0404"
+    },
+    "code": {
+      "id": "TG0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.231",
+      "lon": "0.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0405",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Est-Mono",
+      "en": "Est-Mono",
+      "slug": "est-mono-tg0405"
+    },
+    "code": {
+      "id": "TG0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.139",
+      "lon": "1.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0406",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Haho",
+      "en": "Haho",
+      "slug": "haho-tg0406"
+    },
+    "code": {
+      "id": "TG0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.025",
+      "lon": "1.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0407",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Kpele",
+      "en": "Kpele",
+      "slug": "kpele-tg0407"
+    },
+    "code": {
+      "id": "TG0407",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.116",
+      "lon": "0.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0408",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Moyen-Mono",
+      "en": "Moyen-Mono",
+      "slug": "moyen-mono-tg0408"
+    },
+    "code": {
+      "id": "TG0408",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.196",
+      "lon": "1.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0409",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Ogou",
+      "en": "Ogou",
+      "slug": "ogou-tg0409"
+    },
+    "code": {
+      "id": "TG0409",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.463",
+      "lon": "1.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0410",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Akebou",
+      "en": "Akebou",
+      "slug": "akebou-tg0410"
+    },
+    "code": {
+      "id": "TG0410",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.828",
+      "lon": "0.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0411",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Anie",
+      "en": "Anie",
+      "slug": "anie-tg0411"
+    },
+    "code": {
+      "id": "TG0411",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.696",
+      "lon": "1.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0412",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Kloto",
+      "en": "Kloto",
+      "slug": "kloto-tg0412"
+    },
+    "code": {
+      "id": "TG0412",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.92",
+      "lon": "0.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG05",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Savanes",
+      "en": "Savanes",
+      "slug": "savanes-tg05"
+    },
+    "code": {
+      "id": "TG05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "prefecture": 7,
+      "canton": 68
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.508",
+      "lon": "0.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0513",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Kpendjal",
+      "en": "Kpendjal",
+      "slug": "kpendjal-tg0513"
+    },
+    "code": {
+      "id": "TG0513",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG05",
+      "level": 1,
+      "name": {
+        "local": "Savanes",
+        "en": "Savanes",
+        "slug": "savanes-tg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.801",
+      "lon": "0.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0514",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Oti",
+      "en": "Oti",
+      "slug": "oti-tg0514"
+    },
+    "code": {
+      "id": "TG0514",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG05",
+      "level": 1,
+      "name": {
+        "local": "Savanes",
+        "en": "Savanes",
+        "slug": "savanes-tg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.406",
+      "lon": "0.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0515",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Tandjoare",
+      "en": "Tandjoare",
+      "slug": "tandjoare-tg0515"
+    },
+    "code": {
+      "id": "TG0515",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG05",
+      "level": 1,
+      "name": {
+        "local": "Savanes",
+        "en": "Savanes",
+        "slug": "savanes-tg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.606",
+      "lon": "0.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0516",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Tone",
+      "en": "Tone",
+      "slug": "tone-tg0516"
+    },
+    "code": {
+      "id": "TG0516",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG05",
+      "level": 1,
+      "name": {
+        "local": "Savanes",
+        "en": "Savanes",
+        "slug": "savanes-tg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.868",
+      "lon": "0.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0517",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Cinkasse",
+      "en": "Cinkasse",
+      "slug": "cinkasse-tg0517"
+    },
+    "code": {
+      "id": "TG0517",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG05",
+      "level": 1,
+      "name": {
+        "local": "Savanes",
+        "en": "Savanes",
+        "slug": "savanes-tg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.05",
+      "lon": "0.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0518",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Naki-Ouest",
+      "en": "Naki-Ouest",
+      "slug": "naki-ouest-tg0518"
+    },
+    "code": {
+      "id": "TG0518",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG05",
+      "level": 1,
+      "name": {
+        "local": "Savanes",
+        "en": "Savanes",
+        "slug": "savanes-tg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.831",
+      "lon": "0.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0519",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Oti-Sud",
+      "en": "Oti-Sud",
+      "slug": "oti-sud-tg0519"
+    },
+    "code": {
+      "id": "TG0519",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG05",
+      "level": 1,
+      "name": {
+        "local": "Savanes",
+        "en": "Savanes",
+        "slug": "savanes-tg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.288",
+      "lon": "0.719"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

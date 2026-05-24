@@ -1,0 +1,434 @@
+[
+  {
+    "id": "TG040901",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Akpare",
+      "en": "Akpare",
+      "slug": "akpare-tg040901"
+    },
+    "code": {
+      "id": "TG040901",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0409",
+      "level": 2,
+      "name": {
+        "local": "Ogou",
+        "en": "Ogou",
+        "slug": "ogou-tg0409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0409",
+        "level": 2,
+        "name": {
+          "local": "Ogou",
+          "en": "Ogou",
+          "slug": "ogou-tg0409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.453",
+      "lon": "1.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040902",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Datcha",
+      "en": "Datcha",
+      "slug": "datcha-tg040902"
+    },
+    "code": {
+      "id": "TG040902",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0409",
+      "level": 2,
+      "name": {
+        "local": "Ogou",
+        "en": "Ogou",
+        "slug": "ogou-tg0409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0409",
+        "level": 2,
+        "name": {
+          "local": "Ogou",
+          "en": "Ogou",
+          "slug": "ogou-tg0409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.407",
+      "lon": "1.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040903",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Glei",
+      "en": "Glei",
+      "slug": "glei-tg040903"
+    },
+    "code": {
+      "id": "TG040903",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0409",
+      "level": 2,
+      "name": {
+        "local": "Ogou",
+        "en": "Ogou",
+        "slug": "ogou-tg0409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0409",
+        "level": 2,
+        "name": {
+          "local": "Ogou",
+          "en": "Ogou",
+          "slug": "ogou-tg0409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.281",
+      "lon": "1.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040904",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Gnagna",
+      "en": "Gnagna",
+      "slug": "gnagna-tg040904"
+    },
+    "code": {
+      "id": "TG040904",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0409",
+      "level": 2,
+      "name": {
+        "local": "Ogou",
+        "en": "Ogou",
+        "slug": "ogou-tg0409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0409",
+        "level": 2,
+        "name": {
+          "local": "Ogou",
+          "en": "Ogou",
+          "slug": "ogou-tg0409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.504",
+      "lon": "1.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040905",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Houdou",
+      "en": "Houdou",
+      "slug": "houdou-tg040905"
+    },
+    "code": {
+      "id": "TG040905",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0409",
+      "level": 2,
+      "name": {
+        "local": "Ogou",
+        "en": "Ogou",
+        "slug": "ogou-tg0409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0409",
+        "level": 2,
+        "name": {
+          "local": "Ogou",
+          "en": "Ogou",
+          "slug": "ogou-tg0409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.604",
+      "lon": "1.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040906",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Katore",
+      "en": "Katore",
+      "slug": "katore-tg040906"
+    },
+    "code": {
+      "id": "TG040906",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0409",
+      "level": 2,
+      "name": {
+        "local": "Ogou",
+        "en": "Ogou",
+        "slug": "ogou-tg0409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0409",
+        "level": 2,
+        "name": {
+          "local": "Ogou",
+          "en": "Ogou",
+          "slug": "ogou-tg0409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.384",
+      "lon": "1.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040907",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Ogou",
+      "en": "Ogou",
+      "slug": "ogou-tg040907"
+    },
+    "code": {
+      "id": "TG040907",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0409",
+      "level": 2,
+      "name": {
+        "local": "Ogou",
+        "en": "Ogou",
+        "slug": "ogou-tg0409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0409",
+        "level": 2,
+        "name": {
+          "local": "Ogou",
+          "en": "Ogou",
+          "slug": "ogou-tg0409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.627",
+      "lon": "1.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040908",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Ountivou",
+      "en": "Ountivou",
+      "slug": "ountivou-tg040908"
+    },
+    "code": {
+      "id": "TG040908",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0409",
+      "level": 2,
+      "name": {
+        "local": "Ogou",
+        "en": "Ogou",
+        "slug": "ogou-tg0409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0409",
+        "level": 2,
+        "name": {
+          "local": "Ogou",
+          "en": "Ogou",
+          "slug": "ogou-tg0409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.418",
+      "lon": "1.555"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

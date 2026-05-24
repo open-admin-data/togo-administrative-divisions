@@ -1,0 +1,920 @@
+[
+  {
+    "id": "TG051601",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Bidjenga",
+      "en": "Bidjenga",
+      "slug": "bidjenga-tg051601"
+    },
+    "code": {
+      "id": "TG051601",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0516",
+      "level": 2,
+      "name": {
+        "local": "Tone",
+        "en": "Tone",
+        "slug": "tone-tg0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0516",
+        "level": 2,
+        "name": {
+          "local": "Tone",
+          "en": "Tone",
+          "slug": "tone-tg0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.7",
+      "lon": "0.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051602",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Dapaong",
+      "en": "Dapaong",
+      "slug": "dapaong-tg051602"
+    },
+    "code": {
+      "id": "TG051602",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0516",
+      "level": 2,
+      "name": {
+        "local": "Tone",
+        "en": "Tone",
+        "slug": "tone-tg0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0516",
+        "level": 2,
+        "name": {
+          "local": "Tone",
+          "en": "Tone",
+          "slug": "tone-tg0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.88",
+      "lon": "0.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051603",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kantindi",
+      "en": "Kantindi",
+      "slug": "kantindi-tg051603"
+    },
+    "code": {
+      "id": "TG051603",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0516",
+      "level": 2,
+      "name": {
+        "local": "Tone",
+        "en": "Tone",
+        "slug": "tone-tg0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0516",
+        "level": 2,
+        "name": {
+          "local": "Tone",
+          "en": "Tone",
+          "slug": "tone-tg0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.918",
+      "lon": "0.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051604",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Korbongou",
+      "en": "Korbongou",
+      "slug": "korbongou-tg051604"
+    },
+    "code": {
+      "id": "TG051604",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0516",
+      "level": 2,
+      "name": {
+        "local": "Tone",
+        "en": "Tone",
+        "slug": "tone-tg0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0516",
+        "level": 2,
+        "name": {
+          "local": "Tone",
+          "en": "Tone",
+          "slug": "tone-tg0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.945",
+      "lon": "0.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051605",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kourientre",
+      "en": "Kourientre",
+      "slug": "kourientre-tg051605"
+    },
+    "code": {
+      "id": "TG051605",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0516",
+      "level": 2,
+      "name": {
+        "local": "Tone",
+        "en": "Tone",
+        "slug": "tone-tg0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0516",
+        "level": 2,
+        "name": {
+          "local": "Tone",
+          "en": "Tone",
+          "slug": "tone-tg0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.007",
+      "lon": "0.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051606",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Lotogou/Warkambou",
+      "en": "Lotogou/Warkambou",
+      "slug": "lotogouwarkambou-tg051606"
+    },
+    "code": {
+      "id": "TG051606",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0516",
+      "level": 2,
+      "name": {
+        "local": "Tone",
+        "en": "Tone",
+        "slug": "tone-tg0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0516",
+        "level": 2,
+        "name": {
+          "local": "Tone",
+          "en": "Tone",
+          "slug": "tone-tg0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.83",
+      "lon": "-0.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051607",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Louanga",
+      "en": "Louanga",
+      "slug": "louanga-tg051607"
+    },
+    "code": {
+      "id": "TG051607",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0516",
+      "level": 2,
+      "name": {
+        "local": "Tone",
+        "en": "Tone",
+        "slug": "tone-tg0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0516",
+        "level": 2,
+        "name": {
+          "local": "Tone",
+          "en": "Tone",
+          "slug": "tone-tg0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.89",
+      "lon": "0.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051608",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Naki-Ouest",
+      "en": "Naki-Ouest",
+      "slug": "naki-ouest-tg051608"
+    },
+    "code": {
+      "id": "TG051608",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0516",
+      "level": 2,
+      "name": {
+        "local": "Tone",
+        "en": "Tone",
+        "slug": "tone-tg0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0516",
+        "level": 2,
+        "name": {
+          "local": "Tone",
+          "en": "Tone",
+          "slug": "tone-tg0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.918",
+      "lon": "0.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051609",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Namare",
+      "en": "Namare",
+      "slug": "namare-tg051609"
+    },
+    "code": {
+      "id": "TG051609",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0516",
+      "level": 2,
+      "name": {
+        "local": "Tone",
+        "en": "Tone",
+        "slug": "tone-tg0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0516",
+        "level": 2,
+        "name": {
+          "local": "Tone",
+          "en": "Tone",
+          "slug": "tone-tg0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.971",
+      "lon": "0.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051610",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Nanergou",
+      "en": "Nanergou",
+      "slug": "nanergou-tg051610"
+    },
+    "code": {
+      "id": "TG051610",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0516",
+      "level": 2,
+      "name": {
+        "local": "Tone",
+        "en": "Tone",
+        "slug": "tone-tg0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0516",
+        "level": 2,
+        "name": {
+          "local": "Tone",
+          "en": "Tone",
+          "slug": "tone-tg0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.927",
+      "lon": "0.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051611",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Natigou",
+      "en": "Natigou",
+      "slug": "natigou-tg051611"
+    },
+    "code": {
+      "id": "TG051611",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0516",
+      "level": 2,
+      "name": {
+        "local": "Tone",
+        "en": "Tone",
+        "slug": "tone-tg0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0516",
+        "level": 2,
+        "name": {
+          "local": "Tone",
+          "en": "Tone",
+          "slug": "tone-tg0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.987",
+      "lon": "0.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051612",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Nioukpourma",
+      "en": "Nioukpourma",
+      "slug": "nioukpourma-tg051612"
+    },
+    "code": {
+      "id": "TG051612",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0516",
+      "level": 2,
+      "name": {
+        "local": "Tone",
+        "en": "Tone",
+        "slug": "tone-tg0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0516",
+        "level": 2,
+        "name": {
+          "local": "Tone",
+          "en": "Tone",
+          "slug": "tone-tg0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.838",
+      "lon": "0.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051613",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Pana",
+      "en": "Pana",
+      "slug": "pana-tg051613"
+    },
+    "code": {
+      "id": "TG051613",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0516",
+      "level": 2,
+      "name": {
+        "local": "Tone",
+        "en": "Tone",
+        "slug": "tone-tg0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0516",
+        "level": 2,
+        "name": {
+          "local": "Tone",
+          "en": "Tone",
+          "slug": "tone-tg0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.766",
+      "lon": "0.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051614",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Poissongui",
+      "en": "Poissongui",
+      "slug": "poissongui-tg051614"
+    },
+    "code": {
+      "id": "TG051614",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0516",
+      "level": 2,
+      "name": {
+        "local": "Tone",
+        "en": "Tone",
+        "slug": "tone-tg0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0516",
+        "level": 2,
+        "name": {
+          "local": "Tone",
+          "en": "Tone",
+          "slug": "tone-tg0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.042",
+      "lon": "0.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051615",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Sanfatoute",
+      "en": "Sanfatoute",
+      "slug": "sanfatoute-tg051615"
+    },
+    "code": {
+      "id": "TG051615",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0516",
+      "level": 2,
+      "name": {
+        "local": "Tone",
+        "en": "Tone",
+        "slug": "tone-tg0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0516",
+        "level": 2,
+        "name": {
+          "local": "Tone",
+          "en": "Tone",
+          "slug": "tone-tg0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.015",
+      "lon": "0.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051616",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tami",
+      "en": "Tami",
+      "slug": "tami-tg051616"
+    },
+    "code": {
+      "id": "TG051616",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0516",
+      "level": 2,
+      "name": {
+        "local": "Tone",
+        "en": "Tone",
+        "slug": "tone-tg0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0516",
+        "level": 2,
+        "name": {
+          "local": "Tone",
+          "en": "Tone",
+          "slug": "tone-tg0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.869",
+      "lon": "0.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051617",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Toaga",
+      "en": "Toaga",
+      "slug": "toaga-tg051617"
+    },
+    "code": {
+      "id": "TG051617",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0516",
+      "level": 2,
+      "name": {
+        "local": "Tone",
+        "en": "Tone",
+        "slug": "tone-tg0516"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0516",
+        "level": 2,
+        "name": {
+          "local": "Tone",
+          "en": "Tone",
+          "slug": "tone-tg0516"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.89",
+      "lon": "0.247"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

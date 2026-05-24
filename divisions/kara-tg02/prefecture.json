@@ -1,0 +1,331 @@
+[
+  {
+    "id": "TG0201",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Assoli",
+      "en": "Assoli",
+      "slug": "assoli-tg0201"
+    },
+    "code": {
+      "id": "TG0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG02",
+      "level": 1,
+      "name": {
+        "local": "Kara",
+        "en": "Kara",
+        "slug": "kara-tg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.337",
+      "lon": "1.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0202",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Bassar",
+      "en": "Bassar",
+      "slug": "bassar-tg0202"
+    },
+    "code": {
+      "id": "TG0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG02",
+      "level": 1,
+      "name": {
+        "local": "Kara",
+        "en": "Kara",
+        "slug": "kara-tg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.252",
+      "lon": "0.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0203",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Binah",
+      "en": "Binah",
+      "slug": "binah-tg0203"
+    },
+    "code": {
+      "id": "TG0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG02",
+      "level": 1,
+      "name": {
+        "local": "Kara",
+        "en": "Kara",
+        "slug": "kara-tg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.754",
+      "lon": "1.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0204",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Dankpen",
+      "en": "Dankpen",
+      "slug": "dankpen-tg0204"
+    },
+    "code": {
+      "id": "TG0204",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG02",
+      "level": 1,
+      "name": {
+        "local": "Kara",
+        "en": "Kara",
+        "slug": "kara-tg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.726",
+      "lon": "0.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0205",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Doufelgou",
+      "en": "Doufelgou",
+      "slug": "doufelgou-tg0205"
+    },
+    "code": {
+      "id": "TG0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG02",
+      "level": 1,
+      "name": {
+        "local": "Kara",
+        "en": "Kara",
+        "slug": "kara-tg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.838",
+      "lon": "1.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0206",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Keran",
+      "en": "Keran",
+      "slug": "keran-tg0206"
+    },
+    "code": {
+      "id": "TG0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG02",
+      "level": 1,
+      "name": {
+        "local": "Kara",
+        "en": "Kara",
+        "slug": "kara-tg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.069",
+      "lon": "0.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0207",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Kozah",
+      "en": "Kozah",
+      "slug": "kozah-tg0207"
+    },
+    "code": {
+      "id": "TG0207",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG02",
+      "level": 1,
+      "name": {
+        "local": "Kara",
+        "en": "Kara",
+        "slug": "kara-tg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.558",
+      "lon": "1.143"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

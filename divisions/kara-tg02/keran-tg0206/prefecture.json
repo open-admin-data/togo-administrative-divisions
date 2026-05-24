@@ -1,0 +1,47 @@
+{
+  "id": "TG0206",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Keran",
+    "en": "Keran",
+    "slug": "keran-tg0206"
+  },
+  "code": {
+    "id": "TG0206",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG02",
+    "level": 1,
+    "name": {
+      "local": "Kara",
+      "en": "Kara",
+      "slug": "kara-tg02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG02",
+      "level": 1,
+      "name": {
+        "local": "Kara",
+        "en": "Kara",
+        "slug": "kara-tg02"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.069",
+    "lon": "0.975"
+  },
+  "metadata": {},
+  "source": {}
+}

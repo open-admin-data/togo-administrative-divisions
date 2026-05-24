@@ -1,0 +1,47 @@
+{
+  "id": "TG0406",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Haho",
+    "en": "Haho",
+    "slug": "haho-tg0406"
+  },
+  "code": {
+    "id": "TG0406",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG04",
+    "level": 1,
+    "name": {
+      "local": "Plateaux",
+      "en": "Plateaux",
+      "slug": "plateaux-tg04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.025",
+    "lon": "1.224"
+  },
+  "metadata": {},
+  "source": {}
+}

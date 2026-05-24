@@ -1,0 +1,326 @@
+[
+  {
+    "id": "TG020101",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Aledjo",
+      "en": "Aledjo",
+      "slug": "aledjo-tg020101"
+    },
+    "code": {
+      "id": "TG020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0201",
+      "level": 2,
+      "name": {
+        "local": "Assoli",
+        "en": "Assoli",
+        "slug": "assoli-tg0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0201",
+        "level": 2,
+        "name": {
+          "local": "Assoli",
+          "en": "Assoli",
+          "slug": "assoli-tg0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.28",
+      "lon": "1.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020102",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Bafilo",
+      "en": "Bafilo",
+      "slug": "bafilo-tg020102"
+    },
+    "code": {
+      "id": "TG020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0201",
+      "level": 2,
+      "name": {
+        "local": "Assoli",
+        "en": "Assoli",
+        "slug": "assoli-tg0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0201",
+        "level": 2,
+        "name": {
+          "local": "Assoli",
+          "en": "Assoli",
+          "slug": "assoli-tg0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.367",
+      "lon": "1.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020103",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Boulade",
+      "en": "Boulade",
+      "slug": "boulade-tg020103"
+    },
+    "code": {
+      "id": "TG020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0201",
+      "level": 2,
+      "name": {
+        "local": "Assoli",
+        "en": "Assoli",
+        "slug": "assoli-tg0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0201",
+        "level": 2,
+        "name": {
+          "local": "Assoli",
+          "en": "Assoli",
+          "slug": "assoli-tg0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.401",
+      "lon": "1.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020104",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Dako/Daoude",
+      "en": "Dako/Daoude",
+      "slug": "dakodaoude-tg020104"
+    },
+    "code": {
+      "id": "TG020104",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0201",
+      "level": 2,
+      "name": {
+        "local": "Assoli",
+        "en": "Assoli",
+        "slug": "assoli-tg0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0201",
+        "level": 2,
+        "name": {
+          "local": "Assoli",
+          "en": "Assoli",
+          "slug": "assoli-tg0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.356",
+      "lon": "1.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020105",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Koumonde",
+      "en": "Koumonde",
+      "slug": "koumonde-tg020105"
+    },
+    "code": {
+      "id": "TG020105",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0201",
+      "level": 2,
+      "name": {
+        "local": "Assoli",
+        "en": "Assoli",
+        "slug": "assoli-tg0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0201",
+        "level": 2,
+        "name": {
+          "local": "Assoli",
+          "en": "Assoli",
+          "slug": "assoli-tg0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.28",
+      "lon": "1.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020106",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Soudou",
+      "en": "Soudou",
+      "slug": "soudou-tg020106"
+    },
+    "code": {
+      "id": "TG020106",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0201",
+      "level": 2,
+      "name": {
+        "local": "Assoli",
+        "en": "Assoli",
+        "slug": "assoli-tg0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0201",
+        "level": 2,
+        "name": {
+          "local": "Assoli",
+          "en": "Assoli",
+          "slug": "assoli-tg0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.357",
+      "lon": "1.347"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

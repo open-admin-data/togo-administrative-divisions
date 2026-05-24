@@ -1,0 +1,380 @@
+[
+  {
+    "id": "TG040501",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Badin",
+      "en": "Badin",
+      "slug": "badin-tg040501"
+    },
+    "code": {
+      "id": "TG040501",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0405",
+      "level": 2,
+      "name": {
+        "local": "Est-Mono",
+        "en": "Est-Mono",
+        "slug": "est-mono-tg0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0405",
+        "level": 2,
+        "name": {
+          "local": "Est-Mono",
+          "en": "Est-Mono",
+          "slug": "est-mono-tg0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.254",
+      "lon": "1.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040502",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Elavagnon",
+      "en": "Elavagnon",
+      "slug": "elavagnon-tg040502"
+    },
+    "code": {
+      "id": "TG040502",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0405",
+      "level": 2,
+      "name": {
+        "local": "Est-Mono",
+        "en": "Est-Mono",
+        "slug": "est-mono-tg0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0405",
+        "level": 2,
+        "name": {
+          "local": "Est-Mono",
+          "en": "Est-Mono",
+          "slug": "est-mono-tg0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.951",
+      "lon": "1.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040503",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Gbadjahe",
+      "en": "Gbadjahe",
+      "slug": "gbadjahe-tg040503"
+    },
+    "code": {
+      "id": "TG040503",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0405",
+      "level": 2,
+      "name": {
+        "local": "Est-Mono",
+        "en": "Est-Mono",
+        "slug": "est-mono-tg0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0405",
+        "level": 2,
+        "name": {
+          "local": "Est-Mono",
+          "en": "Est-Mono",
+          "slug": "est-mono-tg0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.853",
+      "lon": "1.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040504",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kamina",
+      "en": "Kamina",
+      "slug": "kamina-tg040504"
+    },
+    "code": {
+      "id": "TG040504",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0405",
+      "level": 2,
+      "name": {
+        "local": "Est-Mono",
+        "en": "Est-Mono",
+        "slug": "est-mono-tg0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0405",
+        "level": 2,
+        "name": {
+          "local": "Est-Mono",
+          "en": "Est-Mono",
+          "slug": "est-mono-tg0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.101",
+      "lon": "1.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040505",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpessi",
+      "en": "Kpessi",
+      "slug": "kpessi-tg040505"
+    },
+    "code": {
+      "id": "TG040505",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0405",
+      "level": 2,
+      "name": {
+        "local": "Est-Mono",
+        "en": "Est-Mono",
+        "slug": "est-mono-tg0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0405",
+        "level": 2,
+        "name": {
+          "local": "Est-Mono",
+          "en": "Est-Mono",
+          "slug": "est-mono-tg0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.117",
+      "lon": "1.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040506",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Moretan",
+      "en": "Moretan",
+      "slug": "moretan-tg040506"
+    },
+    "code": {
+      "id": "TG040506",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0405",
+      "level": 2,
+      "name": {
+        "local": "Est-Mono",
+        "en": "Est-Mono",
+        "slug": "est-mono-tg0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0405",
+        "level": 2,
+        "name": {
+          "local": "Est-Mono",
+          "en": "Est-Mono",
+          "slug": "est-mono-tg0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.199",
+      "lon": "1.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040507",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Nyamassila",
+      "en": "Nyamassila",
+      "slug": "nyamassila-tg040507"
+    },
+    "code": {
+      "id": "TG040507",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0405",
+      "level": 2,
+      "name": {
+        "local": "Est-Mono",
+        "en": "Est-Mono",
+        "slug": "est-mono-tg0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0405",
+        "level": 2,
+        "name": {
+          "local": "Est-Mono",
+          "en": "Est-Mono",
+          "slug": "est-mono-tg0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.965",
+      "lon": "1.201"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

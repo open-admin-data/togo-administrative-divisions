@@ -1,0 +1,218 @@
+[
+  {
+    "id": "TG030301",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Aflao Gakli",
+      "en": "Aflao Gakli",
+      "slug": "aflao-gakli-tg030301"
+    },
+    "code": {
+      "id": "TG030301",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0303",
+      "level": 2,
+      "name": {
+        "local": "Golfe",
+        "en": "Golfe",
+        "slug": "golfe-tg0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0303",
+        "level": 2,
+        "name": {
+          "local": "Golfe",
+          "en": "Golfe",
+          "slug": "golfe-tg0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.197",
+      "lon": "1.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030302",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Amoutive",
+      "en": "Amoutive",
+      "slug": "amoutive-tg030302"
+    },
+    "code": {
+      "id": "TG030302",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0303",
+      "level": 2,
+      "name": {
+        "local": "Golfe",
+        "en": "Golfe",
+        "slug": "golfe-tg0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0303",
+        "level": 2,
+        "name": {
+          "local": "Golfe",
+          "en": "Golfe",
+          "slug": "golfe-tg0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.219",
+      "lon": "1.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030303",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Baguida",
+      "en": "Baguida",
+      "slug": "baguida-tg030303"
+    },
+    "code": {
+      "id": "TG030303",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0303",
+      "level": 2,
+      "name": {
+        "local": "Golfe",
+        "en": "Golfe",
+        "slug": "golfe-tg0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0303",
+        "level": 2,
+        "name": {
+          "local": "Golfe",
+          "en": "Golfe",
+          "slug": "golfe-tg0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.183",
+      "lon": "1.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030304",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Sagbado",
+      "en": "Sagbado",
+      "slug": "sagbado-tg030304"
+    },
+    "code": {
+      "id": "TG030304",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0303",
+      "level": 2,
+      "name": {
+        "local": "Golfe",
+        "en": "Golfe",
+        "slug": "golfe-tg0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0303",
+        "level": 2,
+        "name": {
+          "local": "Golfe",
+          "en": "Golfe",
+          "slug": "golfe-tg0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.19",
+      "lon": "1.126"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

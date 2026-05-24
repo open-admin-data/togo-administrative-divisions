@@ -1,0 +1,326 @@
+# Maritime — Togo Administrative Divisions
+
+> 9 prefectures, 68 cantons
+> Code: TG03
+> Coordinates: 6.515, 1.21
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Prefectures
+
+### Agoe-Nyive
+
+Code: TG0309, Coordinates: 6.285, 1.205
+Cantons: 6
+
+#### Adetikope
+
+Code: TG030901, Coordinates: 6.32, 1.21
+
+#### Agoenyive
+
+Code: TG030902, Coordinates: 6.233, 1.207
+
+#### Legbassito
+
+Code: TG030903, Coordinates: 6.267, 1.148
+
+#### Togblekope
+
+Code: TG030904, Coordinates: 6.263, 1.218
+
+#### Vakpossito
+
+Code: TG030905, Coordinates: 6.215, 1.163
+
+#### Zanguera
+
+Code: TG030906, Coordinates: 6.236, 1.126
+
+### Ave
+
+Code: TG0301, Coordinates: 6.439, 0.914
+Cantons: 7
+
+#### Akepe
+
+Code: TG030101, Coordinates: 6.231, 1.071
+
+#### Assahoun/Ando Peme
+
+Code: TG030102, Coordinates: 6.499, 0.851
+
+#### Badja
+
+Code: TG030103, Coordinates: 6.376, 1.018
+
+#### Dzolo
+
+Code: TG030104, Coordinates: 6.381, 0.906
+
+#### Keve
+
+Code: TG030105, Coordinates: 6.478, 1.02
+
+#### Noepe
+
+Code: TG030106, Coordinates: 6.278, 1.039
+
+#### Tovegan
+
+Code: TG030107, Coordinates: 6.616, 0.916
+
+### Bas-Mono
+
+Code: TG0302, Coordinates: 6.471, 1.661
+Cantons: 5
+
+#### Afagnan / Afagnagan
+
+Code: TG030201, Coordinates: 6.504, 1.632
+
+#### Agome Glozou/Agbetiko
+
+Code: TG030202, Coordinates: 6.501, 1.688
+
+#### Attitogon
+
+Code: TG030203, Coordinates: 6.41, 1.649
+
+#### Hompou
+
+Code: TG030204, Coordinates: 6.419, 1.717
+
+#### Kpetsou
+
+Code: TG030205, Coordinates: 6.54, 1.586
+
+### Golfe
+
+Code: TG0303, Coordinates: 6.19, 1.134
+Cantons: 4
+
+#### Aflao Gakli
+
+Code: TG030301, Coordinates: 6.197, 1.168
+
+#### Amoutive
+
+Code: TG030302, Coordinates: 6.219, 1.266
+
+#### Baguida
+
+Code: TG030303, Coordinates: 6.183, 1.337
+
+#### Sagbado
+
+Code: TG030304, Coordinates: 6.19, 1.126
+
+### Lacs
+
+Code: TG0304, Coordinates: 6.299, 1.697
+Cantons: 7
+
+#### Agbodrafo
+
+Code: TG030401, Coordinates: 6.213, 1.517
+
+#### Agouegan
+
+Code: TG030402, Coordinates: 6.274, 1.72
+
+#### Aklakou
+
+Code: TG030403, Coordinates: 6.339, 1.717
+
+#### Aneho
+
+Code: TG030404, Coordinates: 6.238, 1.607
+
+#### Anfoin
+
+Code: TG030405, Coordinates: 6.34, 1.611
+
+#### Ganave/Fiata
+
+Code: TG030406, Coordinates: 6.326, 1.638
+
+#### Glidji
+
+Code: TG030407, Coordinates: 6.271, 1.606
+
+### Lome Commune
+
+Code: TG0305, Coordinates: 6.157, 1.246
+Cantons: 1
+
+#### Lome Commune
+
+Code: TG030501, Coordinates: 6.157, 1.246
+
+### Vo
+
+Code: TG0306, Coordinates: 6.393, 1.5
+Cantons: 10
+
+#### Akoumape
+
+Code: TG030601, Coordinates: 6.434, 1.437
+
+#### Anyron Kope
+
+Code: TG030602, Coordinates: 6.259, 1.553
+
+#### Dagbati
+
+Code: TG030603, Coordinates: 6.488, 1.505
+
+#### Dzrekpo
+
+Code: TG030604, Coordinates: 6.44, 1.569
+
+#### Hahotoe
+
+Code: TG030605, Coordinates: 6.396, 1.39
+
+#### Mome-Hounkpati
+
+Code: TG030606, Coordinates: 6.503, 1.555
+
+#### Sevagan
+
+Code: TG030607, Coordinates: 6.318, 1.422
+
+#### Togoville
+
+Code: TG030608, Coordinates: 6.256, 1.47
+
+#### Vo-Koutime
+
+Code: TG030610, Coordinates: 6.399, 1.537
+
+#### Vogan
+
+Code: TG030609, Coordinates: 6.36, 1.502
+
+### Yoto
+
+Code: TG0307, Coordinates: 6.67, 1.452
+Cantons: 12
+
+#### Ahepe
+
+Code: TG030701, Coordinates: 6.57, 1.424
+
+#### Amoussime
+
+Code: TG030702, Coordinates: 6.638, 1.51
+
+#### Esse Godjin
+
+Code: TG030703, Coordinates: 6.714, 1.545
+
+#### Gboto
+
+Code: TG030704, Coordinates: 6.717, 1.483
+
+#### Kini-Kondji
+
+Code: TG030705, Coordinates: 6.585, 1.548
+
+#### Kouve
+
+Code: TG030706, Coordinates: 6.725, 1.402
+
+#### Sedome
+
+Code: TG030707, Coordinates: 6.776, 1.584
+
+#### Tabligbo
+
+Code: TG030708, Coordinates: 6.575, 1.484
+
+#### Tchekpo
+
+Code: TG030709, Coordinates: 6.523, 1.378
+
+#### Tokpli
+
+Code: TG030710, Coordinates: 6.628, 1.573
+
+#### Tomety-Kondji
+
+Code: TG030711, Coordinates: 6.825, 1.543
+
+#### Zafi
+
+Code: TG030712, Coordinates: 6.71, 1.292
+
+### Zio
+
+Code: TG0308, Coordinates: 6.533, 1.156
+Cantons: 16
+
+#### Abobo
+
+Code: TG030801, Coordinates: 6.25, 1.349
+
+#### Agbelouve
+
+Code: TG030802, Coordinates: 6.725, 1.064
+
+#### Bolou Kpeta
+
+Code: TG030803, Coordinates: 6.446, 1.13
+
+#### Dalave
+
+Code: TG030804, Coordinates: 6.342, 1.274
+
+#### Davie
+
+Code: TG030805, Coordinates: 6.356, 1.165
+
+#### Djagble
+
+Code: TG030806, Coordinates: 6.239, 1.288
+
+#### Game
+
+Code: TG030807, Coordinates: 6.748, 1.165
+
+#### Gape Kpodji
+
+Code: TG030808, Coordinates: 6.709, 0.945
+
+#### Gape-Centre
+
+Code: TG030809, Coordinates: 6.602, 1.073
+
+#### Gbatope
+
+Code: TG030810, Coordinates: 6.487, 1.284
+
+#### Gblainvie
+
+Code: TG030811, Coordinates: 6.497, 1.112
+
+#### Kovie
+
+Code: TG030812, Coordinates: 6.333, 1.089
+
+#### Kpome
+
+Code: TG030813, Coordinates: 6.339, 1.342
+
+#### Mission-Tove
+
+Code: TG030814, Coordinates: 6.301, 1.126
+
+#### Tsevie
+
+Code: TG030815, Coordinates: 6.494, 1.199
+
+#### Wli
+
+Code: TG030816, Coordinates: 6.397, 1.123
+

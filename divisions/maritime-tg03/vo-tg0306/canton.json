@@ -1,0 +1,542 @@
+[
+  {
+    "id": "TG030601",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Akoumape",
+      "en": "Akoumape",
+      "slug": "akoumape-tg030601"
+    },
+    "code": {
+      "id": "TG030601",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0306",
+      "level": 2,
+      "name": {
+        "local": "Vo",
+        "en": "Vo",
+        "slug": "vo-tg0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0306",
+        "level": 2,
+        "name": {
+          "local": "Vo",
+          "en": "Vo",
+          "slug": "vo-tg0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.434",
+      "lon": "1.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030602",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Anyron Kope",
+      "en": "Anyron Kope",
+      "slug": "anyron-kope-tg030602"
+    },
+    "code": {
+      "id": "TG030602",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0306",
+      "level": 2,
+      "name": {
+        "local": "Vo",
+        "en": "Vo",
+        "slug": "vo-tg0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0306",
+        "level": 2,
+        "name": {
+          "local": "Vo",
+          "en": "Vo",
+          "slug": "vo-tg0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.259",
+      "lon": "1.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030603",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Dagbati",
+      "en": "Dagbati",
+      "slug": "dagbati-tg030603"
+    },
+    "code": {
+      "id": "TG030603",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0306",
+      "level": 2,
+      "name": {
+        "local": "Vo",
+        "en": "Vo",
+        "slug": "vo-tg0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0306",
+        "level": 2,
+        "name": {
+          "local": "Vo",
+          "en": "Vo",
+          "slug": "vo-tg0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.488",
+      "lon": "1.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030604",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Dzrekpo",
+      "en": "Dzrekpo",
+      "slug": "dzrekpo-tg030604"
+    },
+    "code": {
+      "id": "TG030604",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0306",
+      "level": 2,
+      "name": {
+        "local": "Vo",
+        "en": "Vo",
+        "slug": "vo-tg0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0306",
+        "level": 2,
+        "name": {
+          "local": "Vo",
+          "en": "Vo",
+          "slug": "vo-tg0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.44",
+      "lon": "1.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030605",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Hahotoe",
+      "en": "Hahotoe",
+      "slug": "hahotoe-tg030605"
+    },
+    "code": {
+      "id": "TG030605",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0306",
+      "level": 2,
+      "name": {
+        "local": "Vo",
+        "en": "Vo",
+        "slug": "vo-tg0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0306",
+        "level": 2,
+        "name": {
+          "local": "Vo",
+          "en": "Vo",
+          "slug": "vo-tg0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.396",
+      "lon": "1.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030606",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Mome-Hounkpati",
+      "en": "Mome-Hounkpati",
+      "slug": "mome-hounkpati-tg030606"
+    },
+    "code": {
+      "id": "TG030606",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0306",
+      "level": 2,
+      "name": {
+        "local": "Vo",
+        "en": "Vo",
+        "slug": "vo-tg0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0306",
+        "level": 2,
+        "name": {
+          "local": "Vo",
+          "en": "Vo",
+          "slug": "vo-tg0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.503",
+      "lon": "1.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030607",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Sevagan",
+      "en": "Sevagan",
+      "slug": "sevagan-tg030607"
+    },
+    "code": {
+      "id": "TG030607",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0306",
+      "level": 2,
+      "name": {
+        "local": "Vo",
+        "en": "Vo",
+        "slug": "vo-tg0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0306",
+        "level": 2,
+        "name": {
+          "local": "Vo",
+          "en": "Vo",
+          "slug": "vo-tg0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.318",
+      "lon": "1.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030608",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Togoville",
+      "en": "Togoville",
+      "slug": "togoville-tg030608"
+    },
+    "code": {
+      "id": "TG030608",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0306",
+      "level": 2,
+      "name": {
+        "local": "Vo",
+        "en": "Vo",
+        "slug": "vo-tg0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0306",
+        "level": 2,
+        "name": {
+          "local": "Vo",
+          "en": "Vo",
+          "slug": "vo-tg0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.256",
+      "lon": "1.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030610",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Vo-Koutime",
+      "en": "Vo-Koutime",
+      "slug": "vo-koutime-tg030610"
+    },
+    "code": {
+      "id": "TG030610",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0306",
+      "level": 2,
+      "name": {
+        "local": "Vo",
+        "en": "Vo",
+        "slug": "vo-tg0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0306",
+        "level": 2,
+        "name": {
+          "local": "Vo",
+          "en": "Vo",
+          "slug": "vo-tg0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.399",
+      "lon": "1.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030609",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Vogan",
+      "en": "Vogan",
+      "slug": "vogan-tg030609"
+    },
+    "code": {
+      "id": "TG030609",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0306",
+      "level": 2,
+      "name": {
+        "local": "Vo",
+        "en": "Vo",
+        "slug": "vo-tg0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0306",
+        "level": 2,
+        "name": {
+          "local": "Vo",
+          "en": "Vo",
+          "slug": "vo-tg0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.36",
+      "lon": "1.502"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

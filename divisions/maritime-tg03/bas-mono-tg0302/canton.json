@@ -1,0 +1,272 @@
+[
+  {
+    "id": "TG030201",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Afagnan / Afagnagan",
+      "en": "Afagnan / Afagnagan",
+      "slug": "afagnan-afagnagan-tg030201"
+    },
+    "code": {
+      "id": "TG030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0302",
+      "level": 2,
+      "name": {
+        "local": "Bas-Mono",
+        "en": "Bas-Mono",
+        "slug": "bas-mono-tg0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0302",
+        "level": 2,
+        "name": {
+          "local": "Bas-Mono",
+          "en": "Bas-Mono",
+          "slug": "bas-mono-tg0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.504",
+      "lon": "1.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030202",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Agome Glozou/Agbetiko",
+      "en": "Agome Glozou/Agbetiko",
+      "slug": "agome-glozouagbetiko-tg030202"
+    },
+    "code": {
+      "id": "TG030202",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0302",
+      "level": 2,
+      "name": {
+        "local": "Bas-Mono",
+        "en": "Bas-Mono",
+        "slug": "bas-mono-tg0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0302",
+        "level": 2,
+        "name": {
+          "local": "Bas-Mono",
+          "en": "Bas-Mono",
+          "slug": "bas-mono-tg0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.501",
+      "lon": "1.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030203",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Attitogon",
+      "en": "Attitogon",
+      "slug": "attitogon-tg030203"
+    },
+    "code": {
+      "id": "TG030203",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0302",
+      "level": 2,
+      "name": {
+        "local": "Bas-Mono",
+        "en": "Bas-Mono",
+        "slug": "bas-mono-tg0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0302",
+        "level": 2,
+        "name": {
+          "local": "Bas-Mono",
+          "en": "Bas-Mono",
+          "slug": "bas-mono-tg0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "1.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030204",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Hompou",
+      "en": "Hompou",
+      "slug": "hompou-tg030204"
+    },
+    "code": {
+      "id": "TG030204",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0302",
+      "level": 2,
+      "name": {
+        "local": "Bas-Mono",
+        "en": "Bas-Mono",
+        "slug": "bas-mono-tg0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0302",
+        "level": 2,
+        "name": {
+          "local": "Bas-Mono",
+          "en": "Bas-Mono",
+          "slug": "bas-mono-tg0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.419",
+      "lon": "1.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030205",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpetsou",
+      "en": "Kpetsou",
+      "slug": "kpetsou-tg030205"
+    },
+    "code": {
+      "id": "TG030205",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0302",
+      "level": 2,
+      "name": {
+        "local": "Bas-Mono",
+        "en": "Bas-Mono",
+        "slug": "bas-mono-tg0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0302",
+        "level": 2,
+        "name": {
+          "local": "Bas-Mono",
+          "en": "Bas-Mono",
+          "slug": "bas-mono-tg0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.54",
+      "lon": "1.586"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

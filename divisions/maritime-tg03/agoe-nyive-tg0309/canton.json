@@ -1,0 +1,326 @@
+[
+  {
+    "id": "TG030901",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Adetikope",
+      "en": "Adetikope",
+      "slug": "adetikope-tg030901"
+    },
+    "code": {
+      "id": "TG030901",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0309",
+      "level": 2,
+      "name": {
+        "local": "Agoe-Nyive",
+        "en": "Agoe-Nyive",
+        "slug": "agoe-nyive-tg0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0309",
+        "level": 2,
+        "name": {
+          "local": "Agoe-Nyive",
+          "en": "Agoe-Nyive",
+          "slug": "agoe-nyive-tg0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.32",
+      "lon": "1.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030902",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Agoenyive",
+      "en": "Agoenyive",
+      "slug": "agoenyive-tg030902"
+    },
+    "code": {
+      "id": "TG030902",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0309",
+      "level": 2,
+      "name": {
+        "local": "Agoe-Nyive",
+        "en": "Agoe-Nyive",
+        "slug": "agoe-nyive-tg0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0309",
+        "level": 2,
+        "name": {
+          "local": "Agoe-Nyive",
+          "en": "Agoe-Nyive",
+          "slug": "agoe-nyive-tg0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.233",
+      "lon": "1.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030903",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Legbassito",
+      "en": "Legbassito",
+      "slug": "legbassito-tg030903"
+    },
+    "code": {
+      "id": "TG030903",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0309",
+      "level": 2,
+      "name": {
+        "local": "Agoe-Nyive",
+        "en": "Agoe-Nyive",
+        "slug": "agoe-nyive-tg0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0309",
+        "level": 2,
+        "name": {
+          "local": "Agoe-Nyive",
+          "en": "Agoe-Nyive",
+          "slug": "agoe-nyive-tg0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.267",
+      "lon": "1.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030904",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Togblekope",
+      "en": "Togblekope",
+      "slug": "togblekope-tg030904"
+    },
+    "code": {
+      "id": "TG030904",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0309",
+      "level": 2,
+      "name": {
+        "local": "Agoe-Nyive",
+        "en": "Agoe-Nyive",
+        "slug": "agoe-nyive-tg0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0309",
+        "level": 2,
+        "name": {
+          "local": "Agoe-Nyive",
+          "en": "Agoe-Nyive",
+          "slug": "agoe-nyive-tg0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.263",
+      "lon": "1.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030905",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Vakpossito",
+      "en": "Vakpossito",
+      "slug": "vakpossito-tg030905"
+    },
+    "code": {
+      "id": "TG030905",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0309",
+      "level": 2,
+      "name": {
+        "local": "Agoe-Nyive",
+        "en": "Agoe-Nyive",
+        "slug": "agoe-nyive-tg0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0309",
+        "level": 2,
+        "name": {
+          "local": "Agoe-Nyive",
+          "en": "Agoe-Nyive",
+          "slug": "agoe-nyive-tg0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.215",
+      "lon": "1.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030906",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Zanguera",
+      "en": "Zanguera",
+      "slug": "zanguera-tg030906"
+    },
+    "code": {
+      "id": "TG030906",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0309",
+      "level": 2,
+      "name": {
+        "local": "Agoe-Nyive",
+        "en": "Agoe-Nyive",
+        "slug": "agoe-nyive-tg0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0309",
+        "level": 2,
+        "name": {
+          "local": "Agoe-Nyive",
+          "en": "Agoe-Nyive",
+          "slug": "agoe-nyive-tg0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.236",
+      "lon": "1.126"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

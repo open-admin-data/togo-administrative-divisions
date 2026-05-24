@@ -1,0 +1,47 @@
+{
+  "id": "TG0205",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Doufelgou",
+    "en": "Doufelgou",
+    "slug": "doufelgou-tg0205"
+  },
+  "code": {
+    "id": "TG0205",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG02",
+    "level": 1,
+    "name": {
+      "local": "Kara",
+      "en": "Kara",
+      "slug": "kara-tg02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG02",
+      "level": 1,
+      "name": {
+        "local": "Kara",
+        "en": "Kara",
+        "slug": "kara-tg02"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.838",
+    "lon": "1.033"
+  },
+  "metadata": {},
+  "source": {}
+}

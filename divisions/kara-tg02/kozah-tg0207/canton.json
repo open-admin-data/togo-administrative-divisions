@@ -1,0 +1,812 @@
+[
+  {
+    "id": "TG020701",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Atchangbade",
+      "en": "Atchangbade",
+      "slug": "atchangbade-tg020701"
+    },
+    "code": {
+      "id": "TG020701",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0207",
+      "level": 2,
+      "name": {
+        "local": "Kozah",
+        "en": "Kozah",
+        "slug": "kozah-tg0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0207",
+        "level": 2,
+        "name": {
+          "local": "Kozah",
+          "en": "Kozah",
+          "slug": "kozah-tg0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.474",
+      "lon": "1.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020702",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Awandjelo",
+      "en": "Awandjelo",
+      "slug": "awandjelo-tg020702"
+    },
+    "code": {
+      "id": "TG020702",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0207",
+      "level": 2,
+      "name": {
+        "local": "Kozah",
+        "en": "Kozah",
+        "slug": "kozah-tg0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0207",
+        "level": 2,
+        "name": {
+          "local": "Kozah",
+          "en": "Kozah",
+          "slug": "kozah-tg0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.475",
+      "lon": "1.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020703",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Bohou",
+      "en": "Bohou",
+      "slug": "bohou-tg020703"
+    },
+    "code": {
+      "id": "TG020703",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0207",
+      "level": 2,
+      "name": {
+        "local": "Kozah",
+        "en": "Kozah",
+        "slug": "kozah-tg0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0207",
+        "level": 2,
+        "name": {
+          "local": "Kozah",
+          "en": "Kozah",
+          "slug": "kozah-tg0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.596",
+      "lon": "1.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020704",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Djamde",
+      "en": "Djamde",
+      "slug": "djamde-tg020704"
+    },
+    "code": {
+      "id": "TG020704",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0207",
+      "level": 2,
+      "name": {
+        "local": "Kozah",
+        "en": "Kozah",
+        "slug": "kozah-tg0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0207",
+        "level": 2,
+        "name": {
+          "local": "Kozah",
+          "en": "Kozah",
+          "slug": "kozah-tg0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.491",
+      "lon": "1.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020705",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Koumea",
+      "en": "Koumea",
+      "slug": "koumea-tg020705"
+    },
+    "code": {
+      "id": "TG020705",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0207",
+      "level": 2,
+      "name": {
+        "local": "Kozah",
+        "en": "Kozah",
+        "slug": "kozah-tg0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0207",
+        "level": 2,
+        "name": {
+          "local": "Kozah",
+          "en": "Kozah",
+          "slug": "kozah-tg0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.714",
+      "lon": "1.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020706",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Lama",
+      "en": "Lama",
+      "slug": "lama-tg020706"
+    },
+    "code": {
+      "id": "TG020706",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0207",
+      "level": 2,
+      "name": {
+        "local": "Kozah",
+        "en": "Kozah",
+        "slug": "kozah-tg0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0207",
+        "level": 2,
+        "name": {
+          "local": "Kozah",
+          "en": "Kozah",
+          "slug": "kozah-tg0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.591",
+      "lon": "1.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020707",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Landa",
+      "en": "Landa",
+      "slug": "landa-tg020707"
+    },
+    "code": {
+      "id": "TG020707",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0207",
+      "level": 2,
+      "name": {
+        "local": "Kozah",
+        "en": "Kozah",
+        "slug": "kozah-tg0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0207",
+        "level": 2,
+        "name": {
+          "local": "Kozah",
+          "en": "Kozah",
+          "slug": "kozah-tg0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.668",
+      "lon": "1.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020708",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Landa-Pozenda/Kpinzinde",
+      "en": "Landa-Pozenda/Kpinzinde",
+      "slug": "landa-pozendakpinzinde-tg020708"
+    },
+    "code": {
+      "id": "TG020708",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0207",
+      "level": 2,
+      "name": {
+        "local": "Kozah",
+        "en": "Kozah",
+        "slug": "kozah-tg0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0207",
+        "level": 2,
+        "name": {
+          "local": "Kozah",
+          "en": "Kozah",
+          "slug": "kozah-tg0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.494",
+      "lon": "1.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020709",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Lassa",
+      "en": "Lassa",
+      "slug": "lassa-tg020709"
+    },
+    "code": {
+      "id": "TG020709",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0207",
+      "level": 2,
+      "name": {
+        "local": "Kozah",
+        "en": "Kozah",
+        "slug": "kozah-tg0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0207",
+        "level": 2,
+        "name": {
+          "local": "Kozah",
+          "en": "Kozah",
+          "slug": "kozah-tg0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.608",
+      "lon": "1.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020710",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Pya",
+      "en": "Pya",
+      "slug": "pya-tg020710"
+    },
+    "code": {
+      "id": "TG020710",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0207",
+      "level": 2,
+      "name": {
+        "local": "Kozah",
+        "en": "Kozah",
+        "slug": "kozah-tg0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0207",
+        "level": 2,
+        "name": {
+          "local": "Kozah",
+          "en": "Kozah",
+          "slug": "kozah-tg0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.65",
+      "lon": "1.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020711",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Sarakawa",
+      "en": "Sarakawa",
+      "slug": "sarakawa-tg020711"
+    },
+    "code": {
+      "id": "TG020711",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0207",
+      "level": 2,
+      "name": {
+        "local": "Kozah",
+        "en": "Kozah",
+        "slug": "kozah-tg0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0207",
+        "level": 2,
+        "name": {
+          "local": "Kozah",
+          "en": "Kozah",
+          "slug": "kozah-tg0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.616",
+      "lon": "1.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020712",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Somdina",
+      "en": "Somdina",
+      "slug": "somdina-tg020712"
+    },
+    "code": {
+      "id": "TG020712",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0207",
+      "level": 2,
+      "name": {
+        "local": "Kozah",
+        "en": "Kozah",
+        "slug": "kozah-tg0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0207",
+        "level": 2,
+        "name": {
+          "local": "Kozah",
+          "en": "Kozah",
+          "slug": "kozah-tg0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.64",
+      "lon": "1.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020713",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tchare",
+      "en": "Tchare",
+      "slug": "tchare-tg020713"
+    },
+    "code": {
+      "id": "TG020713",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0207",
+      "level": 2,
+      "name": {
+        "local": "Kozah",
+        "en": "Kozah",
+        "slug": "kozah-tg0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0207",
+        "level": 2,
+        "name": {
+          "local": "Kozah",
+          "en": "Kozah",
+          "slug": "kozah-tg0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.66",
+      "lon": "1.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020714",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tchitchao",
+      "en": "Tchitchao",
+      "slug": "tchitchao-tg020714"
+    },
+    "code": {
+      "id": "TG020714",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0207",
+      "level": 2,
+      "name": {
+        "local": "Kozah",
+        "en": "Kozah",
+        "slug": "kozah-tg0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0207",
+        "level": 2,
+        "name": {
+          "local": "Kozah",
+          "en": "Kozah",
+          "slug": "kozah-tg0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.598",
+      "lon": "1.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020715",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Yade",
+      "en": "Yade",
+      "slug": "yade-tg020715"
+    },
+    "code": {
+      "id": "TG020715",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0207",
+      "level": 2,
+      "name": {
+        "local": "Kozah",
+        "en": "Kozah",
+        "slug": "kozah-tg0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0207",
+        "level": 2,
+        "name": {
+          "local": "Kozah",
+          "en": "Kozah",
+          "slug": "kozah-tg0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.595",
+      "lon": "1.145"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

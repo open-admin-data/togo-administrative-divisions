@@ -1,0 +1,47 @@
+{
+  "id": "TG0403",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Agou",
+    "en": "Agou",
+    "slug": "agou-tg0403"
+  },
+  "code": {
+    "id": "TG0403",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG04",
+    "level": 1,
+    "name": {
+      "local": "Plateaux",
+      "en": "Plateaux",
+      "slug": "plateaux-tg04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG04",
+      "level": 1,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux-tg04"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.755",
+    "lon": "0.767"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "TG010301",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Adjengere",
+      "en": "Adjengere",
+      "slug": "adjengere-tg010301"
+    },
+    "code": {
+      "id": "TG010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0103",
+      "level": 2,
+      "name": {
+        "local": "Sotouboua",
+        "en": "Sotouboua",
+        "slug": "sotouboua-tg0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0103",
+        "level": 2,
+        "name": {
+          "local": "Sotouboua",
+          "en": "Sotouboua",
+          "slug": "sotouboua-tg0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.689",
+      "lon": "0.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010302",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Aouda",
+      "en": "Aouda",
+      "slug": "aouda-tg010302"
+    },
+    "code": {
+      "id": "TG010302",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0103",
+      "level": 2,
+      "name": {
+        "local": "Sotouboua",
+        "en": "Sotouboua",
+        "slug": "sotouboua-tg0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0103",
+        "level": 2,
+        "name": {
+          "local": "Sotouboua",
+          "en": "Sotouboua",
+          "slug": "sotouboua-tg0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.862",
+      "lon": "0.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010303",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Bodjonde",
+      "en": "Bodjonde",
+      "slug": "bodjonde-tg010303"
+    },
+    "code": {
+      "id": "TG010303",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0103",
+      "level": 2,
+      "name": {
+        "local": "Sotouboua",
+        "en": "Sotouboua",
+        "slug": "sotouboua-tg0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0103",
+        "level": 2,
+        "name": {
+          "local": "Sotouboua",
+          "en": "Sotouboua",
+          "slug": "sotouboua-tg0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.443",
+      "lon": "1.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010304",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Fazao",
+      "en": "Fazao",
+      "slug": "fazao-tg010304"
+    },
+    "code": {
+      "id": "TG010304",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0103",
+      "level": 2,
+      "name": {
+        "local": "Sotouboua",
+        "en": "Sotouboua",
+        "slug": "sotouboua-tg0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0103",
+        "level": 2,
+        "name": {
+          "local": "Sotouboua",
+          "en": "Sotouboua",
+          "slug": "sotouboua-tg0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.749",
+      "lon": "0.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010305",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kaniamboua",
+      "en": "Kaniamboua",
+      "slug": "kaniamboua-tg010305"
+    },
+    "code": {
+      "id": "TG010305",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0103",
+      "level": 2,
+      "name": {
+        "local": "Sotouboua",
+        "en": "Sotouboua",
+        "slug": "sotouboua-tg0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0103",
+        "level": 2,
+        "name": {
+          "local": "Sotouboua",
+          "en": "Sotouboua",
+          "slug": "sotouboua-tg0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.604",
+      "lon": "1.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010306",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kazaboua",
+      "en": "Kazaboua",
+      "slug": "kazaboua-tg010306"
+    },
+    "code": {
+      "id": "TG010306",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0103",
+      "level": 2,
+      "name": {
+        "local": "Sotouboua",
+        "en": "Sotouboua",
+        "slug": "sotouboua-tg0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0103",
+        "level": 2,
+        "name": {
+          "local": "Sotouboua",
+          "en": "Sotouboua",
+          "slug": "sotouboua-tg0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.421",
+      "lon": "1.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010307",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Sessaro",
+      "en": "Sessaro",
+      "slug": "sessaro-tg010307"
+    },
+    "code": {
+      "id": "TG010307",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0103",
+      "level": 2,
+      "name": {
+        "local": "Sotouboua",
+        "en": "Sotouboua",
+        "slug": "sotouboua-tg0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0103",
+        "level": 2,
+        "name": {
+          "local": "Sotouboua",
+          "en": "Sotouboua",
+          "slug": "sotouboua-tg0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.597",
+      "lon": "1.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010308",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Sotouboua",
+      "en": "Sotouboua",
+      "slug": "sotouboua-tg010308"
+    },
+    "code": {
+      "id": "TG010308",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0103",
+      "level": 2,
+      "name": {
+        "local": "Sotouboua",
+        "en": "Sotouboua",
+        "slug": "sotouboua-tg0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0103",
+        "level": 2,
+        "name": {
+          "local": "Sotouboua",
+          "en": "Sotouboua",
+          "slug": "sotouboua-tg0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.558",
+      "lon": "0.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010309",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tabinde",
+      "en": "Tabinde",
+      "slug": "tabinde-tg010309"
+    },
+    "code": {
+      "id": "TG010309",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0103",
+      "level": 2,
+      "name": {
+        "local": "Sotouboua",
+        "en": "Sotouboua",
+        "slug": "sotouboua-tg0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0103",
+        "level": 2,
+        "name": {
+          "local": "Sotouboua",
+          "en": "Sotouboua",
+          "slug": "sotouboua-tg0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.519",
+      "lon": "1.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010310",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tchebebe",
+      "en": "Tchebebe",
+      "slug": "tchebebe-tg010310"
+    },
+    "code": {
+      "id": "TG010310",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0103",
+      "level": 2,
+      "name": {
+        "local": "Sotouboua",
+        "en": "Sotouboua",
+        "slug": "sotouboua-tg0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0103",
+        "level": 2,
+        "name": {
+          "local": "Sotouboua",
+          "en": "Sotouboua",
+          "slug": "sotouboua-tg0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.431",
+      "lon": "0.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010311",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Titigbe",
+      "en": "Titigbe",
+      "slug": "titigbe-tg010311"
+    },
+    "code": {
+      "id": "TG010311",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0103",
+      "level": 2,
+      "name": {
+        "local": "Sotouboua",
+        "en": "Sotouboua",
+        "slug": "sotouboua-tg0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0103",
+        "level": 2,
+        "name": {
+          "local": "Sotouboua",
+          "en": "Sotouboua",
+          "slug": "sotouboua-tg0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.597",
+      "lon": "1.094"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

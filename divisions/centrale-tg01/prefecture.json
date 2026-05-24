@@ -1,0 +1,237 @@
+[
+  {
+    "id": "TG0101",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Blitta",
+      "en": "Blitta",
+      "slug": "blitta-tg0101"
+    },
+    "code": {
+      "id": "TG0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG01",
+      "level": 1,
+      "name": {
+        "local": "Centrale",
+        "en": "Centrale",
+        "slug": "centrale-tg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.152",
+      "lon": "0.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0102",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Plaine du Mo",
+      "en": "Plaine du Mo",
+      "slug": "plaine-du-mo-tg0102"
+    },
+    "code": {
+      "id": "TG0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG01",
+      "level": 1,
+      "name": {
+        "local": "Centrale",
+        "en": "Centrale",
+        "slug": "centrale-tg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.765",
+      "lon": "0.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0103",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Sotouboua",
+      "en": "Sotouboua",
+      "slug": "sotouboua-tg0103"
+    },
+    "code": {
+      "id": "TG0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG01",
+      "level": 1,
+      "name": {
+        "local": "Centrale",
+        "en": "Centrale",
+        "slug": "centrale-tg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.705",
+      "lon": "0.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0104",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Tchamba",
+      "en": "Tchamba",
+      "slug": "tchamba-tg0104"
+    },
+    "code": {
+      "id": "TG0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG01",
+      "level": 1,
+      "name": {
+        "local": "Centrale",
+        "en": "Centrale",
+        "slug": "centrale-tg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.819",
+      "lon": "1.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0105",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Tchaoudjo",
+      "en": "Tchaoudjo",
+      "slug": "tchaoudjo-tg0105"
+    },
+    "code": {
+      "id": "TG0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG01",
+      "level": 1,
+      "name": {
+        "local": "Centrale",
+        "en": "Centrale",
+        "slug": "centrale-tg01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.992",
+      "lon": "1.13"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "TG051901",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Gando",
+      "en": "Gando",
+      "slug": "gando-tg051901"
+    },
+    "code": {
+      "id": "TG051901",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0519",
+      "level": 2,
+      "name": {
+        "local": "Oti-Sud",
+        "en": "Oti-Sud",
+        "slug": "oti-sud-tg0519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0519",
+        "level": 2,
+        "name": {
+          "local": "Oti-Sud",
+          "en": "Oti-Sud",
+          "slug": "oti-sud-tg0519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.296",
+      "lon": "0.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051902",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Koumongou",
+      "en": "Koumongou",
+      "slug": "koumongou-tg051902"
+    },
+    "code": {
+      "id": "TG051902",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0519",
+      "level": 2,
+      "name": {
+        "local": "Oti-Sud",
+        "en": "Oti-Sud",
+        "slug": "oti-sud-tg0519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0519",
+        "level": 2,
+        "name": {
+          "local": "Oti-Sud",
+          "en": "Oti-Sud",
+          "slug": "oti-sud-tg0519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.159",
+      "lon": "0.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051903",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kountoire",
+      "en": "Kountoire",
+      "slug": "kountoire-tg051903"
+    },
+    "code": {
+      "id": "TG051903",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0519",
+      "level": 2,
+      "name": {
+        "local": "Oti-Sud",
+        "en": "Oti-Sud",
+        "slug": "oti-sud-tg0519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0519",
+        "level": 2,
+        "name": {
+          "local": "Oti-Sud",
+          "en": "Oti-Sud",
+          "slug": "oti-sud-tg0519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.09",
+      "lon": "0.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051904",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Mogou",
+      "en": "Mogou",
+      "slug": "mogou-tg051904"
+    },
+    "code": {
+      "id": "TG051904",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0519",
+      "level": 2,
+      "name": {
+        "local": "Oti-Sud",
+        "en": "Oti-Sud",
+        "slug": "oti-sud-tg0519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0519",
+        "level": 2,
+        "name": {
+          "local": "Oti-Sud",
+          "en": "Oti-Sud",
+          "slug": "oti-sud-tg0519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.452",
+      "lon": "0.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051905",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Nali",
+      "en": "Nali",
+      "slug": "nali-tg051905"
+    },
+    "code": {
+      "id": "TG051905",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0519",
+      "level": 2,
+      "name": {
+        "local": "Oti-Sud",
+        "en": "Oti-Sud",
+        "slug": "oti-sud-tg0519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0519",
+        "level": 2,
+        "name": {
+          "local": "Oti-Sud",
+          "en": "Oti-Sud",
+          "slug": "oti-sud-tg0519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.053",
+      "lon": "0.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051906",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Sagbiebou",
+      "en": "Sagbiebou",
+      "slug": "sagbiebou-tg051906"
+    },
+    "code": {
+      "id": "TG051906",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0519",
+      "level": 2,
+      "name": {
+        "local": "Oti-Sud",
+        "en": "Oti-Sud",
+        "slug": "oti-sud-tg0519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0519",
+        "level": 2,
+        "name": {
+          "local": "Oti-Sud",
+          "en": "Oti-Sud",
+          "slug": "oti-sud-tg0519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.245",
+      "lon": "0.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051907",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Takpamba",
+      "en": "Takpamba",
+      "slug": "takpamba-tg051907"
+    },
+    "code": {
+      "id": "TG051907",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0519",
+      "level": 2,
+      "name": {
+        "local": "Oti-Sud",
+        "en": "Oti-Sud",
+        "slug": "oti-sud-tg0519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0519",
+        "level": 2,
+        "name": {
+          "local": "Oti-Sud",
+          "en": "Oti-Sud",
+          "slug": "oti-sud-tg0519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.959",
+      "lon": "0.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051908",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tchamonga",
+      "en": "Tchamonga",
+      "slug": "tchamonga-tg051908"
+    },
+    "code": {
+      "id": "TG051908",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0519",
+      "level": 2,
+      "name": {
+        "local": "Oti-Sud",
+        "en": "Oti-Sud",
+        "slug": "oti-sud-tg0519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0519",
+        "level": 2,
+        "name": {
+          "local": "Oti-Sud",
+          "en": "Oti-Sud",
+          "slug": "oti-sud-tg0519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.578",
+      "lon": "0.742"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

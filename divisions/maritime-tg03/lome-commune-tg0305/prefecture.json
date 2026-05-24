@@ -1,0 +1,47 @@
+{
+  "id": "TG0305",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Lome Commune",
+    "en": "Lome Commune",
+    "slug": "lome-commune-tg0305"
+  },
+  "code": {
+    "id": "TG0305",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG03",
+    "level": 1,
+    "name": {
+      "local": "Maritime",
+      "en": "Maritime",
+      "slug": "maritime-tg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.157",
+    "lon": "1.246"
+  },
+  "metadata": {},
+  "source": {}
+}

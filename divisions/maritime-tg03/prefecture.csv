@@ -1,0 +1,10 @@
+id,name.local,name.en,name.slug,code.id,children_count.canton,geo.lat,geo.lon
+TG0309,Agoe-Nyive,Agoe-Nyive,agoe-nyive-tg0309,TG0309,6,6.285,1.205
+TG0301,Ave,Ave,ave-tg0301,TG0301,7,6.439,0.914
+TG0302,Bas-Mono,Bas-Mono,bas-mono-tg0302,TG0302,5,6.471,1.661
+TG0303,Golfe,Golfe,golfe-tg0303,TG0303,4,6.19,1.134
+TG0304,Lacs,Lacs,lacs-tg0304,TG0304,7,6.299,1.697
+TG0305,Lome Commune,Lome Commune,lome-commune-tg0305,TG0305,1,6.157,1.246
+TG0306,Vo,Vo,vo-tg0306,TG0306,10,6.393,1.5
+TG0307,Yoto,Yoto,yoto-tg0307,TG0307,12,6.67,1.452
+TG0308,Zio,Zio,zio-tg0308,TG0308,16,6.533,1.156

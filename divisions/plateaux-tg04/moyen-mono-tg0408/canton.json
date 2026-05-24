@@ -1,0 +1,326 @@
+[
+  {
+    "id": "TG040801",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Ahassome",
+      "en": "Ahassome",
+      "slug": "ahassome-tg040801"
+    },
+    "code": {
+      "id": "TG040801",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0408",
+      "level": 2,
+      "name": {
+        "local": "Moyen-Mono",
+        "en": "Moyen-Mono",
+        "slug": "moyen-mono-tg0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0408",
+        "level": 2,
+        "name": {
+          "local": "Moyen-Mono",
+          "en": "Moyen-Mono",
+          "slug": "moyen-mono-tg0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.209",
+      "lon": "1.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040802",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Katome",
+      "en": "Katome",
+      "slug": "katome-tg040802"
+    },
+    "code": {
+      "id": "TG040802",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0408",
+      "level": 2,
+      "name": {
+        "local": "Moyen-Mono",
+        "en": "Moyen-Mono",
+        "slug": "moyen-mono-tg0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0408",
+        "level": 2,
+        "name": {
+          "local": "Moyen-Mono",
+          "en": "Moyen-Mono",
+          "slug": "moyen-mono-tg0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.373",
+      "lon": "1.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040803",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpekpleme",
+      "en": "Kpekpleme",
+      "slug": "kpekpleme-tg040803"
+    },
+    "code": {
+      "id": "TG040803",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0408",
+      "level": 2,
+      "name": {
+        "local": "Moyen-Mono",
+        "en": "Moyen-Mono",
+        "slug": "moyen-mono-tg0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0408",
+        "level": 2,
+        "name": {
+          "local": "Moyen-Mono",
+          "en": "Moyen-Mono",
+          "slug": "moyen-mono-tg0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.301",
+      "lon": "1.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040804",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Saligbe",
+      "en": "Saligbe",
+      "slug": "saligbe-tg040804"
+    },
+    "code": {
+      "id": "TG040804",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0408",
+      "level": 2,
+      "name": {
+        "local": "Moyen-Mono",
+        "en": "Moyen-Mono",
+        "slug": "moyen-mono-tg0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0408",
+        "level": 2,
+        "name": {
+          "local": "Moyen-Mono",
+          "en": "Moyen-Mono",
+          "slug": "moyen-mono-tg0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.242",
+      "lon": "1.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040805",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tado",
+      "en": "Tado",
+      "slug": "tado-tg040805"
+    },
+    "code": {
+      "id": "TG040805",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0408",
+      "level": 2,
+      "name": {
+        "local": "Moyen-Mono",
+        "en": "Moyen-Mono",
+        "slug": "moyen-mono-tg0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0408",
+        "level": 2,
+        "name": {
+          "local": "Moyen-Mono",
+          "en": "Moyen-Mono",
+          "slug": "moyen-mono-tg0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.141",
+      "lon": "1.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG040806",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tohoun",
+      "en": "Tohoun",
+      "slug": "tohoun-tg040806"
+    },
+    "code": {
+      "id": "TG040806",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0408",
+      "level": 2,
+      "name": {
+        "local": "Moyen-Mono",
+        "en": "Moyen-Mono",
+        "slug": "moyen-mono-tg0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0408",
+        "level": 2,
+        "name": {
+          "local": "Moyen-Mono",
+          "en": "Moyen-Mono",
+          "slug": "moyen-mono-tg0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.053",
+      "lon": "1.6"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

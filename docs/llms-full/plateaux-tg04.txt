@@ -1,0 +1,481 @@
+# Plateaux — Togo Administrative Divisions
+
+> 12 prefectures, 103 cantons
+> Code: TG04
+> Coordinates: 7.496, 1.095
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Prefectures
+
+### Agou
+
+Code: TG0403, Coordinates: 6.755, 0.767
+Cantons: 11
+
+#### Adjahun Fiagbe
+
+Code: TG040301, Coordinates: 6.762, 0.735
+
+#### Adzakpa
+
+Code: TG040302, Coordinates: 6.615, 0.762
+
+#### Agotime Nord
+
+Code: TG040303, Coordinates: 6.708, 0.687
+
+#### Agou Agbetiko/Agou Dzidjole
+
+Code: TG040304, Coordinates: 6.926, 0.734
+
+#### Agou Atigbe
+
+Code: TG040305, Coordinates: 6.79, 0.749
+
+#### Agou Gadzepe
+
+Code: TG040306, Coordinates: 6.847, 0.706
+
+#### Agou Kebo
+
+Code: TG040307, Coordinates: 6.869, 0.742
+
+#### Agou Yiboe/Kati
+
+Code: TG040308, Coordinates: 6.907, 0.878
+
+#### Agou-Akplolo
+
+Code: TG040309, Coordinates: 6.919, 0.793
+
+#### Amoussou Kope
+
+Code: TG040310, Coordinates: 6.662, 0.844
+
+#### Gadja
+
+Code: TG040311, Coordinates: 6.803, 0.848
+
+### Akebou
+
+Code: TG0410, Coordinates: 7.828, 0.753
+Cantons: 8
+
+#### Djon
+
+Code: TG041001, Coordinates: 7.739, 0.805
+
+#### Gbende
+
+Code: TG041002, Coordinates: 7.762, 0.68
+
+#### Kamina
+
+Code: TG041003, Coordinates: 7.936, 0.915
+
+#### Kougnohou
+
+Code: TG041004, Coordinates: 7.691, 0.811
+
+#### Kpalave
+
+Code: TG041005, Coordinates: 7.832, 0.839
+
+#### Seregbene
+
+Code: TG041006, Coordinates: 7.871, 0.714
+
+#### Veh
+
+Code: TG041007, Coordinates: 7.674, 0.709
+
+#### Yalla
+
+Code: TG041008, Coordinates: 7.828, 0.663
+
+### Amou
+
+Code: TG0401, Coordinates: 7.54, 1.066
+Cantons: 14
+
+#### Adiva
+
+Code: TG040101, Coordinates: 7.499, 1.018
+
+#### Amou-Oblo
+
+Code: TG040102, Coordinates: 7.361, 0.865
+
+#### Avedje
+
+Code: TG040103, Coordinates: 7.422, 1.13
+
+#### Ekpegnon
+
+Code: TG040104, Coordinates: 7.307, 0.979
+
+#### Evou
+
+Code: TG040105, Coordinates: 7.524, 1.023
+
+#### Game
+
+Code: TG040106, Coordinates: 7.771, 1.068
+
+#### Hiheatro
+
+Code: TG040107, Coordinates: 7.581, 1.048
+
+#### Imle
+
+Code: TG040108, Coordinates: 7.462, 0.993
+
+#### Kpategan
+
+Code: TG040109, Coordinates: 7.36, 1.047
+
+#### Okpahoe
+
+Code: TG040110, Coordinates: 7.62, 1.01
+
+#### Otadi
+
+Code: TG040111, Coordinates: 7.72, 0.939
+
+#### Ouma-Amlame
+
+Code: TG040112, Coordinates: 7.461, 0.92
+
+#### Sodo
+
+Code: TG040113, Coordinates: 7.328, 0.826
+
+#### Temedja
+
+Code: TG040114, Coordinates: 7.463, 1.068
+
+### Anie
+
+Code: TG0411, Coordinates: 7.696, 1.403
+Cantons: 6
+
+#### Adogbenou
+
+Code: TG041101, Coordinates: 7.813, 1.519
+
+#### Anie
+
+Code: TG041102, Coordinates: 7.78, 1.153
+
+#### Atchinedji
+
+Code: TG041103, Coordinates: 7.58, 1.388
+
+#### Glitto
+
+Code: TG041104, Coordinates: 7.602, 1.563
+
+#### Kolokope
+
+Code: TG041105, Coordinates: 7.765, 1.294
+
+#### Pallakoko
+
+Code: TG041106, Coordinates: 7.874, 1.116
+
+### Danyi
+
+Code: TG0404, Coordinates: 7.231, 0.693
+Cantons: 5
+
+#### Ahlon
+
+Code: TG040401, Coordinates: 7.279, 0.664
+
+#### Danyi Kpeto-Evita
+
+Code: TG040402, Coordinates: 7.262, 0.743
+
+#### Danyi-Kakpa
+
+Code: TG040403, Coordinates: 7.163, 0.645
+
+#### Elavagnon/Atigba
+
+Code: TG040404, Coordinates: 7.27, 0.699
+
+#### Yikpa
+
+Code: TG040405, Coordinates: 7.129, 0.617
+
+### Est-Mono
+
+Code: TG0405, Coordinates: 8.139, 1.448
+Cantons: 7
+
+#### Badin
+
+Code: TG040501, Coordinates: 8.254, 1.543
+
+#### Elavagnon
+
+Code: TG040502, Coordinates: 7.951, 1.343
+
+#### Gbadjahe
+
+Code: TG040503, Coordinates: 7.853, 1.348
+
+#### Kamina
+
+Code: TG040504, Coordinates: 8.101, 1.568
+
+#### Kpessi
+
+Code: TG040505, Coordinates: 8.117, 1.303
+
+#### Moretan
+
+Code: TG040506, Coordinates: 8.199, 1.406
+
+#### Nyamassila
+
+Code: TG040507, Coordinates: 7.965, 1.201
+
+### Haho
+
+Code: TG0406, Coordinates: 7.025, 1.224
+Cantons: 8
+
+#### Assrama
+
+Code: TG040601, Coordinates: 6.99, 1.458
+
+#### Atsave
+
+Code: TG040602, Coordinates: 6.874, 1.312
+
+#### Dalia
+
+Code: TG040603, Coordinates: 6.817, 1.182
+
+#### Djemegni
+
+Code: TG040604, Coordinates: 7.031, 1.316
+
+#### Kpedome
+
+Code: TG040605, Coordinates: 7.072, 1.113
+
+#### Kpegnon/Haito
+
+Code: TG040606, Coordinates: 7.187, 0.994
+
+#### Notse
+
+Code: TG040607, Coordinates: 6.927, 1.054
+
+#### Wahala
+
+Code: TG040608, Coordinates: 7.208, 1.29
+
+### Kloto
+
+Code: TG0412, Coordinates: 6.92, 0.63
+Cantons: 12
+
+#### Agome
+
+Code: TG041201, Coordinates: 6.936, 0.613
+
+#### Agome-Tomegbe
+
+Code: TG041202, Coordinates: 6.943, 0.546
+
+#### Gbalave
+
+Code: TG041203, Coordinates: 6.868, 0.596
+
+#### Hanyigba
+
+Code: TG041204, Coordinates: 6.899, 0.601
+
+#### Kouma
+
+Code: TG041205, Coordinates: 6.985, 0.58
+
+#### Kpadape
+
+Code: TG041206, Coordinates: 6.801, 0.6
+
+#### Kpime
+
+Code: TG041207, Coordinates: 7.008, 0.633
+
+#### Lavie/ Apedome
+
+Code: TG041208, Coordinates: 7.032, 0.651
+
+#### Tome
+
+Code: TG041209, Coordinates: 6.818, 0.654
+
+#### Tove
+
+Code: TG041210, Coordinates: 6.871, 0.655
+
+#### Wome
+
+Code: TG041211, Coordinates: 6.848, 0.558
+
+#### Yokele
+
+Code: TG041212, Coordinates: 6.938, 0.68
+
+### Kpele
+
+Code: TG0407, Coordinates: 7.116, 0.806
+Cantons: 9
+
+#### Adeta
+
+Code: TG040701, Coordinates: 7.092, 0.871
+
+#### Akata
+
+Code: TG040702, Coordinates: 7.045, 0.72
+
+#### Gbaladze
+
+Code: TG040703, Coordinates: 7.212, 0.762
+
+#### Govie
+
+Code: TG040704, Coordinates: 7.155, 0.744
+
+#### Kame
+
+Code: TG040705, Coordinates: 7.23, 0.853
+
+#### Kpele-Centre
+
+Code: TG040706, Coordinates: 7.18, 0.849
+
+#### Kpele-Dawlotou
+
+Code: TG040707, Coordinates: 7.014, 0.84
+
+#### Kpele-Dutoe
+
+Code: TG040708, Coordinates: 7.262, 0.897
+
+#### Kpele-Nord
+
+Code: TG040709, Coordinates: 7.29, 0.869
+
+### Moyen-Mono
+
+Code: TG0408, Coordinates: 7.196, 1.558
+Cantons: 6
+
+#### Ahassome
+
+Code: TG040801, Coordinates: 7.209, 1.514
+
+#### Katome
+
+Code: TG040802, Coordinates: 7.373, 1.615
+
+#### Kpekpleme
+
+Code: TG040803, Coordinates: 7.301, 1.587
+
+#### Saligbe
+
+Code: TG040804, Coordinates: 7.242, 1.582
+
+#### Tado
+
+Code: TG040805, Coordinates: 7.141, 1.569
+
+#### Tohoun
+
+Code: TG040806, Coordinates: 7.053, 1.6
+
+### Ogou
+
+Code: TG0409, Coordinates: 7.463, 1.276
+Cantons: 8
+
+#### Akpare
+
+Code: TG040901, Coordinates: 7.453, 1.347
+
+#### Datcha
+
+Code: TG040902, Coordinates: 7.407, 1.186
+
+#### Glei
+
+Code: TG040903, Coordinates: 7.281, 1.244
+
+#### Gnagna
+
+Code: TG040904, Coordinates: 7.504, 1.16
+
+#### Houdou
+
+Code: TG040905, Coordinates: 7.604, 1.177
+
+#### Katore
+
+Code: TG040906, Coordinates: 7.384, 1.316
+
+#### Ogou
+
+Code: TG040907, Coordinates: 7.627, 1.261
+
+#### Ountivou
+
+Code: TG040908, Coordinates: 7.418, 1.555
+
+### Wawa
+
+Code: TG0402, Coordinates: 7.543, 0.76
+Cantons: 9
+
+#### Badou
+
+Code: TG040201, Coordinates: 7.563, 0.576
+
+#### Doume
+
+Code: TG040202, Coordinates: 7.556, 0.777
+
+#### Gobe/Eketo/Gbadi N&#39;Kugna
+
+Code: TG040203, Coordinates: 7.455, 0.755
+
+#### Kessibo
+
+Code: TG040204, Coordinates: 7.64, 0.615
+
+#### Klabe Efoukpa
+
+Code: TG040205, Coordinates: 7.602, 0.737
+
+#### Kpete Bena
+
+Code: TG040206, Coordinates: 7.439, 0.579
+
+#### Okou
+
+Code: TG040207, Coordinates: 7.568, 0.841
+
+#### Ounabe
+
+Code: TG040208, Coordinates: 7.559, 0.946
+
+#### Tomegbe
+
+Code: TG040209, Coordinates: 7.52, 0.598
+

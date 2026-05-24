@@ -1,0 +1,425 @@
+[
+  {
+    "id": "TG0309",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Agoe-Nyive",
+      "en": "Agoe-Nyive",
+      "slug": "agoe-nyive-tg0309"
+    },
+    "code": {
+      "id": "TG0309",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.285",
+      "lon": "1.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0301",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Ave",
+      "en": "Ave",
+      "slug": "ave-tg0301"
+    },
+    "code": {
+      "id": "TG0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.439",
+      "lon": "0.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0302",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Bas-Mono",
+      "en": "Bas-Mono",
+      "slug": "bas-mono-tg0302"
+    },
+    "code": {
+      "id": "TG0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.471",
+      "lon": "1.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0303",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Golfe",
+      "en": "Golfe",
+      "slug": "golfe-tg0303"
+    },
+    "code": {
+      "id": "TG0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.19",
+      "lon": "1.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0304",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Lacs",
+      "en": "Lacs",
+      "slug": "lacs-tg0304"
+    },
+    "code": {
+      "id": "TG0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.299",
+      "lon": "1.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0305",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Lome Commune",
+      "en": "Lome Commune",
+      "slug": "lome-commune-tg0305"
+    },
+    "code": {
+      "id": "TG0305",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.157",
+      "lon": "1.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0306",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Vo",
+      "en": "Vo",
+      "slug": "vo-tg0306"
+    },
+    "code": {
+      "id": "TG0306",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.393",
+      "lon": "1.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0307",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Yoto",
+      "en": "Yoto",
+      "slug": "yoto-tg0307"
+    },
+    "code": {
+      "id": "TG0307",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.67",
+      "lon": "1.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG0308",
+    "level": 2,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Zio",
+      "en": "Zio",
+      "slug": "zio-tg0308"
+    },
+    "code": {
+      "id": "TG0308",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      }
+    ],
+    "children_count": {
+      "canton": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.533",
+      "lon": "1.156"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

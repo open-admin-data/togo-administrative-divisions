@@ -1,0 +1,650 @@
+[
+  {
+    "id": "TG041201",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Agome",
+      "en": "Agome",
+      "slug": "agome-tg041201"
+    },
+    "code": {
+      "id": "TG041201",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0412",
+      "level": 2,
+      "name": {
+        "local": "Kloto",
+        "en": "Kloto",
+        "slug": "kloto-tg0412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0412",
+        "level": 2,
+        "name": {
+          "local": "Kloto",
+          "en": "Kloto",
+          "slug": "kloto-tg0412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.936",
+      "lon": "0.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041202",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Agome-Tomegbe",
+      "en": "Agome-Tomegbe",
+      "slug": "agome-tomegbe-tg041202"
+    },
+    "code": {
+      "id": "TG041202",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0412",
+      "level": 2,
+      "name": {
+        "local": "Kloto",
+        "en": "Kloto",
+        "slug": "kloto-tg0412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0412",
+        "level": 2,
+        "name": {
+          "local": "Kloto",
+          "en": "Kloto",
+          "slug": "kloto-tg0412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.943",
+      "lon": "0.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041203",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Gbalave",
+      "en": "Gbalave",
+      "slug": "gbalave-tg041203"
+    },
+    "code": {
+      "id": "TG041203",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0412",
+      "level": 2,
+      "name": {
+        "local": "Kloto",
+        "en": "Kloto",
+        "slug": "kloto-tg0412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0412",
+        "level": 2,
+        "name": {
+          "local": "Kloto",
+          "en": "Kloto",
+          "slug": "kloto-tg0412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.868",
+      "lon": "0.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041204",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Hanyigba",
+      "en": "Hanyigba",
+      "slug": "hanyigba-tg041204"
+    },
+    "code": {
+      "id": "TG041204",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0412",
+      "level": 2,
+      "name": {
+        "local": "Kloto",
+        "en": "Kloto",
+        "slug": "kloto-tg0412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0412",
+        "level": 2,
+        "name": {
+          "local": "Kloto",
+          "en": "Kloto",
+          "slug": "kloto-tg0412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.899",
+      "lon": "0.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041205",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kouma",
+      "en": "Kouma",
+      "slug": "kouma-tg041205"
+    },
+    "code": {
+      "id": "TG041205",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0412",
+      "level": 2,
+      "name": {
+        "local": "Kloto",
+        "en": "Kloto",
+        "slug": "kloto-tg0412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0412",
+        "level": 2,
+        "name": {
+          "local": "Kloto",
+          "en": "Kloto",
+          "slug": "kloto-tg0412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.985",
+      "lon": "0.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041206",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpadape",
+      "en": "Kpadape",
+      "slug": "kpadape-tg041206"
+    },
+    "code": {
+      "id": "TG041206",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0412",
+      "level": 2,
+      "name": {
+        "local": "Kloto",
+        "en": "Kloto",
+        "slug": "kloto-tg0412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0412",
+        "level": 2,
+        "name": {
+          "local": "Kloto",
+          "en": "Kloto",
+          "slug": "kloto-tg0412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.801",
+      "lon": "0.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041207",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpime",
+      "en": "Kpime",
+      "slug": "kpime-tg041207"
+    },
+    "code": {
+      "id": "TG041207",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0412",
+      "level": 2,
+      "name": {
+        "local": "Kloto",
+        "en": "Kloto",
+        "slug": "kloto-tg0412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0412",
+        "level": 2,
+        "name": {
+          "local": "Kloto",
+          "en": "Kloto",
+          "slug": "kloto-tg0412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.008",
+      "lon": "0.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041208",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Lavie/ Apedome",
+      "en": "Lavie/ Apedome",
+      "slug": "lavie-apedome-tg041208"
+    },
+    "code": {
+      "id": "TG041208",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0412",
+      "level": 2,
+      "name": {
+        "local": "Kloto",
+        "en": "Kloto",
+        "slug": "kloto-tg0412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0412",
+        "level": 2,
+        "name": {
+          "local": "Kloto",
+          "en": "Kloto",
+          "slug": "kloto-tg0412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.032",
+      "lon": "0.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041209",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tome",
+      "en": "Tome",
+      "slug": "tome-tg041209"
+    },
+    "code": {
+      "id": "TG041209",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0412",
+      "level": 2,
+      "name": {
+        "local": "Kloto",
+        "en": "Kloto",
+        "slug": "kloto-tg0412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0412",
+        "level": 2,
+        "name": {
+          "local": "Kloto",
+          "en": "Kloto",
+          "slug": "kloto-tg0412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.818",
+      "lon": "0.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041210",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tove",
+      "en": "Tove",
+      "slug": "tove-tg041210"
+    },
+    "code": {
+      "id": "TG041210",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0412",
+      "level": 2,
+      "name": {
+        "local": "Kloto",
+        "en": "Kloto",
+        "slug": "kloto-tg0412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0412",
+        "level": 2,
+        "name": {
+          "local": "Kloto",
+          "en": "Kloto",
+          "slug": "kloto-tg0412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.871",
+      "lon": "0.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041211",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Wome",
+      "en": "Wome",
+      "slug": "wome-tg041211"
+    },
+    "code": {
+      "id": "TG041211",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0412",
+      "level": 2,
+      "name": {
+        "local": "Kloto",
+        "en": "Kloto",
+        "slug": "kloto-tg0412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0412",
+        "level": 2,
+        "name": {
+          "local": "Kloto",
+          "en": "Kloto",
+          "slug": "kloto-tg0412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.848",
+      "lon": "0.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041212",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Yokele",
+      "en": "Yokele",
+      "slug": "yokele-tg041212"
+    },
+    "code": {
+      "id": "TG041212",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0412",
+      "level": 2,
+      "name": {
+        "local": "Kloto",
+        "en": "Kloto",
+        "slug": "kloto-tg0412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0412",
+        "level": 2,
+        "name": {
+          "local": "Kloto",
+          "en": "Kloto",
+          "slug": "kloto-tg0412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.938",
+      "lon": "0.68"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

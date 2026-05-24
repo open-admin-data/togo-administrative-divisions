@@ -1,0 +1,47 @@
+{
+  "id": "TG0308",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Zio",
+    "en": "Zio",
+    "slug": "zio-tg0308"
+  },
+  "code": {
+    "id": "TG0308",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG03",
+    "level": 1,
+    "name": {
+      "local": "Maritime",
+      "en": "Maritime",
+      "slug": "maritime-tg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG03",
+      "level": 1,
+      "name": {
+        "local": "Maritime",
+        "en": "Maritime",
+        "slug": "maritime-tg03"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.533",
+    "lon": "1.156"
+  },
+  "metadata": {},
+  "source": {}
+}

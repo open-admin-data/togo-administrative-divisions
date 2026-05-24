@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,children_count.canton,geo.lat,geo.lon
+TG0101,Blitta,Blitta,blitta-tg0101,TG0101,21,8.152,0.933
+TG0102,Plaine du Mo,Plaine du Mo,plaine-du-mo-tg0102,TG0102,5,8.765,0.549
+TG0103,Sotouboua,Sotouboua,sotouboua-tg0103,TG0103,11,8.705,0.961
+TG0104,Tchamba,Tchamba,tchamba-tg0104,TG0104,10,8.819,1.477
+TG0105,Tchaoudjo,Tchaoudjo,tchaoudjo-tg0105,TG0105,12,8.992,1.13

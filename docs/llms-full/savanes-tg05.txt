@@ -1,0 +1,316 @@
+# Savanes — Togo Administrative Divisions
+
+> 7 prefectures, 68 cantons
+> Code: TG05
+> Coordinates: 10.508, 0.463
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Prefectures
+
+### Cinkasse
+
+Code: TG0517, Coordinates: 11.05, 0.102
+Cantons: 8
+
+#### Biankouri
+
+Code: TG051701, Coordinates: 11.025, 0.053
+
+#### Boade
+
+Code: TG051702, Coordinates: 11.108, -0.056
+
+#### Cinkasse
+
+Code: TG051703, Coordinates: 11.083, 0.04
+
+#### Gnoaga
+
+Code: TG051704, Coordinates: 11.112, -0.097
+
+#### Gouloungoussi
+
+Code: TG051705, Coordinates: 11.117, -0.12
+
+#### Nadjoundi
+
+Code: TG051706, Coordinates: 10.999, 0.194
+
+#### Sam-Naba
+
+Code: TG051707, Coordinates: 11.055, 0.143
+
+#### Timbou
+
+Code: TG051708, Coordinates: 11.035, 0.112
+
+### Kpendjal
+
+Code: TG0513, Coordinates: 10.801, 0.701
+Cantons: 4
+
+#### Borgou
+
+Code: TG051301, Coordinates: 10.763, 0.622
+
+#### Koundjoare
+
+Code: TG051302, Coordinates: 10.928, 0.641
+
+#### Mandouri
+
+Code: TG051303, Coordinates: 10.886, 0.803
+
+#### Tambigou
+
+Code: TG051304, Coordinates: 10.745, 0.776
+
+### Naki-Ouest
+
+Code: TG0518, Coordinates: 10.831, 0.45
+Cantons: 7
+
+#### Kpendjaga / Papri
+
+Code: TG051801, Coordinates: 10.994, 0.424
+
+#### Naki-Est
+
+Code: TG051802, Coordinates: 10.728, 0.367
+
+#### Namoundjoga
+
+Code: TG051803, Coordinates: 10.898, 0.446
+
+#### Nayega
+
+Code: TG051804, Coordinates: 10.743, 0.416
+
+#### Ogaro
+
+Code: TG051805, Coordinates: 10.774, 0.478
+
+#### Pogno
+
+Code: TG051806, Coordinates: 10.962, 0.566
+
+#### Tambonga
+
+Code: TG051807, Coordinates: 10.939, 0.453
+
+### Oti
+
+Code: TG0514, Coordinates: 10.406, 0.411
+Cantons: 8
+
+#### Barkoissi
+
+Code: TG051401, Coordinates: 10.584, 0.33
+
+#### Fare
+
+Code: TG051402, Coordinates: 10.174, 0.384
+
+#### Galangashie
+
+Code: TG051403, Coordinates: 10.486, 0.34
+
+#### Loko
+
+Code: TG051404, Coordinates: 10.511, 0.229
+
+#### Mango
+
+Code: TG051405, Coordinates: 10.36, 0.436
+
+#### Nagbeni
+
+Code: TG051406, Coordinates: 10.624, 0.445
+
+#### Sadori
+
+Code: TG051407, Coordinates: 10.248, 0.437
+
+#### Tchanaga
+
+Code: TG051408, Coordinates: 10.533, 0.506
+
+### Oti-Sud
+
+Code: TG0519, Coordinates: 10.288, 0.719
+Cantons: 8
+
+#### Gando
+
+Code: TG051901, Coordinates: 10.296, 0.784
+
+#### Koumongou
+
+Code: TG051902, Coordinates: 10.159, 0.5
+
+#### Kountoire
+
+Code: TG051903, Coordinates: 10.09, 0.628
+
+#### Mogou
+
+Code: TG051904, Coordinates: 10.452, 0.655
+
+#### Nali
+
+Code: TG051905, Coordinates: 10.053, 0.49
+
+#### Sagbiebou
+
+Code: TG051906, Coordinates: 10.245, 0.642
+
+#### Takpamba
+
+Code: TG051907, Coordinates: 9.959, 0.589
+
+#### Tchamonga
+
+Code: TG051908, Coordinates: 10.578, 0.742
+
+### Tandjoare
+
+Code: TG0515, Coordinates: 10.606, 0.16
+Cantons: 16
+
+#### Bagou
+
+Code: TG051501, Coordinates: 10.673, 0.035
+
+#### Bogou
+
+Code: TG051502, Coordinates: 10.65, 0.15
+
+#### Bombouaka
+
+Code: TG051503, Coordinates: 10.718, 0.223
+
+#### Boulogou
+
+Code: TG051504, Coordinates: 10.643, 0.274
+
+#### Doukpergou
+
+Code: TG051505, Coordinates: 10.636, 0.06
+
+#### Goundoga
+
+Code: TG051506, Coordinates: 10.715, 0.17
+
+#### Loko
+
+Code: TG051507, Coordinates: 10.595, 0.252
+
+#### Lokpano
+
+Code: TG051508, Coordinates: 10.595, 0.119
+
+#### Mamproug
+
+Code: TG051509, Coordinates: 10.669, -0.032
+
+#### Nandoga
+
+Code: TG051510, Coordinates: 10.634, 0.229
+
+#### Nano
+
+Code: TG051511, Coordinates: 10.697, 0.096
+
+#### Pligou
+
+Code: TG051512, Coordinates: 10.682, 0.266
+
+#### Sangou
+
+Code: TG051513, Coordinates: 10.591, 0.062
+
+#### Sissiak
+
+Code: TG051514, Coordinates: 10.746, 0.109
+
+#### Tamongue
+
+Code: TG051515, Coordinates: 10.51, 0.172
+
+#### Tampialime
+
+Code: TG051516, Coordinates: 10.752, 0.067
+
+### Tone
+
+Code: TG0516, Coordinates: 10.868, 0.169
+Cantons: 17
+
+#### Bidjenga
+
+Code: TG051601, Coordinates: 10.7, 0.304
+
+#### Dapaong
+
+Code: TG051602, Coordinates: 10.88, 0.197
+
+#### Kantindi
+
+Code: TG051603, Coordinates: 10.918, 0.269
+
+#### Korbongou
+
+Code: TG051604, Coordinates: 10.945, 0.321
+
+#### Kourientre
+
+Code: TG051605, Coordinates: 11.007, 0.234
+
+#### Lotogou/Warkambou
+
+Code: TG051606, Coordinates: 10.83, -0.008
+
+#### Louanga
+
+Code: TG051607, Coordinates: 10.89, 0.332
+
+#### Naki-Ouest
+
+Code: TG051608, Coordinates: 10.918, 0.062
+
+#### Namare
+
+Code: TG051609, Coordinates: 10.971, 0.072
+
+#### Nanergou
+
+Code: TG051610, Coordinates: 10.927, 0.144
+
+#### Natigou
+
+Code: TG051611, Coordinates: 10.987, 0.264
+
+#### Nioukpourma
+
+Code: TG051612, Coordinates: 10.838, 0.137
+
+#### Pana
+
+Code: TG051613, Coordinates: 10.766, 0.275
+
+#### Poissongui
+
+Code: TG051614, Coordinates: 11.042, 0.209
+
+#### Sanfatoute
+
+Code: TG051615, Coordinates: 11.015, 0.312
+
+#### Tami
+
+Code: TG051616, Coordinates: 10.869, 0.042
+
+#### Toaga
+
+Code: TG051617, Coordinates: 10.89, 0.247
+

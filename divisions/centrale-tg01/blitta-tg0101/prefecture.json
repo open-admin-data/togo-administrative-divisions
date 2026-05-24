@@ -1,0 +1,47 @@
+{
+  "id": "TG0101",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Blitta",
+    "en": "Blitta",
+    "slug": "blitta-tg0101"
+  },
+  "code": {
+    "id": "TG0101",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG01",
+    "level": 1,
+    "name": {
+      "local": "Centrale",
+      "en": "Centrale",
+      "slug": "centrale-tg01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG01",
+      "level": 1,
+      "name": {
+        "local": "Centrale",
+        "en": "Centrale",
+        "slug": "centrale-tg01"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.152",
+    "lon": "0.933"
+  },
+  "metadata": {},
+  "source": {}
+}

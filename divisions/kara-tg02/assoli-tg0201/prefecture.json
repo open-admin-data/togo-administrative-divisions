@@ -1,0 +1,47 @@
+{
+  "id": "TG0201",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Assoli",
+    "en": "Assoli",
+    "slug": "assoli-tg0201"
+  },
+  "code": {
+    "id": "TG0201",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG02",
+    "level": 1,
+    "name": {
+      "local": "Kara",
+      "en": "Kara",
+      "slug": "kara-tg02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG02",
+      "level": 1,
+      "name": {
+        "local": "Kara",
+        "en": "Kara",
+        "slug": "kara-tg02"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.337",
+    "lon": "1.185"
+  },
+  "metadata": {},
+  "source": {}
+}

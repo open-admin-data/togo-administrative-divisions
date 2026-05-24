@@ -1,0 +1,344 @@
+# Kara — Togo Administrative Divisions
+
+> 7 prefectures, 75 cantons
+> Code: TG02
+> Coordinates: 9.565, 0.808
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Prefectures
+
+### Assoli
+
+Code: TG0201, Coordinates: 9.337, 1.185
+Cantons: 6
+
+#### Aledjo
+
+Code: TG020101, Coordinates: 9.28, 1.166
+
+#### Bafilo
+
+Code: TG020102, Coordinates: 9.367, 1.261
+
+#### Boulade
+
+Code: TG020103, Coordinates: 9.401, 1.219
+
+#### Dako/Daoude
+
+Code: TG020104, Coordinates: 9.356, 1.051
+
+#### Koumonde
+
+Code: TG020105, Coordinates: 9.28, 1.28
+
+#### Soudou
+
+Code: TG020106, Coordinates: 9.357, 1.347
+
+### Bassar
+
+Code: TG0202, Coordinates: 9.252, 0.769
+Cantons: 10
+
+#### Baghan
+
+Code: TG020201, Coordinates: 8.982, 0.562
+
+#### Bangeli
+
+Code: TG020202, Coordinates: 9.408, 0.636
+
+#### Bassar
+
+Code: TG020203, Coordinates: 9.211, 0.858
+
+#### Bitchabe
+
+Code: TG020204, Coordinates: 9.306, 0.592
+
+#### Dimori
+
+Code: TG020205, Coordinates: 9.171, 0.573
+
+#### Kabou
+
+Code: TG020206, Coordinates: 9.508, 0.785
+
+#### Kalanga
+
+Code: TG020207, Coordinates: 9.273, 0.673
+
+#### Manga
+
+Code: TG020208, Coordinates: 9.566, 0.705
+
+#### Sanda-Afohou
+
+Code: TG020209, Coordinates: 9.477, 0.945
+
+#### Sanda-Kagbanda
+
+Code: TG020210, Coordinates: 9.491, 0.893
+
+### Binah
+
+Code: TG0203, Coordinates: 9.754, 1.281
+Cantons: 9
+
+#### Boufale
+
+Code: TG020301, Coordinates: 9.855, 1.323
+
+#### Kemerida
+
+Code: TG020302, Coordinates: 9.617, 1.349
+
+#### Ketao
+
+Code: TG020303, Coordinates: 9.673, 1.321
+
+#### Lama-Dessi
+
+Code: TG020304, Coordinates: 9.73, 1.262
+
+#### Pagouda
+
+Code: TG020305, Coordinates: 9.759, 1.334
+
+#### Pessare
+
+Code: TG020306, Coordinates: 9.807, 1.231
+
+#### Pitikita
+
+Code: TG020307, Coordinates: 9.766, 1.269
+
+#### Sirka
+
+Code: TG020308, Coordinates: 9.542, 1.308
+
+#### Sola
+
+Code: TG020309, Coordinates: 9.935, 1.329
+
+### Dankpen
+
+Code: TG0204, Coordinates: 9.726, 0.593
+Cantons: 12
+
+#### Bapure
+
+Code: TG020401, Coordinates: 9.523, 0.586
+
+#### Guerin-Kouka
+
+Code: TG020402, Coordinates: 9.729, 0.568
+
+#### Katchamba
+
+Code: TG020403, Coordinates: 9.874, 0.515
+
+#### Kidjaboun
+
+Code: TG020404, Coordinates: 9.771, 0.442
+
+#### Koulfiekou
+
+Code: TG020405, Coordinates: 9.935, 0.411
+
+#### Koutchitcheou
+
+Code: TG020406, Coordinates: 9.627, 0.767
+
+#### Namon
+
+Code: TG020407, Coordinates: 9.696, 0.808
+
+#### Nampoch
+
+Code: TG020408, Coordinates: 9.818, 0.663
+
+#### Nandouta
+
+Code: TG020409, Coordinates: 9.518, 0.392
+
+#### Natchibore
+
+Code: TG020410, Coordinates: 9.817, 0.782
+
+#### Natchitikpi
+
+Code: TG020411, Coordinates: 9.724, 0.713
+
+#### Naware
+
+Code: TG020412, Coordinates: 9.61, 0.472
+
+### Doufelgou
+
+Code: TG0205, Coordinates: 9.838, 1.033
+Cantons: 14
+
+#### Agbandi-Yaka
+
+Code: TG020501, Coordinates: 9.698, 1.1
+
+#### Aloum
+
+Code: TG020502, Coordinates: 9.774, 0.971
+
+#### Baga
+
+Code: TG020503, Coordinates: 9.805, 1.1
+
+#### Defale
+
+Code: TG020504, Coordinates: 9.886, 1.079
+
+#### Kadjalla
+
+Code: TG020505, Coordinates: 9.803, 0.939
+
+#### Koka
+
+Code: TG020506, Coordinates: 9.79, 1.146
+
+#### Kpaha
+
+Code: TG020507, Coordinates: 9.918, 1.141
+
+#### Leon
+
+Code: TG020508, Coordinates: 9.686, 0.93
+
+#### Massedena
+
+Code: TG020509, Coordinates: 9.971, 1.255
+
+#### Niamtougou
+
+Code: TG020510, Coordinates: 9.709, 1.026
+
+#### Pouda
+
+Code: TG020511, Coordinates: 9.905, 1.26
+
+#### Siou
+
+Code: TG020512, Coordinates: 9.851, 1.2
+
+#### Tchore
+
+Code: TG020513, Coordinates: 9.844, 0.942
+
+#### Tenega
+
+Code: TG020514, Coordinates: 9.834, 1.143
+
+### Keran
+
+Code: TG0206, Coordinates: 10.069, 0.975
+Cantons: 9
+
+#### Akponte
+
+Code: TG020601, Coordinates: 10.189, 0.907
+
+#### Atalote
+
+Code: TG020602, Coordinates: 9.948, 0.887
+
+#### Helota
+
+Code: TG020603, Coordinates: 9.914, 0.745
+
+#### Kande
+
+Code: TG020604, Coordinates: 9.977, 1.079
+
+#### Koutougou
+
+Code: TG020605, Coordinates: 10.06, 1.215
+
+#### Nadoba
+
+Code: TG020606, Coordinates: 10.141, 1.056
+
+#### Ossacre
+
+Code: TG020607, Coordinates: 10.069, 0.743
+
+#### Pesside
+
+Code: TG020608, Coordinates: 10.075, 0.855
+
+#### Warengo
+
+Code: TG020609, Coordinates: 10.082, 1.111
+
+### Kozah
+
+Code: TG0207, Coordinates: 9.558, 1.143
+Cantons: 15
+
+#### Atchangbade
+
+Code: TG020701, Coordinates: 9.474, 1.109
+
+#### Awandjelo
+
+Code: TG020702, Coordinates: 9.475, 1.192
+
+#### Bohou
+
+Code: TG020703, Coordinates: 9.596, 1.165
+
+#### Djamde
+
+Code: TG020704, Coordinates: 9.491, 1.032
+
+#### Koumea
+
+Code: TG020705, Coordinates: 9.714, 1.204
+
+#### Lama
+
+Code: TG020706, Coordinates: 9.591, 1.195
+
+#### Landa
+
+Code: TG020707, Coordinates: 9.668, 1.272
+
+#### Landa-Pozenda/Kpinzinde
+
+Code: TG020708, Coordinates: 9.494, 1.286
+
+#### Lassa
+
+Code: TG020709, Coordinates: 9.608, 1.234
+
+#### Pya
+
+Code: TG020710, Coordinates: 9.65, 1.119
+
+#### Sarakawa
+
+Code: TG020711, Coordinates: 9.616, 1.011
+
+#### Somdina
+
+Code: TG020712, Coordinates: 9.64, 1.271
+
+#### Tchare
+
+Code: TG020713, Coordinates: 9.66, 1.179
+
+#### Tchitchao
+
+Code: TG020714, Coordinates: 9.598, 1.093
+
+#### Yade
+
+Code: TG020715, Coordinates: 9.595, 1.145
+

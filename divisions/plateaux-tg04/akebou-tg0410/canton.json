@@ -1,0 +1,434 @@
+[
+  {
+    "id": "TG041001",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Djon",
+      "en": "Djon",
+      "slug": "djon-tg041001"
+    },
+    "code": {
+      "id": "TG041001",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0410",
+      "level": 2,
+      "name": {
+        "local": "Akebou",
+        "en": "Akebou",
+        "slug": "akebou-tg0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0410",
+        "level": 2,
+        "name": {
+          "local": "Akebou",
+          "en": "Akebou",
+          "slug": "akebou-tg0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.739",
+      "lon": "0.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041002",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Gbende",
+      "en": "Gbende",
+      "slug": "gbende-tg041002"
+    },
+    "code": {
+      "id": "TG041002",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0410",
+      "level": 2,
+      "name": {
+        "local": "Akebou",
+        "en": "Akebou",
+        "slug": "akebou-tg0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0410",
+        "level": 2,
+        "name": {
+          "local": "Akebou",
+          "en": "Akebou",
+          "slug": "akebou-tg0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.762",
+      "lon": "0.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041003",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kamina",
+      "en": "Kamina",
+      "slug": "kamina-tg041003"
+    },
+    "code": {
+      "id": "TG041003",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0410",
+      "level": 2,
+      "name": {
+        "local": "Akebou",
+        "en": "Akebou",
+        "slug": "akebou-tg0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0410",
+        "level": 2,
+        "name": {
+          "local": "Akebou",
+          "en": "Akebou",
+          "slug": "akebou-tg0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.936",
+      "lon": "0.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041004",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kougnohou",
+      "en": "Kougnohou",
+      "slug": "kougnohou-tg041004"
+    },
+    "code": {
+      "id": "TG041004",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0410",
+      "level": 2,
+      "name": {
+        "local": "Akebou",
+        "en": "Akebou",
+        "slug": "akebou-tg0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0410",
+        "level": 2,
+        "name": {
+          "local": "Akebou",
+          "en": "Akebou",
+          "slug": "akebou-tg0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.691",
+      "lon": "0.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041005",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpalave",
+      "en": "Kpalave",
+      "slug": "kpalave-tg041005"
+    },
+    "code": {
+      "id": "TG041005",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0410",
+      "level": 2,
+      "name": {
+        "local": "Akebou",
+        "en": "Akebou",
+        "slug": "akebou-tg0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0410",
+        "level": 2,
+        "name": {
+          "local": "Akebou",
+          "en": "Akebou",
+          "slug": "akebou-tg0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.832",
+      "lon": "0.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041006",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Seregbene",
+      "en": "Seregbene",
+      "slug": "seregbene-tg041006"
+    },
+    "code": {
+      "id": "TG041006",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0410",
+      "level": 2,
+      "name": {
+        "local": "Akebou",
+        "en": "Akebou",
+        "slug": "akebou-tg0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0410",
+        "level": 2,
+        "name": {
+          "local": "Akebou",
+          "en": "Akebou",
+          "slug": "akebou-tg0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.871",
+      "lon": "0.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041007",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Veh",
+      "en": "Veh",
+      "slug": "veh-tg041007"
+    },
+    "code": {
+      "id": "TG041007",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0410",
+      "level": 2,
+      "name": {
+        "local": "Akebou",
+        "en": "Akebou",
+        "slug": "akebou-tg0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0410",
+        "level": 2,
+        "name": {
+          "local": "Akebou",
+          "en": "Akebou",
+          "slug": "akebou-tg0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.674",
+      "lon": "0.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG041008",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Yalla",
+      "en": "Yalla",
+      "slug": "yalla-tg041008"
+    },
+    "code": {
+      "id": "TG041008",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0410",
+      "level": 2,
+      "name": {
+        "local": "Akebou",
+        "en": "Akebou",
+        "slug": "akebou-tg0410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG04",
+        "level": 1,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux-tg04"
+        }
+      },
+      {
+        "id": "TG0410",
+        "level": 2,
+        "name": {
+          "local": "Akebou",
+          "en": "Akebou",
+          "slug": "akebou-tg0410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.828",
+      "lon": "0.663"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

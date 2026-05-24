@@ -1,0 +1,866 @@
+[
+  {
+    "id": "TG051501",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Bagou",
+      "en": "Bagou",
+      "slug": "bagou-tg051501"
+    },
+    "code": {
+      "id": "TG051501",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0515",
+      "level": 2,
+      "name": {
+        "local": "Tandjoare",
+        "en": "Tandjoare",
+        "slug": "tandjoare-tg0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0515",
+        "level": 2,
+        "name": {
+          "local": "Tandjoare",
+          "en": "Tandjoare",
+          "slug": "tandjoare-tg0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.673",
+      "lon": "0.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051502",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Bogou",
+      "en": "Bogou",
+      "slug": "bogou-tg051502"
+    },
+    "code": {
+      "id": "TG051502",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0515",
+      "level": 2,
+      "name": {
+        "local": "Tandjoare",
+        "en": "Tandjoare",
+        "slug": "tandjoare-tg0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0515",
+        "level": 2,
+        "name": {
+          "local": "Tandjoare",
+          "en": "Tandjoare",
+          "slug": "tandjoare-tg0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.65",
+      "lon": "0.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051503",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Bombouaka",
+      "en": "Bombouaka",
+      "slug": "bombouaka-tg051503"
+    },
+    "code": {
+      "id": "TG051503",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0515",
+      "level": 2,
+      "name": {
+        "local": "Tandjoare",
+        "en": "Tandjoare",
+        "slug": "tandjoare-tg0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0515",
+        "level": 2,
+        "name": {
+          "local": "Tandjoare",
+          "en": "Tandjoare",
+          "slug": "tandjoare-tg0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.718",
+      "lon": "0.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051504",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Boulogou",
+      "en": "Boulogou",
+      "slug": "boulogou-tg051504"
+    },
+    "code": {
+      "id": "TG051504",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0515",
+      "level": 2,
+      "name": {
+        "local": "Tandjoare",
+        "en": "Tandjoare",
+        "slug": "tandjoare-tg0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0515",
+        "level": 2,
+        "name": {
+          "local": "Tandjoare",
+          "en": "Tandjoare",
+          "slug": "tandjoare-tg0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.643",
+      "lon": "0.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051505",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Doukpergou",
+      "en": "Doukpergou",
+      "slug": "doukpergou-tg051505"
+    },
+    "code": {
+      "id": "TG051505",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0515",
+      "level": 2,
+      "name": {
+        "local": "Tandjoare",
+        "en": "Tandjoare",
+        "slug": "tandjoare-tg0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0515",
+        "level": 2,
+        "name": {
+          "local": "Tandjoare",
+          "en": "Tandjoare",
+          "slug": "tandjoare-tg0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.636",
+      "lon": "0.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051506",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Goundoga",
+      "en": "Goundoga",
+      "slug": "goundoga-tg051506"
+    },
+    "code": {
+      "id": "TG051506",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0515",
+      "level": 2,
+      "name": {
+        "local": "Tandjoare",
+        "en": "Tandjoare",
+        "slug": "tandjoare-tg0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0515",
+        "level": 2,
+        "name": {
+          "local": "Tandjoare",
+          "en": "Tandjoare",
+          "slug": "tandjoare-tg0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.715",
+      "lon": "0.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051507",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Loko",
+      "en": "Loko",
+      "slug": "loko-tg051507"
+    },
+    "code": {
+      "id": "TG051507",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0515",
+      "level": 2,
+      "name": {
+        "local": "Tandjoare",
+        "en": "Tandjoare",
+        "slug": "tandjoare-tg0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0515",
+        "level": 2,
+        "name": {
+          "local": "Tandjoare",
+          "en": "Tandjoare",
+          "slug": "tandjoare-tg0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.595",
+      "lon": "0.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051508",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Lokpano",
+      "en": "Lokpano",
+      "slug": "lokpano-tg051508"
+    },
+    "code": {
+      "id": "TG051508",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0515",
+      "level": 2,
+      "name": {
+        "local": "Tandjoare",
+        "en": "Tandjoare",
+        "slug": "tandjoare-tg0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0515",
+        "level": 2,
+        "name": {
+          "local": "Tandjoare",
+          "en": "Tandjoare",
+          "slug": "tandjoare-tg0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.595",
+      "lon": "0.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051509",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Mamproug",
+      "en": "Mamproug",
+      "slug": "mamproug-tg051509"
+    },
+    "code": {
+      "id": "TG051509",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0515",
+      "level": 2,
+      "name": {
+        "local": "Tandjoare",
+        "en": "Tandjoare",
+        "slug": "tandjoare-tg0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0515",
+        "level": 2,
+        "name": {
+          "local": "Tandjoare",
+          "en": "Tandjoare",
+          "slug": "tandjoare-tg0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.669",
+      "lon": "-0.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051510",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Nandoga",
+      "en": "Nandoga",
+      "slug": "nandoga-tg051510"
+    },
+    "code": {
+      "id": "TG051510",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0515",
+      "level": 2,
+      "name": {
+        "local": "Tandjoare",
+        "en": "Tandjoare",
+        "slug": "tandjoare-tg0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0515",
+        "level": 2,
+        "name": {
+          "local": "Tandjoare",
+          "en": "Tandjoare",
+          "slug": "tandjoare-tg0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.634",
+      "lon": "0.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051511",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Nano",
+      "en": "Nano",
+      "slug": "nano-tg051511"
+    },
+    "code": {
+      "id": "TG051511",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0515",
+      "level": 2,
+      "name": {
+        "local": "Tandjoare",
+        "en": "Tandjoare",
+        "slug": "tandjoare-tg0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0515",
+        "level": 2,
+        "name": {
+          "local": "Tandjoare",
+          "en": "Tandjoare",
+          "slug": "tandjoare-tg0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.697",
+      "lon": "0.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051512",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Pligou",
+      "en": "Pligou",
+      "slug": "pligou-tg051512"
+    },
+    "code": {
+      "id": "TG051512",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0515",
+      "level": 2,
+      "name": {
+        "local": "Tandjoare",
+        "en": "Tandjoare",
+        "slug": "tandjoare-tg0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0515",
+        "level": 2,
+        "name": {
+          "local": "Tandjoare",
+          "en": "Tandjoare",
+          "slug": "tandjoare-tg0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.682",
+      "lon": "0.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051513",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Sangou",
+      "en": "Sangou",
+      "slug": "sangou-tg051513"
+    },
+    "code": {
+      "id": "TG051513",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0515",
+      "level": 2,
+      "name": {
+        "local": "Tandjoare",
+        "en": "Tandjoare",
+        "slug": "tandjoare-tg0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0515",
+        "level": 2,
+        "name": {
+          "local": "Tandjoare",
+          "en": "Tandjoare",
+          "slug": "tandjoare-tg0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.591",
+      "lon": "0.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051514",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Sissiak",
+      "en": "Sissiak",
+      "slug": "sissiak-tg051514"
+    },
+    "code": {
+      "id": "TG051514",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0515",
+      "level": 2,
+      "name": {
+        "local": "Tandjoare",
+        "en": "Tandjoare",
+        "slug": "tandjoare-tg0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0515",
+        "level": 2,
+        "name": {
+          "local": "Tandjoare",
+          "en": "Tandjoare",
+          "slug": "tandjoare-tg0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.746",
+      "lon": "0.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051515",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tamongue",
+      "en": "Tamongue",
+      "slug": "tamongue-tg051515"
+    },
+    "code": {
+      "id": "TG051515",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0515",
+      "level": 2,
+      "name": {
+        "local": "Tandjoare",
+        "en": "Tandjoare",
+        "slug": "tandjoare-tg0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0515",
+        "level": 2,
+        "name": {
+          "local": "Tandjoare",
+          "en": "Tandjoare",
+          "slug": "tandjoare-tg0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.51",
+      "lon": "0.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG051516",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tampialime",
+      "en": "Tampialime",
+      "slug": "tampialime-tg051516"
+    },
+    "code": {
+      "id": "TG051516",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0515",
+      "level": 2,
+      "name": {
+        "local": "Tandjoare",
+        "en": "Tandjoare",
+        "slug": "tandjoare-tg0515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG05",
+        "level": 1,
+        "name": {
+          "local": "Savanes",
+          "en": "Savanes",
+          "slug": "savanes-tg05"
+        }
+      },
+      {
+        "id": "TG0515",
+        "level": 2,
+        "name": {
+          "local": "Tandjoare",
+          "en": "Tandjoare",
+          "slug": "tandjoare-tg0515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.752",
+      "lon": "0.067"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

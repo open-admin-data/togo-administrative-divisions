@@ -1,0 +1,542 @@
+[
+  {
+    "id": "TG010401",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Affem",
+      "en": "Affem",
+      "slug": "affem-tg010401"
+    },
+    "code": {
+      "id": "TG010401",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0104",
+      "level": 2,
+      "name": {
+        "local": "Tchamba",
+        "en": "Tchamba",
+        "slug": "tchamba-tg0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0104",
+        "level": 2,
+        "name": {
+          "local": "Tchamba",
+          "en": "Tchamba",
+          "slug": "tchamba-tg0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.122",
+      "lon": "1.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010402",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Alibi",
+      "en": "Alibi",
+      "slug": "alibi-tg010402"
+    },
+    "code": {
+      "id": "TG010402",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0104",
+      "level": 2,
+      "name": {
+        "local": "Tchamba",
+        "en": "Tchamba",
+        "slug": "tchamba-tg0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0104",
+        "level": 2,
+        "name": {
+          "local": "Tchamba",
+          "en": "Tchamba",
+          "slug": "tchamba-tg0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.813",
+      "lon": "1.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010403",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Bago",
+      "en": "Bago",
+      "slug": "bago-tg010403"
+    },
+    "code": {
+      "id": "TG010403",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0104",
+      "level": 2,
+      "name": {
+        "local": "Tchamba",
+        "en": "Tchamba",
+        "slug": "tchamba-tg0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0104",
+        "level": 2,
+        "name": {
+          "local": "Tchamba",
+          "en": "Tchamba",
+          "slug": "tchamba-tg0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.439",
+      "lon": "1.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010404",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Balanka",
+      "en": "Balanka",
+      "slug": "balanka-tg010404"
+    },
+    "code": {
+      "id": "TG010404",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0104",
+      "level": 2,
+      "name": {
+        "local": "Tchamba",
+        "en": "Tchamba",
+        "slug": "tchamba-tg0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0104",
+        "level": 2,
+        "name": {
+          "local": "Tchamba",
+          "en": "Tchamba",
+          "slug": "tchamba-tg0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.862",
+      "lon": "1.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010405",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Goubi",
+      "en": "Goubi",
+      "slug": "goubi-tg010405"
+    },
+    "code": {
+      "id": "TG010405",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0104",
+      "level": 2,
+      "name": {
+        "local": "Tchamba",
+        "en": "Tchamba",
+        "slug": "tchamba-tg0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0104",
+        "level": 2,
+        "name": {
+          "local": "Tchamba",
+          "en": "Tchamba",
+          "slug": "tchamba-tg0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.63",
+      "lon": "1.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010406",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kaboli",
+      "en": "Kaboli",
+      "slug": "kaboli-tg010406"
+    },
+    "code": {
+      "id": "TG010406",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0104",
+      "level": 2,
+      "name": {
+        "local": "Tchamba",
+        "en": "Tchamba",
+        "slug": "tchamba-tg0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0104",
+        "level": 2,
+        "name": {
+          "local": "Tchamba",
+          "en": "Tchamba",
+          "slug": "tchamba-tg0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.599",
+      "lon": "1.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010407",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Koussountou",
+      "en": "Koussountou",
+      "slug": "koussountou-tg010407"
+    },
+    "code": {
+      "id": "TG010407",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0104",
+      "level": 2,
+      "name": {
+        "local": "Tchamba",
+        "en": "Tchamba",
+        "slug": "tchamba-tg0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0104",
+        "level": 2,
+        "name": {
+          "local": "Tchamba",
+          "en": "Tchamba",
+          "slug": "tchamba-tg0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.847",
+      "lon": "1.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010408",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kri-Kri",
+      "en": "Kri-Kri",
+      "slug": "kri-kri-tg010408"
+    },
+    "code": {
+      "id": "TG010408",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0104",
+      "level": 2,
+      "name": {
+        "local": "Tchamba",
+        "en": "Tchamba",
+        "slug": "tchamba-tg0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0104",
+        "level": 2,
+        "name": {
+          "local": "Tchamba",
+          "en": "Tchamba",
+          "slug": "tchamba-tg0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.206",
+      "lon": "1.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010409",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Larni",
+      "en": "Larni",
+      "slug": "larni-tg010409"
+    },
+    "code": {
+      "id": "TG010409",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0104",
+      "level": 2,
+      "name": {
+        "local": "Tchamba",
+        "en": "Tchamba",
+        "slug": "tchamba-tg0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0104",
+        "level": 2,
+        "name": {
+          "local": "Tchamba",
+          "en": "Tchamba",
+          "slug": "tchamba-tg0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.086",
+      "lon": "1.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG010410",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tchamba",
+      "en": "Tchamba",
+      "slug": "tchamba-tg010410"
+    },
+    "code": {
+      "id": "TG010410",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0104",
+      "level": 2,
+      "name": {
+        "local": "Tchamba",
+        "en": "Tchamba",
+        "slug": "tchamba-tg0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG01",
+        "level": 1,
+        "name": {
+          "local": "Centrale",
+          "en": "Centrale",
+          "slug": "centrale-tg01"
+        }
+      },
+      {
+        "id": "TG0104",
+        "level": 2,
+        "name": {
+          "local": "Tchamba",
+          "en": "Tchamba",
+          "slug": "tchamba-tg0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.992",
+      "lon": "1.455"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

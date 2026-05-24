@@ -1,0 +1,8 @@
+id,name.local,name.en,name.slug,code.id,children_count.canton,geo.lat,geo.lon
+TG0517,Cinkasse,Cinkasse,cinkasse-tg0517,TG0517,8,11.05,0.102
+TG0513,Kpendjal,Kpendjal,kpendjal-tg0513,TG0513,4,10.801,0.701
+TG0518,Naki-Ouest,Naki-Ouest,naki-ouest-tg0518,TG0518,7,10.831,0.45
+TG0514,Oti,Oti,oti-tg0514,TG0514,8,10.406,0.411
+TG0519,Oti-Sud,Oti-Sud,oti-sud-tg0519,TG0519,8,10.288,0.719
+TG0515,Tandjoare,Tandjoare,tandjoare-tg0515,TG0515,16,10.606,0.16
+TG0516,Tone,Tone,tone-tg0516,TG0516,17,10.868,0.169

@@ -1,0 +1,650 @@
+[
+  {
+    "id": "TG030701",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Ahepe",
+      "en": "Ahepe",
+      "slug": "ahepe-tg030701"
+    },
+    "code": {
+      "id": "TG030701",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0307",
+      "level": 2,
+      "name": {
+        "local": "Yoto",
+        "en": "Yoto",
+        "slug": "yoto-tg0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0307",
+        "level": 2,
+        "name": {
+          "local": "Yoto",
+          "en": "Yoto",
+          "slug": "yoto-tg0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.57",
+      "lon": "1.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030702",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Amoussime",
+      "en": "Amoussime",
+      "slug": "amoussime-tg030702"
+    },
+    "code": {
+      "id": "TG030702",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0307",
+      "level": 2,
+      "name": {
+        "local": "Yoto",
+        "en": "Yoto",
+        "slug": "yoto-tg0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0307",
+        "level": 2,
+        "name": {
+          "local": "Yoto",
+          "en": "Yoto",
+          "slug": "yoto-tg0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.638",
+      "lon": "1.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030703",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Esse Godjin",
+      "en": "Esse Godjin",
+      "slug": "esse-godjin-tg030703"
+    },
+    "code": {
+      "id": "TG030703",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0307",
+      "level": 2,
+      "name": {
+        "local": "Yoto",
+        "en": "Yoto",
+        "slug": "yoto-tg0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0307",
+        "level": 2,
+        "name": {
+          "local": "Yoto",
+          "en": "Yoto",
+          "slug": "yoto-tg0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.714",
+      "lon": "1.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030704",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Gboto",
+      "en": "Gboto",
+      "slug": "gboto-tg030704"
+    },
+    "code": {
+      "id": "TG030704",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0307",
+      "level": 2,
+      "name": {
+        "local": "Yoto",
+        "en": "Yoto",
+        "slug": "yoto-tg0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0307",
+        "level": 2,
+        "name": {
+          "local": "Yoto",
+          "en": "Yoto",
+          "slug": "yoto-tg0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.717",
+      "lon": "1.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030705",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kini-Kondji",
+      "en": "Kini-Kondji",
+      "slug": "kini-kondji-tg030705"
+    },
+    "code": {
+      "id": "TG030705",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0307",
+      "level": 2,
+      "name": {
+        "local": "Yoto",
+        "en": "Yoto",
+        "slug": "yoto-tg0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0307",
+        "level": 2,
+        "name": {
+          "local": "Yoto",
+          "en": "Yoto",
+          "slug": "yoto-tg0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.585",
+      "lon": "1.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030706",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kouve",
+      "en": "Kouve",
+      "slug": "kouve-tg030706"
+    },
+    "code": {
+      "id": "TG030706",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0307",
+      "level": 2,
+      "name": {
+        "local": "Yoto",
+        "en": "Yoto",
+        "slug": "yoto-tg0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0307",
+        "level": 2,
+        "name": {
+          "local": "Yoto",
+          "en": "Yoto",
+          "slug": "yoto-tg0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.725",
+      "lon": "1.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030707",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Sedome",
+      "en": "Sedome",
+      "slug": "sedome-tg030707"
+    },
+    "code": {
+      "id": "TG030707",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0307",
+      "level": 2,
+      "name": {
+        "local": "Yoto",
+        "en": "Yoto",
+        "slug": "yoto-tg0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0307",
+        "level": 2,
+        "name": {
+          "local": "Yoto",
+          "en": "Yoto",
+          "slug": "yoto-tg0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.776",
+      "lon": "1.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030708",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tabligbo",
+      "en": "Tabligbo",
+      "slug": "tabligbo-tg030708"
+    },
+    "code": {
+      "id": "TG030708",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0307",
+      "level": 2,
+      "name": {
+        "local": "Yoto",
+        "en": "Yoto",
+        "slug": "yoto-tg0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0307",
+        "level": 2,
+        "name": {
+          "local": "Yoto",
+          "en": "Yoto",
+          "slug": "yoto-tg0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.575",
+      "lon": "1.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030709",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tchekpo",
+      "en": "Tchekpo",
+      "slug": "tchekpo-tg030709"
+    },
+    "code": {
+      "id": "TG030709",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0307",
+      "level": 2,
+      "name": {
+        "local": "Yoto",
+        "en": "Yoto",
+        "slug": "yoto-tg0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0307",
+        "level": 2,
+        "name": {
+          "local": "Yoto",
+          "en": "Yoto",
+          "slug": "yoto-tg0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.523",
+      "lon": "1.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030710",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tokpli",
+      "en": "Tokpli",
+      "slug": "tokpli-tg030710"
+    },
+    "code": {
+      "id": "TG030710",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0307",
+      "level": 2,
+      "name": {
+        "local": "Yoto",
+        "en": "Yoto",
+        "slug": "yoto-tg0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0307",
+        "level": 2,
+        "name": {
+          "local": "Yoto",
+          "en": "Yoto",
+          "slug": "yoto-tg0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.628",
+      "lon": "1.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030711",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tomety-Kondji",
+      "en": "Tomety-Kondji",
+      "slug": "tomety-kondji-tg030711"
+    },
+    "code": {
+      "id": "TG030711",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0307",
+      "level": 2,
+      "name": {
+        "local": "Yoto",
+        "en": "Yoto",
+        "slug": "yoto-tg0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0307",
+        "level": 2,
+        "name": {
+          "local": "Yoto",
+          "en": "Yoto",
+          "slug": "yoto-tg0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.825",
+      "lon": "1.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG030712",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Zafi",
+      "en": "Zafi",
+      "slug": "zafi-tg030712"
+    },
+    "code": {
+      "id": "TG030712",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0307",
+      "level": 2,
+      "name": {
+        "local": "Yoto",
+        "en": "Yoto",
+        "slug": "yoto-tg0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG03",
+        "level": 1,
+        "name": {
+          "local": "Maritime",
+          "en": "Maritime",
+          "slug": "maritime-tg03"
+        }
+      },
+      {
+        "id": "TG0307",
+        "level": 2,
+        "name": {
+          "local": "Yoto",
+          "en": "Yoto",
+          "slug": "yoto-tg0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.71",
+      "lon": "1.292"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

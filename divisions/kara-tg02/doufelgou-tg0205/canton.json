@@ -1,0 +1,758 @@
+[
+  {
+    "id": "TG020501",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Agbandi-Yaka",
+      "en": "Agbandi-Yaka",
+      "slug": "agbandi-yaka-tg020501"
+    },
+    "code": {
+      "id": "TG020501",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0205",
+      "level": 2,
+      "name": {
+        "local": "Doufelgou",
+        "en": "Doufelgou",
+        "slug": "doufelgou-tg0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0205",
+        "level": 2,
+        "name": {
+          "local": "Doufelgou",
+          "en": "Doufelgou",
+          "slug": "doufelgou-tg0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.698",
+      "lon": "1.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020502",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Aloum",
+      "en": "Aloum",
+      "slug": "aloum-tg020502"
+    },
+    "code": {
+      "id": "TG020502",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0205",
+      "level": 2,
+      "name": {
+        "local": "Doufelgou",
+        "en": "Doufelgou",
+        "slug": "doufelgou-tg0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0205",
+        "level": 2,
+        "name": {
+          "local": "Doufelgou",
+          "en": "Doufelgou",
+          "slug": "doufelgou-tg0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.774",
+      "lon": "0.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020503",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Baga",
+      "en": "Baga",
+      "slug": "baga-tg020503"
+    },
+    "code": {
+      "id": "TG020503",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0205",
+      "level": 2,
+      "name": {
+        "local": "Doufelgou",
+        "en": "Doufelgou",
+        "slug": "doufelgou-tg0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0205",
+        "level": 2,
+        "name": {
+          "local": "Doufelgou",
+          "en": "Doufelgou",
+          "slug": "doufelgou-tg0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.805",
+      "lon": "1.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020504",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Defale",
+      "en": "Defale",
+      "slug": "defale-tg020504"
+    },
+    "code": {
+      "id": "TG020504",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0205",
+      "level": 2,
+      "name": {
+        "local": "Doufelgou",
+        "en": "Doufelgou",
+        "slug": "doufelgou-tg0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0205",
+        "level": 2,
+        "name": {
+          "local": "Doufelgou",
+          "en": "Doufelgou",
+          "slug": "doufelgou-tg0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.886",
+      "lon": "1.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020505",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kadjalla",
+      "en": "Kadjalla",
+      "slug": "kadjalla-tg020505"
+    },
+    "code": {
+      "id": "TG020505",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0205",
+      "level": 2,
+      "name": {
+        "local": "Doufelgou",
+        "en": "Doufelgou",
+        "slug": "doufelgou-tg0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0205",
+        "level": 2,
+        "name": {
+          "local": "Doufelgou",
+          "en": "Doufelgou",
+          "slug": "doufelgou-tg0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.803",
+      "lon": "0.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020506",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Koka",
+      "en": "Koka",
+      "slug": "koka-tg020506"
+    },
+    "code": {
+      "id": "TG020506",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0205",
+      "level": 2,
+      "name": {
+        "local": "Doufelgou",
+        "en": "Doufelgou",
+        "slug": "doufelgou-tg0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0205",
+        "level": 2,
+        "name": {
+          "local": "Doufelgou",
+          "en": "Doufelgou",
+          "slug": "doufelgou-tg0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.79",
+      "lon": "1.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020507",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Kpaha",
+      "en": "Kpaha",
+      "slug": "kpaha-tg020507"
+    },
+    "code": {
+      "id": "TG020507",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0205",
+      "level": 2,
+      "name": {
+        "local": "Doufelgou",
+        "en": "Doufelgou",
+        "slug": "doufelgou-tg0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0205",
+        "level": 2,
+        "name": {
+          "local": "Doufelgou",
+          "en": "Doufelgou",
+          "slug": "doufelgou-tg0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.918",
+      "lon": "1.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020508",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Leon",
+      "en": "Leon",
+      "slug": "leon-tg020508"
+    },
+    "code": {
+      "id": "TG020508",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0205",
+      "level": 2,
+      "name": {
+        "local": "Doufelgou",
+        "en": "Doufelgou",
+        "slug": "doufelgou-tg0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0205",
+        "level": 2,
+        "name": {
+          "local": "Doufelgou",
+          "en": "Doufelgou",
+          "slug": "doufelgou-tg0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.686",
+      "lon": "0.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020509",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Massedena",
+      "en": "Massedena",
+      "slug": "massedena-tg020509"
+    },
+    "code": {
+      "id": "TG020509",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0205",
+      "level": 2,
+      "name": {
+        "local": "Doufelgou",
+        "en": "Doufelgou",
+        "slug": "doufelgou-tg0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0205",
+        "level": 2,
+        "name": {
+          "local": "Doufelgou",
+          "en": "Doufelgou",
+          "slug": "doufelgou-tg0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.971",
+      "lon": "1.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020510",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Niamtougou",
+      "en": "Niamtougou",
+      "slug": "niamtougou-tg020510"
+    },
+    "code": {
+      "id": "TG020510",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0205",
+      "level": 2,
+      "name": {
+        "local": "Doufelgou",
+        "en": "Doufelgou",
+        "slug": "doufelgou-tg0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0205",
+        "level": 2,
+        "name": {
+          "local": "Doufelgou",
+          "en": "Doufelgou",
+          "slug": "doufelgou-tg0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.709",
+      "lon": "1.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020511",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Pouda",
+      "en": "Pouda",
+      "slug": "pouda-tg020511"
+    },
+    "code": {
+      "id": "TG020511",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0205",
+      "level": 2,
+      "name": {
+        "local": "Doufelgou",
+        "en": "Doufelgou",
+        "slug": "doufelgou-tg0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0205",
+        "level": 2,
+        "name": {
+          "local": "Doufelgou",
+          "en": "Doufelgou",
+          "slug": "doufelgou-tg0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.905",
+      "lon": "1.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020512",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Siou",
+      "en": "Siou",
+      "slug": "siou-tg020512"
+    },
+    "code": {
+      "id": "TG020512",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0205",
+      "level": 2,
+      "name": {
+        "local": "Doufelgou",
+        "en": "Doufelgou",
+        "slug": "doufelgou-tg0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0205",
+        "level": 2,
+        "name": {
+          "local": "Doufelgou",
+          "en": "Doufelgou",
+          "slug": "doufelgou-tg0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.851",
+      "lon": "1.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020513",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tchore",
+      "en": "Tchore",
+      "slug": "tchore-tg020513"
+    },
+    "code": {
+      "id": "TG020513",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0205",
+      "level": 2,
+      "name": {
+        "local": "Doufelgou",
+        "en": "Doufelgou",
+        "slug": "doufelgou-tg0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0205",
+        "level": 2,
+        "name": {
+          "local": "Doufelgou",
+          "en": "Doufelgou",
+          "slug": "doufelgou-tg0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.844",
+      "lon": "0.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "TG020514",
+    "level": 3,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Tenega",
+      "en": "Tenega",
+      "slug": "tenega-tg020514"
+    },
+    "code": {
+      "id": "TG020514",
+      "iso": null
+    },
+    "parent": {
+      "id": "TG0205",
+      "level": 2,
+      "name": {
+        "local": "Doufelgou",
+        "en": "Doufelgou",
+        "slug": "doufelgou-tg0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "TG02",
+        "level": 1,
+        "name": {
+          "local": "Kara",
+          "en": "Kara",
+          "slug": "kara-tg02"
+        }
+      },
+      {
+        "id": "TG0205",
+        "level": 2,
+        "name": {
+          "local": "Doufelgou",
+          "en": "Doufelgou",
+          "slug": "doufelgou-tg0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.834",
+      "lon": "1.143"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

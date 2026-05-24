@@ -1,0 +1,47 @@
+{
+  "id": "TG0518",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Naki-Ouest",
+    "en": "Naki-Ouest",
+    "slug": "naki-ouest-tg0518"
+  },
+  "code": {
+    "id": "TG0518",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG05",
+    "level": 1,
+    "name": {
+      "local": "Savanes",
+      "en": "Savanes",
+      "slug": "savanes-tg05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG05",
+      "level": 1,
+      "name": {
+        "local": "Savanes",
+        "en": "Savanes",
+        "slug": "savanes-tg05"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.831",
+    "lon": "0.45"
+  },
+  "metadata": {},
+  "source": {}
+}

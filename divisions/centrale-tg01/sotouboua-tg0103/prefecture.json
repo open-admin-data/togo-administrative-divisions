@@ -1,0 +1,47 @@
+{
+  "id": "TG0103",
+  "level": 2,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Sotouboua",
+    "en": "Sotouboua",
+    "slug": "sotouboua-tg0103"
+  },
+  "code": {
+    "id": "TG0103",
+    "iso": null
+  },
+  "parent": {
+    "id": "TG01",
+    "level": 1,
+    "name": {
+      "local": "Centrale",
+      "en": "Centrale",
+      "slug": "centrale-tg01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "TG01",
+      "level": 1,
+      "name": {
+        "local": "Centrale",
+        "en": "Centrale",
+        "slug": "centrale-tg01"
+      }
+    }
+  ],
+  "children_count": {
+    "canton": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.705",
+    "lon": "0.961"
+  },
+  "metadata": {},
+  "source": {}
+}
