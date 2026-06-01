@@ -3,7 +3,7 @@
 > 5 prefectures, 59 cantons
 > Code: TG01
 > Coordinates: 8.614, 1.046
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Prefectures
 

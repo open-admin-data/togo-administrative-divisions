@@ -27,7 +27,11 @@
       "lon": "1.046"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/tg/regions/centrale-tg01/",
+      "api": "https://openadmindata.org/api/tg/"
+    }
   },
   {
     "id": "TG02",
@@ -57,7 +61,11 @@
       "lon": "0.808"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/tg/regions/kara-tg02/",
+      "api": "https://openadmindata.org/api/tg/"
+    }
   },
   {
     "id": "TG03",
@@ -87,7 +95,11 @@
       "lon": "1.21"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/tg/regions/maritime-tg03/",
+      "api": "https://openadmindata.org/api/tg/"
+    }
   },
   {
     "id": "TG04",
@@ -117,7 +129,11 @@
       "lon": "1.095"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/tg/regions/plateaux-tg04/",
+      "api": "https://openadmindata.org/api/tg/"
+    }
   },
   {
     "id": "TG05",
@@ -147,6 +163,10 @@
       "lon": "0.463"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/tg/regions/savanes-tg05/",
+      "api": "https://openadmindata.org/api/tg/"
+    }
   }
 ]

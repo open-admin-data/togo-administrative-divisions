@@ -26,5 +26,9 @@
     "lon": "1.095"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/tg/regions/plateaux-tg04/",
+    "api": "https://openadmindata.org/api/tg/"
+  }
 }

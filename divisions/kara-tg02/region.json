@@ -26,5 +26,9 @@
     "lon": "0.808"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/tg/regions/kara-tg02/",
+    "api": "https://openadmindata.org/api/tg/"
+  }
 }

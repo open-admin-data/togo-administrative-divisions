@@ -26,5 +26,9 @@
     "lon": "1.21"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/tg/regions/maritime-tg03/",
+    "api": "https://openadmindata.org/api/tg/"
+  }
 }
