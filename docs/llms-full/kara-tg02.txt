@@ -3,7 +3,7 @@
 > 7 prefectures, 75 cantons
 > Code: TG02
 > Coordinates: 9.565, 0.808
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Prefectures
 
