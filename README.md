@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/tg](https://openadmindata.org/tg/) |
 | API | [openadmindata.org/api/tg](https://openadmindata.org/api/tg/) |
+| Flag | [PNG](https://onlygames.me/flags-png/tg/) · [SVG](https://onlygames.me/flags-svg/tg/) · [PDF](https://onlygames.me/flags-pdf/tg/) |
 | National Anthem | [🎵 Listen & Download Togo National Anthem MP3](https://onlygames.me/national-anthems/tg/) |
 
 ## Browse by Region
