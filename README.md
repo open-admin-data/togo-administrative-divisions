@@ -12,11 +12,12 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-09-02 |
+| Last Updated | 2026-09-08 |
 | Website | [openadmindata.org/tg](https://openadmindata.org/tg/) |
 | API | [openadmindata.org/api/tg](https://openadmindata.org/api/tg/) |
 | Flag | [PNG](https://onlygames.me/flags-png/tg/) · [CDN](https://www.freeflags.org/cdn/) · [CSS](https://www.freeflags.org/css/) · [Collections](https://www.freeflags.org/collections/) |
 | National Anthem | [🎵 Listen & Download Togo National Anthem MP3](https://onlygames.me/national-anthems/tg/) |
+| Statistics | [GDP](https://nationdata.org/gdp/country/tgo) · [Population](https://nationdata.org/population/country/tgo) — via [NationData.org](https://nationdata.org) |
 
 ## Browse by Region
 
